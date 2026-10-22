@@ -1,0 +1,160 @@
+{
+  "bankFiles": [
+    "curriculum.js",
+    "questions.js",
+    "human-biology-2024-u3.js",
+    "human-biology-2024-u34.js"
+  ],
+  "sources": [
+    {
+      "id": "hcc-electricity-2020",
+      "questionPrefix": "hcc-electricity-2020-",
+      "title": "Test 4 Electricity 2020",
+      "provider": "Holy Cross College",
+      "examYear": 2020,
+      "files": {
+        "exam": [
+          "Test 4 Electricity 1.docx"
+        ],
+        "key": [
+          "Test 4 Electricity 2020 (Solutions).pdf"
+        ]
+      },
+      "batchId": "physics-20261022",
+      "subject": "Physics",
+      "year": 11,
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "hcc-nuclear-2019",
+      "questionPrefix": "hcc-nuclear-2019-",
+      "title": "Test 6 Nuclear Physics 2019",
+      "provider": "Holy Cross College",
+      "examYear": 2019,
+      "files": {
+        "exam": [
+          "Test 6 Nuclear Physics .docx"
+        ],
+        "key": [
+          "Test 6 Nuclear Physics 2019 (Solutions).pdf"
+        ]
+      },
+      "batchId": "physics-20261022",
+      "subject": "Physics",
+      "year": 11,
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "hb2024-u3",
+      "questionPrefix": "hb2024-u3-",
+      "title": "2024 Human Biology Unit 3",
+      "provider": "West Australian Test Papers",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_human_biology_unit_3_exam (1).docx"
+        ],
+        "key": [
+          "2024_human_biology_unit_3_marking_key (1).docx"
+        ]
+      },
+      "batchId": "human-biology-20261022",
+      "subject": "Human Biology",
+      "year": 12,
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "hb2024-u34",
+      "questionPrefix": "hb2024-u34-",
+      "title": "2024 Human Biology Units 3 & 4",
+      "provider": "West Australian Test Papers",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_human_biology_units_3_4_exam (1).docx"
+        ],
+        "key": [
+          "2024_human_biology_units_3_4_marking_guide.docx"
+        ]
+      },
+      "batchId": "human-biology-20261022",
+      "subject": "Human Biology",
+      "year": 12,
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "original-samples",
+      "questionPrefix": "sample-",
+      "title": "Original sample questions",
+      "provider": "ATAR Practice Studio",
+      "examYear": null,
+      "files": {},
+      "batchId": "original-samples",
+      "subject": null,
+      "year": null,
+      "uploadedDate": null
+    }
+  ],
+  "held": [
+    {
+      "id": "hcc-electricity-2020-q2",
+      "sourceId": "hcc-electricity-2020",
+      "originalQuestion": 2,
+      "reason": "99.999% of light speed requires relativistic kinetic energy; supplied key treats 99.999% incorrectly and uses classical kinetic energy. Held for review rather than publishing an invalid Year 11 key."
+    },
+    {
+      "id": "hb2024-u3-q10",
+      "sourceId": "hb2024-u3",
+      "originalQuestion": 10,
+      "reason": "Adenovirus integration answer is scientifically invalid."
+    },
+    {
+      "id": "hb2024-u3-q39",
+      "sourceId": "hb2024-u3",
+      "originalQuestion": 39,
+      "reason": "Hypothalamic dysfunction is incorrectly treated as primary Addison disease."
+    },
+    {
+      "id": "hb2024-u34-q10",
+      "sourceId": "hb2024-u34",
+      "originalQuestion": 10,
+      "reason": "Species reclassification premise conflicts with the stated interbreeding evidence."
+    },
+    {
+      "id": "hb2024-u34-q12",
+      "sourceId": "hb2024-u34",
+      "originalQuestion": 12,
+      "reason": "The keyed hypothesis is not uniquely invalid."
+    },
+    {
+      "id": "hb2024-u34-q26",
+      "sourceId": "hb2024-u34",
+      "originalQuestion": 26,
+      "reason": "Exam and key options differ, with no unambiguous correct exam option."
+    },
+    {
+      "id": "hb2024-u34-q38",
+      "sourceId": "hb2024-u34",
+      "originalQuestion": 38,
+      "reason": "Aldosterone control is incorrectly attributed to the hypothalamic\u2013pituitary pathway."
+    }
+  ],
+  "batches": [
+    {
+      "id": "physics-20261022",
+      "label": "Electricity and Nuclear Physics tests",
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "human-biology-20261022",
+      "label": "Two Human Biology exams and marking keys",
+      "uploadedDate": "2026-10-22"
+    },
+    {
+      "id": "original-samples",
+      "label": "Original demonstration questions",
+      "uploadedDate": null
+    }
+  ],
+  "createdDate": "2026-10-23"
+}
