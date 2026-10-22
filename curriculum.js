@@ -54,3 +54,11 @@ const broadLabels={
 for(const subject of window.CURRICULUM)for(const units of Object.values(subject.years))for(const unit of units){
  const seen=new Set();unit[2]=unit[2].flatMap(([id,label])=>{id=window.TOPIC_GROUPS[id]||id;if(seen.has(id))return [];seen.add(id);return [[id,broadLabels[id]||label]]});
 }
+
+// Verified public Step Up In Education chapter headings (23 October 2026).
+// https://www.stepupineducation.com/subjects/my-subjects/physics-unit-1-and-2/
+Object.assign(window.TOPIC_GROUPS,{'p11-motion':'p11-motion','p11-momentum':'p11-motion','p11-energy':'p11-thermal','p11-thermal':'p11-thermal'});
+const stepUpPhysics=window.CURRICULUM.find(s=>s.subject==='Physics');
+stepUpPhysics.years[11][0][2]=[['p11-motion','Motion and Forces'],['p11-thermal','Mechanical and Thermal Energy']];
+stepUpPhysics.years[11][1][2]=[['p11-waves','Waves'],['p11-nuclear','Ionising Radiation and Nuclear Reactions'],['p11-electric','Electrical Forces and Energy']];
+stepUpPhysics.topicSource={11:{label:'Step Up In Education chapter headings',url:'https://www.stepupineducation.com/subjects/my-subjects/physics-unit-1-and-2/'}};
