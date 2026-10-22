@@ -26,3 +26,31 @@ window.CURRICULUM = [
 [3,'Memory and learning',[['s12-memory','Memory, attention and forgetting'],['s12-learning','Learning theories'],['s12-inquiry','Science inquiry and research methods']]],
 [4,'Psychology of motivation, wellbeing and health',[['s12-motivation','Motivation and wellbeing'],['s12-stress','Stress and coping'],['s12-sleep','Sleep and health']]]]}}
 ];
+
+// Broad topic groups retain existing question IDs and progress.
+window.TOPIC_GROUPS = {
+ 'p11-momentum':'p11-motion','p11-energy':'p11-motion',
+ 'p12-circle':'p12-static','p12-gravity':'p12-static','p12-induction':'p12-em','p12-universe':'p12-quantum',
+ 'c11-bonding':'c11-atomic','c11-moles':'c11-reactions','c11-solutions':'c11-gases',
+ 'c12-organic-reactions':'c12-organic','c12-synthesis':'c12-organic',
+ 'b11-conservation':'b11-ecosystems','b11-metabolism':'b11-cells',
+ 'b12-speciation':'b12-evolution','b12-immunity':'b12-disease',
+ 'h11-division':'h11-inheritance','h12-nervous':'h12-homeostasis','h12-human':'h12-evidence',
+ 's11-stereotypes':'s11-attitudes','s12-stress':'s12-motivation','s12-sleep':'s12-motivation'
+};
+const broadLabels={
+ 'p11-motion':'Mechanics','p11-thermal':'Thermal physics','p11-waves':'Waves','p11-nuclear':'Nuclear physics','p11-electric':'Electricity',
+ 'p12-static':'Mechanics and gravity','p12-relativity':'Relativity','p12-em':'Electromagnetism','p12-quantum':'Modern physics',
+ 'c11-atomic':'Atomic structure and bonding','c11-reactions':'Chemical reactions','c11-gases':'Molecular interactions','c11-acids':'Acids and bases','c11-rates':'Reaction rates',
+ 'c12-equilibrium':'Equilibrium','c12-acids':'Acids and bases','c12-redox':'Redox','c12-organic':'Organic chemistry',
+ 'b11-diversity':'Biodiversity','b11-ecosystems':'Ecology','b11-cells':'Cell biology','b11-systems':'Body systems',
+ 'b12-dna':'Genetics','b12-evolution':'Evolution','b12-homeostasis':'Homeostasis','b12-disease':'Disease and immunity',
+ 'h11-cells':'Cell biology','h11-digestion':'Digestion','h11-transport':'Respiration and circulation','h11-excretion':'Excretion',
+ 'h11-reproduction':'Reproduction','h11-inheritance':'Genetics',
+ 'h12-homeostasis':'Homeostasis','h12-disease':'Disease and immunity','h12-variation':'Genetics','h12-evidence':'Evolution',
+ 's11-biological':'Biological psychology','s11-lifespan':'Development','s11-inquiry':'Research methods','s11-attitudes':'Attitudes and stereotypes','s11-social':'Social influence',
+ 's12-memory':'Memory','s12-learning':'Learning','s12-inquiry':'Research methods','s12-motivation':'Motivation, wellbeing and health'
+};
+for(const subject of window.CURRICULUM)for(const units of Object.values(subject.years))for(const unit of units){
+ const seen=new Set();unit[2]=unit[2].flatMap(([id,label])=>{id=window.TOPIC_GROUPS[id]||id;if(seen.has(id))return [];seen.add(id);return [[id,broadLabels[id]||label]]});
+}
