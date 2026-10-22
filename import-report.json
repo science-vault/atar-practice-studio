@@ -1,0 +1,27 @@
+{
+  "importedQuestions": 14,
+  "importedParts": 33,
+  "importedMarks": 78,
+  "sourceQuestions": 15,
+  "held": [
+    {
+      "source": "Electricity 2020 Q2",
+      "reason": "99.999% of light speed requires relativistic kinetic energy; supplied key treats 99.999% incorrectly and uses classical kinetic energy. Held for review rather than publishing an invalid Year 11 key."
+    }
+  ],
+  "corrections": [
+    "Electricity Q1(b): 3.60 × 10³ A, not 3.64 × 10³ A.",
+    "Electricity Q4: 1.97 × 10⁶ J using 30.0 h.",
+    "Electricity Q8: adapted wording and key to distinguish RCD personal protection from fuse/circuit-breaker overcurrent protection.",
+    "Nuclear Q3(b): retain precision, 255 s⁻¹; allow key rounding near 256.",
+    "Nuclear Q4: 8.04 MeV per nucleon without early rounding; accept key 8.05.",
+    "Nuclear Q7(c): critical mass sustains a chain reaction; not necessarily uncontrolled."
+  ],
+  "marking": "Original question mark allocations retained; criteria transcribed or clarified for self-assessment.",
+  "sources": [
+    "Test 4 Electricity 1.docx",
+    "Test 4 Electricity 2020 (Solutions).pdf",
+    "Test 6 Nuclear Physics .docx",
+    "Test 6 Nuclear Physics 2019 (Solutions).pdf"
+  ]
+}
