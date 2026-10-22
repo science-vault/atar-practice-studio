@@ -1,0 +1,52 @@
+{
+  "sources": [
+    "2024 Human Biology Unit 3 exam and marking key",
+    "2024 Human Biology Units 3 & 4 exam and marking guide"
+  ],
+  "questions": 76,
+  "parts": 151,
+  "marks": 392,
+  "held": [
+    {
+      "exam": "u3",
+      "question": 10,
+      "reason": "Adenovirus integration answer is scientifically invalid."
+    },
+    {
+      "exam": "u3",
+      "question": 39,
+      "reason": "Hypothalamic dysfunction is incorrectly treated as primary Addison disease."
+    },
+    {
+      "exam": "u34",
+      "question": 10,
+      "reason": "Species reclassification premise conflicts with the stated interbreeding evidence."
+    },
+    {
+      "exam": "u34",
+      "question": 12,
+      "reason": "The keyed hypothesis is not uniquely invalid."
+    },
+    {
+      "exam": "u34",
+      "question": 26,
+      "reason": "Exam and key options differ, with no unambiguous correct exam option."
+    },
+    {
+      "exam": "u34",
+      "question": 38,
+      "reason": "Aldosterone control is incorrectly attributed to the hypothalamic\u2013pituitary pathway."
+    }
+  ],
+  "notes": [
+    "Original source attribution retained. Labelled diagrams cropped from rendered exams. Shared MCQ stimuli repeated where required.",
+    "Repeated part labels made unique. Unit 3 Q36(b) retains the four-mark prompt allocation despite the key total typo.",
+    "Unit 3 Q20 clarifies antibody-containing tetanus immunoglobulin. Q32 corrects maternal antibody explanation and supplies graph criteria. Q38 corrects meninges description. Q40 corrects T-cell lineage description.",
+    "Units 3&4 Q31 removes unsupported earliest-tool-maker claim. Q32 clarifies acetylcholine question. Q33 corrects autonomic/automatic terminology. Q35 states the simplifying DNA comparison assumption. Q36 replaces invalid T-cell mg/mL units with arbitrary units, preserving numbers. Q37 clarifies diabetes risk, inheritance and laboratory-method explanations. Q40 corrects selection pressure explanation. Q41 corrects frameshift and sickle-cell trait explanations."
+  ],
+  "verificationSources": [
+    "https://immunisationhandbook.health.gov.au/recommendations/children-aged-12-months-are-recommended-to-receive-2-doses-of-measles-containing-vaccine",
+    "https://medlineplus.gov/genetics/understanding/therapy/procedures/",
+    "https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease/treatment"
+  ]
+}
