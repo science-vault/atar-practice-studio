@@ -1,5 +1,5 @@
 {
-  "checkedQuestions": 418,
+  "checkedQuestions": 607,
   "method": "Normalised original prompt and response content; ignores option order, source labels and formatting. Near-match candidates require diagram/stimulus review.",
   "candidates": [
     {
@@ -46,6 +46,15 @@
       "similarity": 0.9868,
       "exactText": false,
       "decision": "keep_distinct: Different labelled cells A and B in the shared immune-response diagram."
+    },
+    {
+      "questions": [
+        "hb2020-u12-q8",
+        "hb2021-u12-q8"
+      ],
+      "similarity": 0.9699,
+      "exactText": false,
+      "decision": "keep_distinct: Recipient blood group is O versus A; compatible donor groups and keyed answers differ."
     }
   ],
   "excludedRepeats": [

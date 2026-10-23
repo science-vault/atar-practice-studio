@@ -2094,3 +2094,6 @@ window.SUBTOPICS['h12-homeostasis-s4']={id:'h12-homeostasis-s4',label:'Homeostas
 window.SUBTOPICS['h12-mixed-s1']={id:'h12-mixed-s1',label:'Scientific Inquiry and Data Skills',topicId:'h12-mixed',subject:'Human Biology',year:12,unit:0};
 
 window.QUESTION_TYPES.multipart='Multipart';
+
+for(const unit of window.CURRICULUM.find(s=>s.subject==='Human Biology').years[11])for(const topic of unit[2])if(topic[0]==='h11-mixed')topic[2].push('Scientific Inquiry and Data Skills');
+window.SUBTOPICS['h11-mixed-s1']={id:'h11-mixed-s1',label:'Scientific Inquiry and Data Skills',topicId:'h11-mixed',subject:'Human Biology',year:11,unit:0};

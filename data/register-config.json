@@ -4,7 +4,8 @@
     "questions.js",
     "human-biology-2024-u3.js",
     "human-biology-2024-u34.js",
-    "human-biology-2020-2023.js"
+    "human-biology-2020-2023.js",
+    "human-biology-year11-2020-2023.js"
   ],
   "sources": [
     {
@@ -278,6 +279,121 @@
       "subject": "Human Biology",
       "year": 12,
       "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "hb2020-u1",
+      "questionPrefix": "hb2020-u1-",
+      "title": "2020 Human Biology Unit 1",
+      "provider": "West Australian Test Papers",
+      "examYear": 2020,
+      "files": {
+        "exam": [
+          "2020_hum_biol_unit_1.docx"
+        ],
+        "key": [
+          "2020_hum_biol_unit_1_solutions.docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_hum_biol_unit_1.docx": "67394e671f5d5cfa3c71b35145474dedaa97ab12d855c44f2309fbbaf35d4720",
+        "2020_hum_biol_unit_1_solutions.docx": "a82498f18bcfc30fed59527d5d08f7c99083dcf7c09e6f6e2311db626a00e466"
+      },
+      "batchId": "human-biology-year11-20261023",
+      "subject": "Human Biology",
+      "year": 11,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "hb2020-u12",
+      "questionPrefix": "hb2020-u12-",
+      "title": "2020 Human Biology Units 1 & 2",
+      "provider": "West Australian Test Papers",
+      "examYear": 2020,
+      "files": {
+        "exam": [
+          "2020_hum_biol_units_12.docx"
+        ],
+        "key": [
+          "2020_hum_biol_units12_marking_key.docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_hum_biol_units_12.docx": "37676e6206060861ae64c5faaafd0389ca1012f250919c5285951c18c78f292d",
+        "2020_hum_biol_units12_marking_key.docx": "63e194ca2c292625b19146871eccb3aec4ee26c0a0f375d210747968bf29bb3e"
+      },
+      "batchId": "human-biology-year11-20261023",
+      "subject": "Human Biology",
+      "year": 11,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "hb2021-u12",
+      "questionPrefix": "hb2021-u12-",
+      "title": "2021 Human Biology Units 1 & 2",
+      "provider": "West Australian Test Papers",
+      "examYear": 2021,
+      "files": {
+        "exam": [
+          "2021_AEHBY_Semester_Two_Exam.pdf"
+        ],
+        "key": [
+          "2021_AEHBY_Semester_Two_Exam_KEY.pdf"
+        ]
+      },
+      "fileHashes": {
+        "2021_AEHBY_Semester_Two_Exam.pdf": "d89ee6d6098055302d757abe3287294dcf4751bd565fc18f3e82775004722f40",
+        "2021_AEHBY_Semester_Two_Exam_KEY.pdf": "9d780351fb6919b54f7a8b4000870c92d75c85a6a1a88139ba2dae58cb35d00e"
+      },
+      "batchId": "human-biology-year11-20261023",
+      "subject": "Human Biology",
+      "year": 11,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "hb2022-u12",
+      "questionPrefix": "hb2022-u12-",
+      "title": "2022 Human Biology Units 1 & 2",
+      "provider": "West Australian Test Papers",
+      "examYear": 2022,
+      "files": {
+        "exam": [
+          "2022_human_biology_units_1_2_exam.docx"
+        ],
+        "key": [
+          "2022_human_biology_units_1_2_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_human_biology_units_1_2_exam.docx": "22cbaefcf66a26e525fa2d7c3ac2d5a0e5b77edbb430863c2d600f629bab68f9",
+        "2022_human_biology_units_1_2_marking_guide.docx": "c9663838d15584e6b9224d9516702b3550b1128870b92168c8e79fa886b3ef7e"
+      },
+      "batchId": "human-biology-year11-20261023",
+      "subject": "Human Biology",
+      "year": 11,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "hb2023-u1",
+      "questionPrefix": "hb2023-u1-",
+      "title": "2023 Human Biology Unit 1",
+      "provider": "West Australian Test Papers",
+      "examYear": 2023,
+      "files": {
+        "exam": [
+          "2023_hbl_unit_1_exam.docx"
+        ],
+        "key": [
+          "2023_hbl_unit_1_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_hbl_unit_1_exam.docx": "139348c9943664f19b89da719095af73b0a8053a62632cc9b674d6d26807d247",
+        "2023_hbl_unit_1_marking_guide.docx": "81d32effb3def42580e86531b1a391b22d7f45134dcb87caa744f08ea0cd436d"
+      },
+      "batchId": "human-biology-year11-20261023",
+      "subject": "Human Biology",
+      "year": 11,
+      "uploadedDate": "2026-10-23"
     }
   ],
   "held": [
@@ -373,6 +489,108 @@
       "sourceId": "hb2023-u34",
       "originalQuestion": 26,
       "reason": "Both mitotic non-disjunction and association with Klinefelter syndrome can be correct; source has more than one defensible option."
+    },
+    {
+      "id": "hb2020-u1-q2",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 2,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q8",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 8,
+      "reason": "Both the small intestine/kidneys and large intestine/kidneys absorb or reabsorb water; more than one option is defensible."
+    },
+    {
+      "id": "hb2020-u1-q9",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 9,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q11",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 11,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q15",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 15,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q16",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 16,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q21",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 21,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q25",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 25,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q32",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 32,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q33",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 33,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q34",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 34,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q35",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 35,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q36",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 36,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q37",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 37,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2021-u12-q4",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 4,
+      "reason": "All listed organs have excretory roles, including the liver; the keyed exception needs source review."
+    },
+    {
+      "id": "hb2021-u12-q21",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 21,
+      "reason": "Several listed contraceptive methods can prevent fertilisation; the source offers more than one defensible pair."
+    },
+    {
+      "id": "hb2021-u12-q28",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 28,
+      "reason": "The objective lens is stated as 10× both before and after the change, but no unchanged field-of-view option is offered."
     }
   ],
   "batches": [
@@ -395,6 +613,11 @@
       "id": "human-biology-2020-2023-20261023",
       "label": "Human Biology 2020–2023 · Eight exam/key pairs",
       "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "human-biology-year11-20261023",
+      "label": "Year 11 Human Biology 2020–2023 · Five exam/key pairs",
+      "uploadedDate": "2026-10-23"
     }
   ],
   "createdDate": "2026-10-23",
@@ -403,6 +626,7 @@
     "hb2022-u3-q5|hb2022-u3-q6": "keep_distinct: Independent variable versus dependent variable; different answers.",
     "hb2022-u3-q14|hb2022-u3-q15": "keep_distinct: Speed versus duration of hormonal action.",
     "hb2023-u3-q21|hb2023-u3-q22": "keep_distinct: Different labelled cells A and B in the shared immune-response diagram.",
-    "hb2024-u3-q14|hb2024-u3-q15": "keep_distinct: Shared temperature table, but immunity inference versus calculation of highest mean temperature."
+    "hb2024-u3-q14|hb2024-u3-q15": "keep_distinct: Shared temperature table, but immunity inference versus calculation of highest mean temperature.",
+    "hb2020-u12-q8|hb2021-u12-q8": "keep_distinct: Recipient blood group is O versus A; compatible donor groups and keyed answers differ."
   }
 }

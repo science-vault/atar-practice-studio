@@ -7,7 +7,7 @@
   "parts": 616,
   "excludedRepeats": 3,
   "heldForSourceReview": 5,
-  "layout": "Original question excerpts with native response fields; original marking-key excerpts revealed for self-assessment.",
+  "layout": "Typed questions, native tables and separate necessary figures. Original marking keys are optional links after reveal.",
   "sources": [
     {
       "sourceId": "hb2020-u3",
@@ -209,5 +209,6 @@
         }
       ]
     }
-  ]
+  ],
+  "layoutCorrected": "2026-10-23"
 }

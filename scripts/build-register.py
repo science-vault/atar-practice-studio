@@ -19,7 +19,7 @@ for q in d['questions']:
  if re.search(r'Question number\s*:\s*_{3,}',q['stem'],re.I):raise ValueError('Spare answer-page placeholder in '+q['id'])
  source=next((s for s in cfg['sources'] if q['id'].startswith(s['questionPrefix'])),None)
  if not source:raise ValueError('Missing source for '+q['id'])
- content={'stem':q.get('originalStem',q['stem']),'parts':[{k:p.get(k) for k in ['id','prompt','type','options','marks']} for p in q['parts']],'tables':q.get('tables',[]),'images':q.get('images',[])}
+ content={'stem':q.get('originalStem',q['stem']),'parts':[{k:p.get(k) for k in ['id','prompt','type','options','marks','tables']} for p in q['parts']],'tables':q.get('tables',[]),'images':q.get('images',[])}
  fingerprint=hashlib.sha256(re.sub(r'\s+',' ',json.dumps(content,sort_keys=True,ensure_ascii=False)).encode()).hexdigest()
  if q['id'] in seen:raise ValueError('Duplicate question ID '+q['id'])
  seen[q['id']]=fingerprint

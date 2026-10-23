@@ -1,0 +1,125 @@
+{
+  "batch": "Year 11 Human Biology 2020–2023",
+  "date": "2026-10-23",
+  "examKeyPairs": 5,
+  "suppliedQuestions": 206,
+  "published": 189,
+  "parts": 343,
+  "held": [
+    {
+      "id": "hb2020-u1-q2",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 2,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q8",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 8,
+      "reason": "Both the small intestine/kidneys and large intestine/kidneys absorb or reabsorb water; more than one option is defensible."
+    },
+    {
+      "id": "hb2020-u1-q9",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 9,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q11",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 11,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q15",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 15,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q16",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 16,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q21",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 21,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q25",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 25,
+      "reason": "The supplied solutions use a different question at this number and no matching keyed question was found."
+    },
+    {
+      "id": "hb2020-u1-q32",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 32,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q33",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 33,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q34",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 34,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q35",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 35,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q36",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 36,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2020-u1-q37",
+      "sourceId": "hb2020-u1",
+      "originalQuestion": 37,
+      "reason": "The supplied solutions are from a different version: one or more assessed parts are missing or use different prompts. A matching key is required."
+    },
+    {
+      "id": "hb2021-u12-q4",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 4,
+      "reason": "All listed organs have excretory roles, including the liver; the keyed exception needs source review."
+    },
+    {
+      "id": "hb2021-u12-q21",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 21,
+      "reason": "Several listed contraceptive methods can prevent fertilisation; the source offers more than one defensible pair."
+    },
+    {
+      "id": "hb2021-u12-q28",
+      "sourceId": "hb2021-u12",
+      "originalQuestion": 28,
+      "reason": "The objective lens is stated as 10× both before and after the change, but no unchanged field-of-view option is offered."
+    }
+  ],
+  "keyQuestionRemaps": [
+    {
+      "exam": "2020 Unit 1",
+      "examQuestion": 22,
+      "keyQuestion": 23
+    },
+    {
+      "exam": "2020 Unit 1",
+      "examQuestion": 23,
+      "keyQuestion": 22
+    }
+  ],
+  "layout": "Typed questions, native tables and separate necessary figures. Original marking keys are optional links after reveal."
+}

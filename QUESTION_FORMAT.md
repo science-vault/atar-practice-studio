@@ -24,7 +24,9 @@ Kinds: multiple_choice, short_answer, calculation, extended_response, graphing, 
 
 The SQLite register includes question_parts, subtopics, question_subtopics, part_subtopics and part_types for future filtering by topic, subtopic, format, skill, mark total, time and source. Held questions have unclassified metadata and must be excluded from paper building until reviewed. The register build rejects published questions lacking classification metadata.
 
-### Original layout excerpts
-For complex supplied Word layouts, `images` may retain the complete original question with `layout: "original"`. These display at full player width; do not constrain long question excerpts to the diagram thumbnail height. `keyImages` contains the complete supplied marking-key excerpt and is displayed once after reveal. Keep native response fields, part marks, searchable transcription in `searchText`, and all classification metadata. Do not reveal keyImages before the learner answers.
+### Typed questions and necessary visual assets
+Render the question wording, answer choices and tables as native text. Retain original diagrams, graphs, photos and their labels as separate visual assets. Do not include screenshots of entire questions or duplicate typed questions/options within images. Keep multipart prompts, original order, marks and classification metadata. `originalStem` supports duplicate checks; `searchText` supports search.
 
-For original-layout entries, `originalStem` stores the native stem independently of the display introduction and `searchText` provides searchable transcription. The duplicate audit uses original prompt/option content instead of source names or asset filenames. `additionalSources` records repeated source occurrences, while excluded repeat rows use `duplicateOf` in the provenance register.
+`keyResources` can link to a supplied marking-key excerpt when complex diagrams or marking tables cannot be faithfully represented in native text. These references appear only after reveal, separately from the question body. Native key text remains in `parts[].solution`.
+
+`additionalSources` records repeated source occurrences; excluded repeat rows use `duplicateOf` in the provenance register.
