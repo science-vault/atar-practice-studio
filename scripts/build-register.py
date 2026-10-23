@@ -12,6 +12,7 @@ d=json.loads(subprocess.check_output(['node','-e',js],cwd=R));topics={t[0]:t[1] 
 p=R/'data/question-register.json'
 if p.exists():old={q['id']:q for q in json.loads(p.read_text())['questions']}
 for q in d['questions']:
+ if re.search(r'Question number\s*:\s*_{3,}',q['stem'],re.I):raise ValueError('Spare answer-page placeholder in '+q['id'])
  source=next((s for s in cfg['sources'] if q['id'].startswith(s['questionPrefix'])),None)
  if not source:raise ValueError('Missing source for '+q['id'])
  content={'stem':q['stem'],'parts':[{k:p.get(k) for k in ['id','prompt','type','options','marks']} for p in q['parts']],'tables':q.get('tables',[]),'images':q.get('images',[])}

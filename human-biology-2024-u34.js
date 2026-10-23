@@ -1443,7 +1443,7 @@ window.QUESTION_BANK.push(...[
     "title": "2024 Units 3 & 4 · Question 39",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q39",
     "sample": false,
-    "stem": "A toxin produced by diphtheria, a bacterial disease, can be used in mice to kill B cells in order to study treatments for autoimmune diseases.\n\nQuestion number: ________________\n\nQuestion number: ________________\n\nQuestion number: ________________\n\nQuestion number: ________________\n\nQuestion number: ________________",
+    "stem": "A toxin produced by diphtheria, a bacterial disease, can be used in mice to kill B cells in order to study treatments for autoimmune diseases.",
     "parts": [
       {
         "id": "a",
