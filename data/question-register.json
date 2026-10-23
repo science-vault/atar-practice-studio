@@ -388,6 +388,213 @@
       "subject": "Human Biology",
       "year": 11,
       "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2020-u3",
+      "questionPrefix": "phy2020-u3-",
+      "title": "Physics Unit 3 examination 2020",
+      "provider": "WATP",
+      "examYear": 2020,
+      "files": {
+        "exam": [
+          "2020_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2020_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_physics_unit_3_exam.docx": "79805c864a691736c65ae2983389c4e1ec4d5265e840449229feafa0a919add2",
+        "2020_physics_unit_3_marking_guide.docx": "43cd2f3f9286a2796a46718723363426404a0e09fecdcff1918fefdf12f06789"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2021-u3",
+      "questionPrefix": "phy2021-u3-",
+      "title": "Physics Unit 3 examination 2021",
+      "provider": "Supplied Physics examination",
+      "examYear": 2021,
+      "files": {
+        "exam": [
+          "2021_unit_3_exam.docx"
+        ],
+        "key": [
+          "2021_physics_unit_3_exam_marking_key.docx"
+        ]
+      },
+      "fileHashes": {
+        "2021_unit_3_exam.docx": "976981c5342b20d348b6d5ee4bbccd18e8d6f6900070ace9b7a2fdc60f7cf385",
+        "2021_physics_unit_3_exam_marking_key.docx": "822e4a39a23b3f7b6c78da528d382bce0fcdc98012f099b23d34b06abd1ffaec"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2021-u34",
+      "questionPrefix": "phy2021-u34-",
+      "title": "Physics Units 3 & 4 examination 2021",
+      "provider": "Supplied Physics examination",
+      "examYear": 2021,
+      "files": {
+        "exam": [
+          "2021_physics_units_3_4_exam.docx"
+        ],
+        "key": [
+          "2021_physics_units_3_4_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2021_physics_units_3_4_exam.docx": "8a92ef0d94734763ea8ac80e7efe394388c999c7ccc72fcee4b301296e64984d",
+        "2021_physics_units_3_4_marking_guide.docx": "9d311673eb5e6fc876ba54d2f363333aebcb4c230494736ca3ea0682693843d7"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2022-u3",
+      "questionPrefix": "phy2022-u3-",
+      "title": "Physics Unit 3 examination 2022",
+      "provider": "Supplied Physics examination",
+      "examYear": 2022,
+      "files": {
+        "exam": [
+          "2022_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2022_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_physics_unit_3_exam.docx": "60cc5152bfd62c520d271bbe51093cda48e74ba028ea6fc9316233b7223eb944",
+        "2022_physics_unit_3_marking_guide.docx": "5bb01f63f4a0ee7aacc3e9ec8a9bbf65b3c698362974e5af37e6442c7426317b"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2022-u34",
+      "questionPrefix": "phy2022-u34-",
+      "title": "Physics Units 3 & 4 examination 2022",
+      "provider": "Supplied Physics examination",
+      "examYear": 2022,
+      "files": {
+        "exam": [
+          "2022_physics_units_34_exam.docx"
+        ],
+        "key": [
+          "2022_physics_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_physics_units_34_exam.docx": "565ebdfc1ab18aa65fd9aafa8b54f24ea8b90b4c8a766a050e27887652d5fece",
+        "2022_physics_units_34_marking_guide.docx": "fc82b284e284f79f27d79821b2725c37dd7c815e14c0827f91e72b270f6fc148"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2023-u3",
+      "questionPrefix": "phy2023-u3-",
+      "title": "Physics Unit 3 examination 2023",
+      "provider": "Supplied Physics examination",
+      "examYear": 2023,
+      "files": {
+        "exam": [
+          "2023_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2023_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_physics_unit_3_exam.docx": "0f06b7d0cca20e1e569a2d57c6238b5fcbf28120b5e2c856573d6aee71d98609",
+        "2023_physics_unit_3_marking_guide.docx": "05dd6fdcabb23996ead5c02d91670ed4a23ab1869832700d9b054d4c596c4b02"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2023-u34",
+      "questionPrefix": "phy2023-u34-",
+      "title": "Physics Units 3 & 4 examination 2023",
+      "provider": "Supplied Physics examination",
+      "examYear": 2023,
+      "files": {
+        "exam": [
+          "2023_physics_units_34_exam (1).docx"
+        ],
+        "key": [
+          "2023_physics_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_physics_units_34_exam (1).docx": "f77d4ef5b62e08cb45de8035657f3e4d289a64f47fdbfef89ce05e56b8a2f42d",
+        "2023_physics_units_34_marking_guide.docx": "a5df8121b44a831f68caf75ed2cc3d6cea1d98cc947a8064b1f4d898efb95daa"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2024-u3",
+      "questionPrefix": "phy2024-u3-",
+      "title": "Physics Unit 3 examination 2024",
+      "provider": "Supplied Physics examination",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_physics_units_3_exam(1).docx"
+        ],
+        "key": [
+          "2024_physics_units_3_marking_guide (1)(1).docx"
+        ]
+      },
+      "fileHashes": {
+        "2024_physics_units_3_exam(1).docx": "e86bfa5e0530c319cd87a03800f7f1afdb7499243cfe6b7e1df3ca9eb27e6d19",
+        "2024_physics_units_3_marking_guide (1)(1).docx": "5d8ef9cd6fc2806234ca1293211a3ea4a994bfbce514bcf1e4a868ffb20a4970"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2024-u34",
+      "questionPrefix": "phy2024-u34-",
+      "title": "Physics Units 3 & 4 examination 2024",
+      "provider": "Supplied Physics examination",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_physics_units_34_exam (1)(1).docx"
+        ],
+        "key": [
+          "2024_physics_units_34_marking_guide (4)(1).docx"
+        ]
+      },
+      "fileHashes": {
+        "2024_physics_units_34_exam (1)(1).docx": "899aaf36bccdad0731cc10eb2a2db17b7b3dd7572f512260dee6a94ab8797695",
+        "2024_physics_units_34_marking_guide (4)(1).docx": "693b6c353355454ff9f7ab392541da0bfbb8b1fcdcc3e97a5331c6e7682523cd"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
     }
   ],
   "batches": [
@@ -414,6 +621,11 @@
     {
       "id": "human-biology-year11-20261023",
       "label": "Year 11 Human Biology 2020–2023 · Five exam/key pairs",
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "physics-exams-20261023",
+      "label": "Physics examinations 2020–2024 · Nine exam/key pairs",
       "uploadedDate": "2026-10-23"
     }
   ],
@@ -19843,6 +20055,358 @@
       "bankFile": "human-biology-year11-2020-2023.js"
     },
     {
+      "id": "phy2020-u3-q1",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 1,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 4,
+      "topic": "Electromagnetism",
+      "topicId": "p12-em",
+      "title": "Changing charges and separation",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "single",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-em-s1",
+      "subtopics": "Electric Fields and Forces",
+      "coveredTopics": "Electromagnetism",
+      "units": "4",
+      "parts": 1,
+      "marks": 3,
+      "minutes": 3,
+      "images": 0,
+      "hasMarkingKey": true,
+      "fingerprint": "ea9c1080c5787e50a528c3bc5aad05a7dd3a9dcafbf7baa0ec7cc6681fe2dca2",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q2",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 2,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "Comparing planetary gravitational fields",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "single",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-static-s1",
+      "subtopics": "Gravitational Fields and Forces",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 1,
+      "marks": 5,
+      "minutes": 5,
+      "images": 0,
+      "hasMarkingKey": true,
+      "fingerprint": "f655578b184a9f70c09a8b2dc6ac75071bc5d13d20e322642dc5a70700bdad84",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q5",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 5,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 4,
+      "topic": "Electromagnetism",
+      "topicId": "p12-em",
+      "title": "Electric field lines between point charges",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; diagram; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-em-s1",
+      "subtopics": "Electric Fields and Forces",
+      "coveredTopics": "Electromagnetism",
+      "units": "4",
+      "parts": 2,
+      "marks": 5,
+      "minutes": 5,
+      "images": 1,
+      "hasMarkingKey": true,
+      "fingerprint": "002c91e08adab084393a165259beeac713019fcfb30db52dfdb5e2322a8d072c",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q6",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 6,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "A beam supporting a sign",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "calculation; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-static-s8",
+      "subtopics": "Static Equilibrium",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 2,
+      "marks": 6,
+      "minutes": 6,
+      "images": 1,
+      "hasMarkingKey": true,
+      "fingerprint": "3cfc10020a0a235fc75459d2b1681fc8e434478576436297bda9422115a9ce3b",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q8",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 8,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "Dust on a rotating CD",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "single",
+      "questionTypes": "extended_response",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-static-s4",
+      "subtopics": "Horizontal Circular Motion",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 1,
+      "marks": 5,
+      "minutes": 5,
+      "images": 0,
+      "hasMarkingKey": true,
+      "fingerprint": "07c30bc3be29920829861bfa18717e95eb8de912ee7f0344222735e64c22c6aa",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q9",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 9,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 4,
+      "topic": "Electromagnetism",
+      "topicId": "p12-em",
+      "title": "Voltage loss in a transmission line",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "single",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-em-s9",
+      "subtopics": "Transformers and Power Transmission",
+      "coveredTopics": "Electromagnetism",
+      "units": "4",
+      "parts": 1,
+      "marks": 5,
+      "minutes": 5,
+      "images": 0,
+      "hasMarkingKey": true,
+      "fingerprint": "67620b5db38ea3a7bbc11366b7659a4832b324d264261f9d9c935e6dc2e15a30",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q10",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 10,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "A ball on an inclined driveway",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "calculation; data_interpretation; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p12-static-s2",
+      "subtopics": "Inclined Planes",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 2,
+      "marks": 6,
+      "minutes": 6,
+      "images": 1,
+      "hasMarkingKey": true,
+      "fingerprint": "b6e91ddc6d00c354c8dd3b7f20642facae16f200c7d9f0e82af3e0af5d138183",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q11",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 11,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "Detecting exoplanets from a star’s wobble",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; diagram; graphing; calculation; multipart",
+      "examSection": "problem_solving",
+      "subtopicIds": "p12-static-s1; p12-static-s6",
+      "subtopics": "Gravitational Fields and Forces; Satellite Motion",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 6,
+      "marks": 18,
+      "minutes": 18,
+      "images": 1,
+      "hasMarkingKey": true,
+      "fingerprint": "eb88b96aea0e51eb81b8361e373dd6f5ee01d1f54956a5eac90efc45320db413",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q12",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 12,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 4,
+      "topic": "Electromagnetism",
+      "topicId": "p12-em",
+      "title": "An ideal step-down transformer",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "calculation; short_answer; multipart",
+      "examSection": "problem_solving",
+      "subtopicIds": "p12-em-s9",
+      "subtopics": "Transformers and Power Transmission",
+      "coveredTopics": "Electromagnetism",
+      "units": "4",
+      "parts": 4,
+      "marks": 8,
+      "minutes": 8,
+      "images": 0,
+      "hasMarkingKey": true,
+      "fingerprint": "d0aa33cd617350e58725e0ebe1d7c9e54022cffe5941b0612d0d88a7433aabde",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3. The exam and all four parts total 8 marks; the key heading incorrectly states 13 marks. Numerical diagram labels are presented as a native table.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q14",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 14,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "A pendulum that becomes a projectile",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "calculation; diagram; multipart",
+      "examSection": "problem_solving",
+      "subtopicIds": "p12-static-s5; p12-static-s7; p12-static-s3",
+      "subtopics": "Vertical Circular Motion; Work and Energy in a Gravitational Field; Projectile Motion",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 4,
+      "marks": 16,
+      "minutes": 16,
+      "images": 2,
+      "hasMarkingKey": true,
+      "fingerprint": "c36469de27ea3f01eb9813955feb04e46a843da2a98c4be589772962f63a41f5",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
+      "id": "phy2020-u3-q16",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 16,
+      "subject": "Physics",
+      "year": 12,
+      "unit": 3,
+      "topic": "Newtonian Motion within Gravitational Fields",
+      "topicId": "p12-static",
+      "title": "A conical pendulum",
+      "status": "published",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "diagram; calculation; multipart",
+      "examSection": "problem_solving",
+      "subtopicIds": "p12-static-s4",
+      "subtopics": "Horizontal Circular Motion",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
+      "units": "3",
+      "parts": 4,
+      "marks": 16,
+      "minutes": 16,
+      "images": 1,
+      "hasMarkingKey": true,
+      "fingerprint": "1a2649beafd4d53fce3b4ed50770ab75e1278439eb21e26ec917cfd02cdc0ef2",
+      "notes": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+      "bankFile": "physics-2020-u3.js"
+    },
+    {
       "id": "hcc-electricity-2020-q2",
       "duplicateOf": null,
       "sourceId": "hcc-electricity-2020",
@@ -20864,6 +21428,230 @@
       "hasMarkingKey": true,
       "fingerprint": null,
       "notes": "The objective lens is stated as 10× both before and after the change, but no unchanged field-of-view option is offered.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q3",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 3,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q3",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The Word motor diagram loses the magnet pole shapes during conversion; held until the complete original figure can be preserved.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q4",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 4,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q4",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The Word mass-spectrometer diagram loses part of the proton path during conversion; held until the complete original figure can be preserved.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q7",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 7,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q7",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The key requires an induced EMF maximum at the magnet’s fully stretched turning point, where its instantaneous speed is zero, and a decreasing oscillation period. The graph criteria need physics review.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q13",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 13,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q13",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The supplied key labels magnetic field in N and its gradient working uses inconsistent points (4.50 × 10⁻⁶ rather than approximately 4.00 × 10⁻⁶ N A⁻²). Hold all linked investigation parts for key correction.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q15",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 15,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q15",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The key gives both clockwise and anticlockwise eddy-current directions for the same side of the electromagnet. Needs diagram/key review.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q17",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 17,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q17",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "The exam and key disagree on part b.ii marks (3 versus 2), the exam omits the number of marks for part c, and the stated question total needs reconciliation.",
+      "bankFile": null
+    },
+    {
+      "id": "phy2020-u3-q18",
+      "duplicateOf": null,
+      "sourceId": "phy2020-u3",
+      "batchId": "physics-exams-20261023",
+      "source": "Physics Unit 3 examination 2020",
+      "originalQuestion": 18,
+      "subject": "Physics",
+      "year": 12,
+      "unit": null,
+      "topic": "Review required",
+      "topicId": null,
+      "title": "Physics Unit 3 examination 2020 · Q18",
+      "status": "held",
+      "uploadedDate": "2026-10-23",
+      "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
+      "coveredTopics": "",
+      "units": "",
+      "parts": null,
+      "marks": null,
+      "minutes": null,
+      "images": null,
+      "hasMarkingKey": true,
+      "fingerprint": null,
+      "notes": "Part b asks for maximum height using equation (2), but that equation gives time to maximum height; its key adds a same-height launch/landing assumption. Needs prompt/key correction.",
       "bankFile": null
     }
   ],
@@ -36519,6 +37307,371 @@
       ],
       "subtopicIds": [
         "h11-musculoskeletal-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q1",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-em-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q2",
+      "partId": "a",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q5",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-em-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q5",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p12-em-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q6",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s8"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q6",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-static-s8"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q8",
+      "partId": "a",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q9",
+      "partId": "a",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-em-s9"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q10",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q10",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "data_interpretation",
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-static-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-static-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p12-static-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "c.i",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-static-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "c.ii",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-static-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "d",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "graphing"
+      ],
+      "subtopicIds": [
+        "p12-static-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q11",
+      "partId": "e",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q12",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-em-s9"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q12",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-em-s9"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q12",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-em-s9"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q12",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p12-em-s9"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q14",
+      "partId": "a",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s5"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q14",
+      "partId": "b",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s7"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q14",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p12-static-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q14",
+      "partId": "d",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q16",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q16",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q16",
+      "partId": "c",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "phy2020-u3-q16",
+      "partId": "d",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
       ],
       "subtopicTagBasis": "part"
     }

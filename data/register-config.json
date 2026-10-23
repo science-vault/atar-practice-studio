@@ -5,7 +5,8 @@
     "human-biology-2024-u3.js",
     "human-biology-2024-u34.js",
     "human-biology-2020-2023.js",
-    "human-biology-year11-2020-2023.js"
+    "human-biology-year11-2020-2023.js",
+    "physics-2020-u3.js"
   ],
   "sources": [
     {
@@ -394,6 +395,213 @@
       "subject": "Human Biology",
       "year": 11,
       "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2020-u3",
+      "questionPrefix": "phy2020-u3-",
+      "title": "Physics Unit 3 examination 2020",
+      "provider": "WATP",
+      "examYear": 2020,
+      "files": {
+        "exam": [
+          "2020_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2020_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_physics_unit_3_exam.docx": "79805c864a691736c65ae2983389c4e1ec4d5265e840449229feafa0a919add2",
+        "2020_physics_unit_3_marking_guide.docx": "43cd2f3f9286a2796a46718723363426404a0e09fecdcff1918fefdf12f06789"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2021-u3",
+      "questionPrefix": "phy2021-u3-",
+      "title": "Physics Unit 3 examination 2021",
+      "provider": "Supplied Physics examination",
+      "examYear": 2021,
+      "files": {
+        "exam": [
+          "2021_unit_3_exam.docx"
+        ],
+        "key": [
+          "2021_physics_unit_3_exam_marking_key.docx"
+        ]
+      },
+      "fileHashes": {
+        "2021_unit_3_exam.docx": "976981c5342b20d348b6d5ee4bbccd18e8d6f6900070ace9b7a2fdc60f7cf385",
+        "2021_physics_unit_3_exam_marking_key.docx": "822e4a39a23b3f7b6c78da528d382bce0fcdc98012f099b23d34b06abd1ffaec"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2021-u34",
+      "questionPrefix": "phy2021-u34-",
+      "title": "Physics Units 3 & 4 examination 2021",
+      "provider": "Supplied Physics examination",
+      "examYear": 2021,
+      "files": {
+        "exam": [
+          "2021_physics_units_3_4_exam.docx"
+        ],
+        "key": [
+          "2021_physics_units_3_4_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2021_physics_units_3_4_exam.docx": "8a92ef0d94734763ea8ac80e7efe394388c999c7ccc72fcee4b301296e64984d",
+        "2021_physics_units_3_4_marking_guide.docx": "9d311673eb5e6fc876ba54d2f363333aebcb4c230494736ca3ea0682693843d7"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2022-u3",
+      "questionPrefix": "phy2022-u3-",
+      "title": "Physics Unit 3 examination 2022",
+      "provider": "Supplied Physics examination",
+      "examYear": 2022,
+      "files": {
+        "exam": [
+          "2022_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2022_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_physics_unit_3_exam.docx": "60cc5152bfd62c520d271bbe51093cda48e74ba028ea6fc9316233b7223eb944",
+        "2022_physics_unit_3_marking_guide.docx": "5bb01f63f4a0ee7aacc3e9ec8a9bbf65b3c698362974e5af37e6442c7426317b"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2022-u34",
+      "questionPrefix": "phy2022-u34-",
+      "title": "Physics Units 3 & 4 examination 2022",
+      "provider": "Supplied Physics examination",
+      "examYear": 2022,
+      "files": {
+        "exam": [
+          "2022_physics_units_34_exam.docx"
+        ],
+        "key": [
+          "2022_physics_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_physics_units_34_exam.docx": "565ebdfc1ab18aa65fd9aafa8b54f24ea8b90b4c8a766a050e27887652d5fece",
+        "2022_physics_units_34_marking_guide.docx": "fc82b284e284f79f27d79821b2725c37dd7c815e14c0827f91e72b270f6fc148"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2023-u3",
+      "questionPrefix": "phy2023-u3-",
+      "title": "Physics Unit 3 examination 2023",
+      "provider": "Supplied Physics examination",
+      "examYear": 2023,
+      "files": {
+        "exam": [
+          "2023_physics_unit_3_exam.docx"
+        ],
+        "key": [
+          "2023_physics_unit_3_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_physics_unit_3_exam.docx": "0f06b7d0cca20e1e569a2d57c6238b5fcbf28120b5e2c856573d6aee71d98609",
+        "2023_physics_unit_3_marking_guide.docx": "05dd6fdcabb23996ead5c02d91670ed4a23ab1869832700d9b054d4c596c4b02"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2023-u34",
+      "questionPrefix": "phy2023-u34-",
+      "title": "Physics Units 3 & 4 examination 2023",
+      "provider": "Supplied Physics examination",
+      "examYear": 2023,
+      "files": {
+        "exam": [
+          "2023_physics_units_34_exam (1).docx"
+        ],
+        "key": [
+          "2023_physics_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_physics_units_34_exam (1).docx": "f77d4ef5b62e08cb45de8035657f3e4d289a64f47fdbfef89ce05e56b8a2f42d",
+        "2023_physics_units_34_marking_guide.docx": "a5df8121b44a831f68caf75ed2cc3d6cea1d98cc947a8064b1f4d898efb95daa"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2024-u3",
+      "questionPrefix": "phy2024-u3-",
+      "title": "Physics Unit 3 examination 2024",
+      "provider": "Supplied Physics examination",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_physics_units_3_exam(1).docx"
+        ],
+        "key": [
+          "2024_physics_units_3_marking_guide (1)(1).docx"
+        ]
+      },
+      "fileHashes": {
+        "2024_physics_units_3_exam(1).docx": "e86bfa5e0530c319cd87a03800f7f1afdb7499243cfe6b7e1df3ca9eb27e6d19",
+        "2024_physics_units_3_marking_guide (1)(1).docx": "5d8ef9cd6fc2806234ca1293211a3ea4a994bfbce514bcf1e4a868ffb20a4970"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "phy2024-u34",
+      "questionPrefix": "phy2024-u34-",
+      "title": "Physics Units 3 & 4 examination 2024",
+      "provider": "Supplied Physics examination",
+      "examYear": 2024,
+      "files": {
+        "exam": [
+          "2024_physics_units_34_exam (1)(1).docx"
+        ],
+        "key": [
+          "2024_physics_units_34_marking_guide (4)(1).docx"
+        ]
+      },
+      "fileHashes": {
+        "2024_physics_units_34_exam (1)(1).docx": "899aaf36bccdad0731cc10eb2a2db17b7b3dd7572f512260dee6a94ab8797695",
+        "2024_physics_units_34_marking_guide (4)(1).docx": "693b6c353355454ff9f7ab392541da0bfbb8b1fcdcc3e97a5331c6e7682523cd"
+      },
+      "batchId": "physics-exams-20261023",
+      "subject": "Physics",
+      "year": 12,
+      "uploadedDate": "2026-10-23"
     }
   ],
   "held": [
@@ -591,6 +799,48 @@
       "sourceId": "hb2021-u12",
       "originalQuestion": 28,
       "reason": "The objective lens is stated as 10× both before and after the change, but no unchanged field-of-view option is offered."
+    },
+    {
+      "id": "phy2020-u3-q3",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 3,
+      "reason": "The Word motor diagram loses the magnet pole shapes during conversion; held until the complete original figure can be preserved."
+    },
+    {
+      "id": "phy2020-u3-q4",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 4,
+      "reason": "The Word mass-spectrometer diagram loses part of the proton path during conversion; held until the complete original figure can be preserved."
+    },
+    {
+      "id": "phy2020-u3-q7",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 7,
+      "reason": "The key requires an induced EMF maximum at the magnet’s fully stretched turning point, where its instantaneous speed is zero, and a decreasing oscillation period. The graph criteria need physics review."
+    },
+    {
+      "id": "phy2020-u3-q13",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 13,
+      "reason": "The supplied key labels magnetic field in N and its gradient working uses inconsistent points (4.50 × 10⁻⁶ rather than approximately 4.00 × 10⁻⁶ N A⁻²). Hold all linked investigation parts for key correction."
+    },
+    {
+      "id": "phy2020-u3-q15",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 15,
+      "reason": "The key gives both clockwise and anticlockwise eddy-current directions for the same side of the electromagnet. Needs diagram/key review."
+    },
+    {
+      "id": "phy2020-u3-q17",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 17,
+      "reason": "The exam and key disagree on part b.ii marks (3 versus 2), the exam omits the number of marks for part c, and the stated question total needs reconciliation."
+    },
+    {
+      "id": "phy2020-u3-q18",
+      "sourceId": "phy2020-u3",
+      "originalQuestion": 18,
+      "reason": "Part b asks for maximum height using equation (2), but that equation gives time to maximum height; its key adds a same-height launch/landing assumption. Needs prompt/key correction."
     }
   ],
   "batches": [
@@ -617,6 +867,11 @@
     {
       "id": "human-biology-year11-20261023",
       "label": "Year 11 Human Biology 2020–2023 · Five exam/key pairs",
+      "uploadedDate": "2026-10-23"
+    },
+    {
+      "id": "physics-exams-20261023",
+      "label": "Physics examinations 2020–2024 · Nine exam/key pairs",
       "uploadedDate": "2026-10-23"
     }
   ],
