@@ -15,3 +15,11 @@ The topic labels summarise the 2026 SCSA syllabuses, linked from each subject/ye
 
 ### Multiple topics
 Use `topicIds` to list all relevant chapter IDs. Set `topic` to the subject/year mixed ID (e.g. `h12-mixed`) when more than one chapter is substantively assessed. Questions remain visible in every listed chapter and in Mixed topics. Preserve one stable question ID; do not duplicate the record. If it spans units, set `unit: null` and provide `units: [3, 4]` (or `[1, 2]`). Unit 0 in curriculum navigation is the Across units group, not a syllabus unit. Screenshot-derived chapter groups and expandable subtopics are recorded in curriculum.js and data/topic-heading-sources.json. Rebuild the register after classification changes.
+
+
+### Assessment-builder metadata (required for future imports)
+Every question must have stable `subtopicIds`, `questionTypes`, `examSection` and `structure`. Each part retains its original `type` (`mcq`/`written`) for the answer input, and also has `questionTypes`, `subtopicIds`, and `subtopicTagBasis` (`part` for individually assigned placement or `shared_question` for shared question-level coverage). Select IDs from window.SUBTOPICS and kinds from window.QUESTION_TYPES. Never renumber existing subtopic IDs.
+
+Kinds: multiple_choice, short_answer, calculation, extended_response, graphing, diagram, data_interpretation, table_completion, scientific_inquiry, equation; multipart is a question-level structure filter. Tags are non-exclusive: a multiple-choice calculation has both tags, while extended responses can contain calculation or diagram parts. examSection records the original paper section independently. Preserve shared stimulus, images and part dependencies when selecting a whole question for a future paper; these tags do not imply that every part can safely be extracted alone.
+
+The SQLite register includes question_parts, subtopics, question_subtopics, part_subtopics and part_types for future filtering by topic, subtopic, format, skill, mark total, time and source. Held questions have unclassified metadata and must be excluded from paper building until reviewed. The register build rejects published questions lacking classification metadata.

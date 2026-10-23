@@ -21,13 +21,31 @@ window.QUESTION_BANK.push(...[
           "peripheral chemoreceptors"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. peripheral thermoreceptors"
+        "solution": "Supplied marking key: C. peripheral thermoreceptors",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q2",
@@ -51,13 +69,31 @@ window.QUESTION_BANK.push(...[
           "capsule"
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. protein coat"
+        "solution": "Supplied marking key: B. protein coat",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q3",
@@ -81,13 +117,31 @@ window.QUESTION_BANK.push(...[
           "trachea."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. ear."
+        "solution": "Supplied marking key: A. ear.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q4",
@@ -111,13 +165,31 @@ window.QUESTION_BANK.push(...[
           "pineal gland"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. pineal gland"
+        "solution": "Supplied marking key: D. pineal gland",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q5",
@@ -141,7 +213,16 @@ window.QUESTION_BANK.push(...[
           "the fact that this experiment was only completed once"
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. the type of meal that each participant consumed"
+        "solution": "Supplied marking key: B. the type of meal that each participant consumed",
+        "questionTypes": [
+          "multiple_choice",
+          "scientific_inquiry",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -153,7 +234,20 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "scientific_inquiry",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q6",
@@ -177,7 +271,15 @@ window.QUESTION_BANK.push(...[
           "alpha cells of the islets of Langerhans"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. beta cells of the islets of Langerhans"
+        "solution": "Supplied marking key: A. beta cells of the islets of Langerhans",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -189,7 +291,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q7",
@@ -213,7 +327,15 @@ window.QUESTION_BANK.push(...[
           "Participant B’s alpha cells cannot produce glycogen."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. Participant B’s beta cells are unable to respond to changes in blood glucose levels."
+        "solution": "Supplied marking key: B. Participant B’s beta cells are unable to respond to changes in blood glucose levels.",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -225,7 +347,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q8",
@@ -249,7 +383,14 @@ window.QUESTION_BANK.push(...[
           "DNA helicase"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. a restriction enzyme"
+        "solution": "Supplied marking key: C. a restriction enzyme",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -261,7 +402,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-biotech"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-biotech-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q9",
@@ -285,7 +437,14 @@ window.QUESTION_BANK.push(...[
           "cystic fibrosis"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. cystic fibrosis"
+        "solution": "Supplied marking key: D. cystic fibrosis",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -297,7 +456,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-biotech"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-biotech-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q11",
@@ -321,7 +491,14 @@ window.QUESTION_BANK.push(...[
           "oxytocin"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. oxytocin"
+        "solution": "Supplied marking key: D. oxytocin",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -333,7 +510,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q12",
@@ -357,7 +545,14 @@ window.QUESTION_BANK.push(...[
           "none of the above"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. none of the above"
+        "solution": "Supplied marking key: D. none of the above",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -369,7 +564,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q13",
@@ -393,7 +599,14 @@ window.QUESTION_BANK.push(...[
           "luteinising hormone"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. oestrogen"
+        "solution": "Supplied marking key: A. oestrogen",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -405,7 +618,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q14",
@@ -429,7 +653,15 @@ window.QUESTION_BANK.push(...[
           "individual 4"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. individual 3"
+        "solution": "Supplied marking key: C. individual 3",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -478,7 +710,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q15",
@@ -502,7 +746,16 @@ window.QUESTION_BANK.push(...[
           "individual 4"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. individual 4"
+        "solution": "Supplied marking key: D. individual 4",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -551,7 +804,20 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q16",
@@ -575,7 +841,15 @@ window.QUESTION_BANK.push(...[
           "Pyrogens are released by the hypothalamus, causing the response of shivering and vasoconstriction to increase internal body temperature."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. Pyrogens are released by leucocytes, and target the hypothalamus, causing a response of shivering to increase heat production."
+        "solution": "Supplied marking key: B. Pyrogens are released by leucocytes, and target the hypothalamus, causing a response of shivering to increase heat production.",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -624,7 +898,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q17",
@@ -648,13 +934,31 @@ window.QUESTION_BANK.push(...[
           "adrenal cortex"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. adrenal cortex"
+        "solution": "Supplied marking key: D. adrenal cortex",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q18",
@@ -678,13 +982,31 @@ window.QUESTION_BANK.push(...[
           "Addison’s disease"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. Graves’ disease"
+        "solution": "Supplied marking key: A. Graves’ disease",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q19",
@@ -708,13 +1030,31 @@ window.QUESTION_BANK.push(...[
           "distal convoluted tubule and collecting duct."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. distal convoluted tubule and collecting duct."
+        "solution": "Supplied marking key: D. distal convoluted tubule and collecting duct.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q20",
@@ -738,13 +1078,31 @@ window.QUESTION_BANK.push(...[
           "active, natural immunity"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. passive, artificial immunity"
+        "solution": "Supplied marking key: A. passive, artificial immunity",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q21",
@@ -768,13 +1126,31 @@ window.QUESTION_BANK.push(...[
           "the pancreas"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. the pancreas"
+        "solution": "Supplied marking key: D. the pancreas",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q22",
@@ -798,13 +1174,31 @@ window.QUESTION_BANK.push(...[
           "increased uptake of glucose by the liver"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. decreased secretion of saliva"
+        "solution": "Supplied marking key: C. decreased secretion of saliva",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q23",
@@ -828,13 +1222,31 @@ window.QUESTION_BANK.push(...[
           "dendrite."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. nerve."
+        "solution": "Supplied marking key: B. nerve.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q24",
@@ -858,7 +1270,14 @@ window.QUESTION_BANK.push(...[
           "polarisation"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. depolarisation"
+        "solution": "Supplied marking key: A. depolarisation",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -870,7 +1289,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q25",
@@ -894,7 +1324,14 @@ window.QUESTION_BANK.push(...[
           "The sodium-potassium pump is switched off, to allow voltage-gated sodium and potassium channels the chance to bring the membrane back to rest."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. The voltage-gated sodium and potassium channels are both closed, and the sodium-potassium pump is working to bring the membrane back towards resting state."
+        "solution": "Supplied marking key: B. The voltage-gated sodium and potassium channels are both closed, and the sodium-potassium pump is working to bring the membrane back towards resting state.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -906,7 +1343,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q26",
@@ -930,7 +1378,14 @@ window.QUESTION_BANK.push(...[
           "mechanically-gated sodium channels"
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. voltage-gated sodium channels"
+        "solution": "Supplied marking key: B. voltage-gated sodium channels",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -942,7 +1397,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q27",
@@ -966,13 +1432,31 @@ window.QUESTION_BANK.push(...[
           "an increase in internal body temperature."
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. blood pressure problems."
+        "solution": "Supplied marking key: C. blood pressure problems.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q28",
@@ -996,13 +1480,31 @@ window.QUESTION_BANK.push(...[
           "increased evaporation of sweat"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. increased metabolism in cells"
+        "solution": "Supplied marking key: C. increased metabolism in cells",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q29",
@@ -1026,13 +1528,31 @@ window.QUESTION_BANK.push(...[
           "increase in insulin production."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. increase in osmotic pressure."
+        "solution": "Supplied marking key: A. increase in osmotic pressure.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q30",
@@ -1056,13 +1576,31 @@ window.QUESTION_BANK.push(...[
           "transfer of body fluids."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. transfer of body fluids."
+        "solution": "Supplied marking key: D. transfer of body fluids.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u3-q31",
@@ -1080,28 +1618,57 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 4,
         "prompt": "Describe and explain how features of the respiratory system help to prevent the entry of pathogens.",
-        "solution": "Mucus is secreted,\nand traps pathogens [1-2 marks]\nCilia on cells\nis constantly moving/performs a beating action or can push mucus to pharynx/throat (to be swallowed/spat out) [1-2 marks]"
+        "solution": "Mucus is secreted,\nand traps pathogens [1-2 marks]\nCilia on cells\nis constantly moving/performs a beating action or can push mucus to pharynx/throat (to be swallowed/spat out) [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 3,
         "prompt": "Explain why hypercapnia could lead to changes in pH.",
-        "solution": "Carbon dioxide reacts to form carbonic acid which ionises to form hydrogen ions/show equation [1 marks]\ntherefore more carbon dioxide (from hypercapnia) = more hydrogen ions [1 marks]\nincrease in hydrogen ions causes a decrease in pH [1 marks]"
+        "solution": "Carbon dioxide reacts to form carbonic acid which ionises to form hydrogen ions/show equation [1 marks]\ntherefore more carbon dioxide (from hypercapnia) = more hydrogen ions [1 marks]\nincrease in hydrogen ions causes a decrease in pH [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 2,
         "prompt": "Name the receptors labelled A and B in the diagram.",
-        "solution": "A – carotid bodies [1 marks]\nB – aortic bodies [1 marks]"
+        "solution": "A – carotid bodies [1 marks]\nB – aortic bodies [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 5,
         "prompt": "Describe the normal homeostatic response to the changes in pH caused by hypercapnia.",
-        "solution": "Central chemoreceptors (in medulla oblongata)/A and B/aortic and carotid bodies detect a decrease in pH [1 marks]\nstimulate respiratory centre in the medulla oblongata [1 marks]\nsends nerve impulse through phrenic and intercostal nerves [1 marks]\nwhich increase contraction of diaphragm and intercostal muscles [1 marks]\ncausing an increase in rate and depth of breathing [1 marks]"
+        "solution": "Central chemoreceptors (in medulla oblongata)/A and B/aortic and carotid bodies detect a decrease in pH [1 marks]\nstimulate respiratory centre in the medulla oblongata [1 marks]\nsends nerve impulse through phrenic and intercostal nerves [1 marks]\nwhich increase contraction of diaphragm and intercostal muscles [1 marks]\ncausing an increase in rate and depth of breathing [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1",
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1113,12 +1680,24 @@ window.QUESTION_BANK.push(...[
     ],
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
+      "h12-disease",
       "h12-homeostasis",
-      "h12-disease"
+      "h12-nervous"
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-disease-s1",
+      "h12-homeostasis-s1",
+      "h12-nervous-s3"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q32",
@@ -1136,42 +1715,84 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Contrast toxoid and inactivated vaccines.",
-        "solution": "Toxoid vaccines contain inactivated toxins (from bacteria) [1 marks]\nInactivated vaccines contain whole inactivated pathogens/bacteria [1 marks]"
+        "solution": "Toxoid vaccines contain inactivated toxins (from bacteria) [1 marks]\nInactivated vaccines contain whole inactivated pathogens/bacteria [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 3,
         "prompt": "This type of vaccine can be given early in infancy (at around 2 months), whereas the live attenuated MMR vaccine is not given until a baby is 12 months old. Explain why this may be the case.",
-        "solution": "Maternal antibodies may neutralise the measles vaccine virus (1), reducing the infant’s immune response (1). By around 12 months these antibodies have usually declined sufficiently for a more reliable response (1)."
+        "solution": "Maternal antibodies may neutralise the measles vaccine virus (1), reducing the infant’s immune response (1). By around 12 months these antibodies have usually declined sufficiently for a more reliable response (1).",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 6,
         "prompt": "Describe what would be occurring in Mariah’s immune system after point A.",
-        "solution": "Award up to six points from the following\nmacrophage/dendritic cell consumes antigen through phagocytosis\nbecomes antigen presenting cell\nactivates helper T-cell\nHelper T-cell activates/sensitises a B-cell\nB-cell divides through mitosis/produces a clone\nDifferentiates into plasma cells\nplasma cells produce antibodies\nantibodies attach to antigen to form antigen-antibody complex\nmemory cells remember antigen [1–6 marks]"
+        "solution": "Award up to six points from the following\nmacrophage/dendritic cell consumes antigen through phagocytosis\nbecomes antigen presenting cell\nactivates helper T-cell\nHelper T-cell activates/sensitises a B-cell\nB-cell divides through mitosis/produces a clone\nDifferentiates into plasma cells\nplasma cells produce antibodies\nantibodies attach to antigen to form antigen-antibody complex\nmemory cells remember antigen [1–6 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "Complete the figure shown above by sketching and labelling the remaining curves to represent the antibody production for Mariah and Renae after exposure to the live pertussis bacterium. Draw the curves on paper, then describe their shape and labels here.",
-        "solution": "Sketch a faster, higher secondary antibody response for vaccinated Mariah and a slower, smaller primary response for Renae. Award one mark per correctly labelled curve."
+        "solution": "Sketch a faster, higher secondary antibody response for vaccinated Mariah and a slower, smaller primary response for Renae. Award one mark per correctly labelled curve.",
+        "questionTypes": [
+          "graphing"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 4,
         "prompt": "Explain the difference in the two curves sketched in part (d).",
-        "solution": "Mariah would have memory cells from the first exposure to the antigen [1 marks]\nthe memory cells divide and produce plasma cells faster [1 marks]\n= more antibodies in shorter time/a faster and bigger response [1 marks]\nRenae has not been exposed/has no memory = slower and smaller reponse [1 marks]"
+        "solution": "Mariah would have memory cells from the first exposure to the antigen [1 marks]\nthe memory cells divide and produce plasma cells faster [1 marks]\n= more antibodies in shorter time/a faster and bigger response [1 marks]\nRenae has not been exposed/has no memory = slower and smaller reponse [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "f",
         "type": "written",
         "marks": 2,
         "prompt": "Suggest two reasons why Renae’s parents may have chosen not to have her vaccinated when she was an infant.",
-        "solution": "Any two cultural/social points, for example\nethically against how some vaccines are manufactured\nconcerns about side effects of vaccines\nreligious practices/cultural reasons against use of vaccines\nother relevant response\n\nnote: something related to economy/money is not relevant in this context [1–2 marks]"
+        "solution": "Any two cultural/social points, for example\nethically against how some vaccines are manufactured\nconcerns about side effects of vaccines\nreligious practices/cultural reasons against use of vaccines\nother relevant response\n\nnote: something related to economy/money is not relevant in this context [1–2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "tables": [],
@@ -1184,7 +1805,20 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "graphing",
+      "multipart"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q33",
@@ -1202,49 +1836,110 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Which group was the control group? Justify your answer by referring to the data provided.",
-        "solution": "Group Two [1 marks]\nBecause their blood calcium levels stayed around the same over the course of the 6 weeks [1 marks]"
+        "solution": "Group Two [1 marks]\nBecause their blood calcium levels stayed around the same over the course of the 6 weeks [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Identify the independent and dependent variable for this experiment.",
-        "solution": "Independent – the use of the treatment [1 marks]\nDependent – blood calcium levels [1 marks]"
+        "solution": "Independent – the use of the treatment [1 marks]\nDependent – blood calcium levels [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 1,
         "prompt": "Suggest one controlled variable for this experiment.",
-        "solution": "Any one of the following\nage range/ages of the groups\ntime of day when blood calcium levels were tested\ntime of day when treatment was administered\nother relevant answer [1 marks]"
+        "solution": "Any one of the following\nage range/ages of the groups\ntime of day when blood calcium levels were tested\ntime of day when treatment was administered\nother relevant answer [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 3,
         "prompt": "Determine the percentage change, over the 6 weeks, in the calcium levels for the group that received the treatment. Show working.",
-        "solution": "(8.9 – 12.5)/12.5 x 100 = - 28%\nCorrect working (working may vary) [1 marks]\nCorrect answer [1 marks]\nCorrect shows negative symbol/decrease [1 marks]"
+        "solution": "(8.9 – 12.5)/12.5 x 100 = - 28%\nCorrect working (working may vary) [1 marks]\nCorrect answer [1 marks]\nCorrect shows negative symbol/decrease [1 marks]",
+        "questionTypes": [
+          "calculation",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "e.1",
         "type": "written",
         "marks": 5,
         "prompt": "Draw a graph of both groups’ blood calcium levels against week on paper. Describe the axes, scale, plotted data and key here.",
-        "solution": "\nAppropriate title [1 marks]\nAxes titles with units [1 marks]\nAppropriate scale\nNote: could cut the y-axis and start at a different number [1 marks]\nKey/legend [1 marks]\nPlotted correctly as line graph [1 marks]"
+        "solution": "\nAppropriate title [1 marks]\nAxes titles with units [1 marks]\nAppropriate scale\nNote: could cut the y-axis and start at a different number [1 marks]\nKey/legend [1 marks]\nPlotted correctly as line graph [1 marks]",
+        "questionTypes": [
+          "graphing"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "e.2",
         "type": "written",
         "marks": 2,
         "prompt": "Explain the changes in the blood calcium levels for the group that received the treatment.",
-        "solution": "Calcitonin reduces blood calcium levels [1 marks]\nThe levels of the blood calcium decrease over time [1 marks]"
+        "solution": "Calcitonin reduces blood calcium levels [1 marks]\nThe levels of the blood calcium decrease over time [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "f",
         "type": "written",
         "marks": 4,
         "prompt": "Explain how a hypersecretion of the hormone from gland A could also lead to osteoporosis.",
-        "solution": "Parathyroid hormone is released from A [1 marks]\nincreases blood calcium levels [1 marks]\ntherefore this would reduce calcium in the bones [1 marks]\nwhich could lead to brittle bones/loss of bone density [1 marks]"
+        "solution": "Parathyroid hormone is released from A [1 marks]\nincreases blood calcium levels [1 marks]\ntherefore this would reduce calcium in the bones [1 marks]\nwhich could lead to brittle bones/loss of bone density [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [
@@ -1303,7 +1998,21 @@ window.QUESTION_BANK.push(...[
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-endocrine-s2",
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "scientific_inquiry",
+      "data_interpretation",
+      "calculation",
+      "graphing",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q34",
@@ -1321,35 +2030,71 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 3,
         "prompt": "Complete the table below, by identifying the parts labelled in the diagram.",
-        "solution": "A – parietal lobe [1 marks]\nC – frontal lobe [1 marks]\nF – medulla oblongata [1 marks]"
+        "solution": "A – parietal lobe [1 marks]\nC – frontal lobe [1 marks]\nF – medulla oblongata [1 marks]",
+        "questionTypes": [
+          "diagram",
+          "table_completion"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Describe the function of the area labelled E.",
-        "solution": "control balance/posture [1 marks]\nand the coordination of voluntary movements [1 marks]"
+        "solution": "control balance/posture [1 marks]\nand the coordination of voluntary movements [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 3,
         "prompt": "Gemma suffered a blow to the back of the head, affecting the area labelled B. Name this part of the cerebrum and suggest and explain the effect damage to this area may have on Gemma.",
-        "solution": "Occipital lobe [1 marks]\ncontains the primary visual cortex [1 marks]\ndamage to this area could lead to trouble with vision [1 marks]"
+        "solution": "Occipital lobe [1 marks]\ncontains the primary visual cortex [1 marks]\ndamage to this area could lead to trouble with vision [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "Describe what is meant by a progressive, neurodegenerative disease.",
-        "solution": "worsens over time [1 marks]\nresulting in neuron death/damage to neurons [1 marks]"
+        "solution": "worsens over time [1 marks]\nresulting in neuron death/damage to neurons [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 6,
         "prompt": "Describe how an action potential is transmitted across a synapse and explain the effect of this breakdown of communication on Alzheimer’s patients.",
-        "solution": "Action potential reaches axon terminal [1 marks]\ninflux of calcium ions through (voltage-gated) calcium channels [1 marks]\nvesicles with neurotransmitters fuse with pre-synaptic membrane [1 marks]\nneurotransmitters diffuse across synapse and attach to receptor (on post-synaptic membrane) [1 marks]\nif communications between neurons can no longer occur, messages cannot be transmitted between different regions of the brain [1 marks]\nwhich leads to memory loss/other symptoms of Alzheimer’s patients [1 marks]"
+        "solution": "Action potential reaches axon terminal [1 marks]\ninflux of calcium ions through (voltage-gated) calcium channels [1 marks]\nvesicles with neurotransmitters fuse with pre-synaptic membrane [1 marks]\nneurotransmitters diffuse across synapse and attach to receptor (on post-synaptic membrane) [1 marks]\nif communications between neurons can no longer occur, messages cannot be transmitted between different regions of the brain [1 marks]\nwhich leads to memory loss/other symptoms of Alzheimer’s patients [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [
@@ -1381,7 +2126,22 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-nervous-s3",
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "diagram",
+      "table_completion",
+      "short_answer",
+      "multipart"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q35",
@@ -1399,28 +2159,58 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "State the hormone(s) secreted by each part labelled in the diagram.",
-        "solution": "A – cortisol & aldosterone [1 marks]\nB – adrenaline/noradrenaline [1 marks]"
+        "solution": "A – cortisol & aldosterone [1 marks]\nB – adrenaline/noradrenaline [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 3,
         "prompt": "When the body is working under stressful conditions the adrenal gland could be stimulated. Name the subdivision of the peripheral nervous system this is linked to and describe two physiological effects of the stimulation of this subdivision.",
-        "solution": "Sympathetic nervous system [1 marks]\nAny two from the following\nincreased heart rate/contractions of heart\ndilated bronchioles\nstimulation of sweat glands\ndilated pupils\ndecreased saliva production\ndilation of blood vessels to skeletal muscles\nstimulate adrenal medulla [1-2 marks]"
+        "solution": "Sympathetic nervous system [1 marks]\nAny two from the following\nincreased heart rate/contractions of heart\ndilated bronchioles\nstimulation of sweat glands\ndilated pupils\ndecreased saliva production\ndilation of blood vessels to skeletal muscles\nstimulate adrenal medulla [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 4,
         "prompt": "Describe the role of part A in blood glucose regulation.",
-        "solution": "Increases blood glucose levels/releases cortisol/glucocorticoids [1 marks]\nincrease glycogenolysis in the liver [1 marks]\nincreases transport of amino acids to the liver/removal of amino acids from muscle cells [1 marks]\nwhich increases gluconeogenesis [1 marks]"
+        "solution": "Increases blood glucose levels/releases cortisol/glucocorticoids [1 marks]\nincrease glycogenolysis in the liver [1 marks]\nincreases transport of amino acids to the liver/removal of amino acids from muscle cells [1 marks]\nwhich increases gluconeogenesis [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 5,
         "prompt": "Describe the role of the adrenal gland in regulating metabolism and explain how an increase in metabolism could lead to a need to regulate blood glucose levels.",
-        "solution": "Cortisol (from the cortex) promotes metabolism [1 marks]\nadrenaline/noradrenalin (from the medulla) increase metabolism [1 marks]\nthis means cells will be using up glucose for chemical reaction/cellular respiration [1 marks]\nmore glucose will need to be transported to cells [1 marks]\nleading to a need to increase blood glucose levels [1 marks]"
+        "solution": "Cortisol (from the cortex) promotes metabolism [1 marks]\nadrenaline/noradrenalin (from the medulla) increase metabolism [1 marks]\nthis means cells will be using up glucose for chemical reaction/cellular respiration [1 marks]\nmore glucose will need to be transported to cells [1 marks]\nleading to a need to increase blood glucose levels [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [
@@ -1448,11 +2238,23 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-endocrine",
+      "h12-nervous",
       "h12-homeostasis"
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-endocrine-s2",
+      "h12-nervous-s2",
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q36",
@@ -1470,21 +2272,45 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Outline the function of the parts labelled A and B.",
-        "solution": "A – carry message/nerve impulse towards axon terminal/away from cell body [1 marks]\nB – receive message/nerve impulse from synapse/carry message towards cell body [1 marks]"
+        "solution": "A – carry message/nerve impulse towards axon terminal/away from cell body [1 marks]\nB – receive message/nerve impulse from synapse/carry message towards cell body [1 marks]",
+        "questionTypes": [
+          "diagram"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1",
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 4,
         "prompt": "Identify which neuron(s), using the numbers provided, would be found in the efferent and afferent nervous systems respectively. Justify your answer.",
-        "solution": "Afferent\n2 and 3 [1 marks]\nPseudounipolar and bipolar neurons/neurons with 1 or 2 branching extensions carry messages towards the CNS (therefore afferent/sensory) [1 marks]\nEfferent\n1 [1 marks]\nMultipolar neurons/neurons with multiple extensions are motor and carry messages towards effectors/from the CNS [1 marks]"
+        "solution": "Afferent\n2 and 3 [1 marks]\nPseudounipolar and bipolar neurons/neurons with 1 or 2 branching extensions carry messages towards the CNS (therefore afferent/sensory) [1 marks]\nEfferent\n1 [1 marks]\nMultipolar neurons/neurons with multiple extensions are motor and carry messages towards effectors/from the CNS [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1",
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 5,
         "prompt": "The neuron labelled with the number 1 shows the myelin sheath. Explain the difference in propagation of an action potential in a myelinated compared to an unmyelinated fibre.",
-        "solution": "Saltatory conduction occurs in myelinated axons [1 marks]\nAction potential only occurs at nodes of Ranvier/ ’jumps’ from one node of Ranvier to the next [1 marks]\ntherefore has less action potentials generated in a given time/ action potential does not need to travel down entire axon membrane = faster [1 marks]\nunmyelinated axons are unable to conduct message in this way/ no saltatory conduction [1 marks]\naction potentials generated down entire length of nerve fibre = slower [1 marks]"
+        "solution": "Saltatory conduction occurs in myelinated axons [1 marks]\nAction potential only occurs at nodes of Ranvier/ ’jumps’ from one node of Ranvier to the next [1 marks]\ntherefore has less action potentials generated in a given time/ action potential does not need to travel down entire axon membrane = faster [1 marks]\nunmyelinated axons are unable to conduct message in this way/ no saltatory conduction [1 marks]\naction potentials generated down entire length of nerve fibre = slower [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1",
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "tables": [],
@@ -1497,7 +2323,21 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-nervous-s1",
+      "h12-nervous-s2"
+    ],
+    "questionTypes": [
+      "diagram",
+      "short_answer",
+      "multipart"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q37",
@@ -1515,28 +2355,56 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Define what is meant by tolerance limits, using an example to aid your answer.",
-        "solution": "Upper and lower limits where cells can still function [1 marks]\nA relevant example, including reasonable numerical values\ne.g.\ntemperature must be between 36 and 37.5 degrees Celsius [1 marks]"
+        "solution": "Upper and lower limits where cells can still function [1 marks]\nA relevant example, including reasonable numerical values\ne.g.\ntemperature must be between 36 and 37.5 degrees Celsius [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Distinguish between physiological and behavioural responses.",
-        "solution": "Physiological response is carried out by your systems, below the conscious level [1 marks]\nBehavioural is carried out consciously [1 marks]"
+        "solution": "Physiological response is carried out by your systems, below the conscious level [1 marks]\nBehavioural is carried out consciously [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 3,
         "prompt": "Describe the role of receptors in the mode of action of hormones.",
-        "solution": "Hormones must attach to receptor in order to carry out a function/alter the function of a cell [1 marks]\nReceptors are specific to hormones [1 marks]\nOnce hormone-receptor complex has been formed, cell function is altered [1 marks]"
+        "solution": "Hormones must attach to receptor in order to carry out a function/alter the function of a cell [1 marks]\nReceptors are specific to hormones [1 marks]\nOnce hormone-receptor complex has been formed, cell function is altered [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 6,
         "prompt": "Identify three different types of nervous system receptors found in the skin and describe their role.",
-        "solution": "Thermoreceptor\ndetect changes to the external temperatures [1-2 marks]\nMechano/touch receptors\ndetect changes in pressure [1-2 marks]\nPain/nociceptors\ndetect damage to tissue [1-2 marks]"
+        "solution": "Thermoreceptor\ndetect changes to the external temperatures [1-2 marks]\nMechano/touch receptors\ndetect changes in pressure [1-2 marks]\nPain/nociceptors\ndetect damage to tissue [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1544,12 +2412,23 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-homeostasis",
-      "h12-nervous",
-      "h12-endocrine"
+      "h12-endocrine",
+      "h12-nervous"
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-homeostasis-s2",
+      "h12-endocrine-s1",
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q38",
@@ -1567,21 +2446,44 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 6,
         "prompt": "The brain co-ordinates many essential body functions, and therefore needs to be protected. Describe how the brain is protected.",
-        "solution": "Bones of cranium\nprovide a strong structure to absorb shock [1-2 marks]\nMeninges are three layers of connective tissue\nthat surround and protect the brain; CSF occupies the subarachnoid space [1-2 marks]\nCerebrospinal fluid occupies spaces in the meninges\nto act as shock absorber and support the brain [1-2 marks]"
+        "solution": "Bones of cranium\nprovide a strong structure to absorb shock [1-2 marks]\nMeninges are three layers of connective tissue\nthat surround and protect the brain; CSF occupies the subarachnoid space [1-2 marks]\nCerebrospinal fluid occupies spaces in the meninges\nto act as shock absorber and support the brain [1-2 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 6,
         "prompt": "Describe and explain two physiological mechanisms initiated by the hypothalamus that normally work to maintain internal temperature when it is at risk of rising to levels above the upper tolerance limit.",
-        "solution": "One mark each for description and two for explanation of how each process maintains internal temp\nincrease diameter of skin arterioles/vasodilation\nleads to more blood closer to surface of the skin\nincreases heat loss through conduction/convection/radiation\n\nsweat released from sweat glands\nsweat evaporates from skin\nchange of state/when sweat turns to vapour this removes heat/increases heat loss from the body [1-6 marks]"
+        "solution": "One mark each for description and two for explanation of how each process maintains internal temp\nincrease diameter of skin arterioles/vasodilation\nleads to more blood closer to surface of the skin\nincreases heat loss through conduction/convection/radiation\n\nsweat released from sweat glands\nsweat evaporates from skin\nchange of state/when sweat turns to vapour this removes heat/increases heat loss from the body [1-6 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 8,
         "prompt": "Explain why a dysfunctional hypothalamus could cause a disorder of the endocrine system that results in an intolerance to heat.",
-        "solution": "Hypothalamus could be oversecreting TSH releasing factors/releasing factors [1 marks]\ntravel through bloodstream/vascular network to anterior pituitary [1 marks]\nanterior pituitary releases TSH [1 marks]\nTSH targets thyroid to release thyroxine [1 marks]\nincrease in thyroxine increases metabolism [1 marks]\ntherefore, an increase in chemical reactions = more heat production [1 marks]\nthis leads to feeling of constantly being hot/unable to withstand high temp [1 marks]\nthis is hyperthyroidism [1 marks]"
+        "solution": "Hypothalamus could be oversecreting TSH releasing factors/releasing factors [1 marks]\ntravel through bloodstream/vascular network to anterior pituitary [1 marks]\nanterior pituitary releases TSH [1 marks]\nTSH targets thyroid to release thyroxine [1 marks]\nincrease in thyroxine increases metabolism [1 marks]\ntherefore, an increase in chemical reactions = more heat production [1 marks]\nthis leads to feeling of constantly being hot/unable to withstand high temp [1 marks]\nthis is hyperthyroidism [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1",
+          "h12-endocrine-s2",
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1589,12 +2491,24 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-nervous",
-      "h12-endocrine",
-      "h12-homeostasis"
+      "h12-homeostasis",
+      "h12-endocrine"
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-nervous-s3",
+      "h12-homeostasis-s2",
+      "h12-endocrine-s1",
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q40",
@@ -1612,14 +2526,30 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 8,
         "prompt": "Outline three other contrasting points between the autonomic and somatic nervous systems and describe the pathway of the spinal reflex arc, explaining why it is considered involuntary.",
-        "solution": "Any three from the following, must include both sides of the contrasting point to receive mark\nautonomic adjust internal environment, somatic in response to external environment\nautonomic has two nerve fibres from the CNS, somatic has one\nautonomic has synapse/ganglion in pathway, somatic has no ganglion\nneurotransmitter in autonomic is acetylcholine or noradrenaline, for somatic is acetylcholine\nautonomic has two sets of nerves, somatic only has one set\nautonomic causes excitation or inhibition, somatic only causes excitation [1-3 marks]\nReflex arc\nStimulus detected by receptor [1 marks]\nNerve impulse travels through sensory neuron to spinal cord [1 marks]\nSynapses with motor neuron/synapses with interneuron in spinal cord [1 marks]\nMessage travels from spinal cord to effector [1 marks]\nInvoluntary because it does not require processing from brain and nerve impulse travels through spinal cord to effector directly [1 marks]"
+        "solution": "Any three from the following, must include both sides of the contrasting point to receive mark\nautonomic adjust internal environment, somatic in response to external environment\nautonomic has two nerve fibres from the CNS, somatic has one\nautonomic has synapse/ganglion in pathway, somatic has no ganglion\nneurotransmitter in autonomic is acetylcholine or noradrenaline, for somatic is acetylcholine\nautonomic has two sets of nerves, somatic only has one set\nautonomic causes excitation or inhibition, somatic only causes excitation [1-3 marks]\nReflex arc\nStimulus detected by receptor [1 marks]\nNerve impulse travels through sensory neuron to spinal cord [1 marks]\nSynapses with motor neuron/synapses with interneuron in spinal cord [1 marks]\nMessage travels from spinal cord to effector [1 marks]\nInvoluntary because it does not require processing from brain and nerve impulse travels through spinal cord to effector directly [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2",
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 12,
         "prompt": "Describe the cell-mediated immune response after exposure to a virus such as the COVID-19 virus and explain how an infection of the autonomic nervous system could cause the condition and symptoms described.",
-        "solution": "Antigen is taken up by an antigen-presenting cell; antigen presentation activates specific helper T cells. Helper cytokines support activation and clonal expansion of appropriate cytotoxic T cells. Cytotoxic T cells recognise and kill infected host cells; memory T cells remain; regulatory mechanisms limit the response (up to 8 marks). In the scenario, ANS dysfunction affects sympathetic and parasympathetic control (1), blood vessel smooth muscle and vascular resistance (1), and cardiac rate (1), potentially causing the stated tachycardia and low blood pressure (1)."
+        "solution": "Antigen is taken up by an antigen-presenting cell; antigen presentation activates specific helper T cells. Helper cytokines support activation and clonal expansion of appropriate cytotoxic T cells. Cytotoxic T cells recognise and kill infected host cells; memory T cells remain; regulatory mechanisms limit the response (up to 8 marks). In the scenario, ANS dysfunction affects sympathetic and parasympathetic control (1), blood vessel smooth muscle and vascular resistance (1), and cardiac rate (1), potentially causing the stated tachycardia and low blood pressure (1).",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2",
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1631,7 +2561,18 @@ window.QUESTION_BANK.push(...[
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-nervous-s2",
+      "h12-nervous-s3",
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u3-q41",
@@ -1649,21 +2590,42 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 4,
         "prompt": "One of the key hormones released by Evangeline’s endocrine system to maintain her internal fluid balance is a small peptide hormone. Describe the mode of action for this hormone.",
-        "solution": "Attaches to receptor in the cell membrane [1 marks]\nthis activates a secondary messenger in the target cell [1 marks]\nsecondary messenger changes enzyme function/activates enzymes [1 marks]\ncausing a change in rate of reaction in the cell/upregulating expression of aquaporins [1 marks]"
+        "solution": "Attaches to receptor in the cell membrane [1 marks]\nthis activates a secondary messenger in the target cell [1 marks]\nsecondary messenger changes enzyme function/activates enzymes [1 marks]\ncausing a change in rate of reaction in the cell/upregulating expression of aquaporins [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.1",
         "type": "written",
         "marks": 9,
         "prompt": "Describe and explain how and why Evangeline’s endocrine system would be working to maintain her body fluid concentrations during her training.",
-        "solution": "Evangeline would have lost a lot of fluid through sweating [1 marks]\nthis increases osmotic pressure in the blood [1 marks]\nosmoreceptors detect this change in osmotic pressure [1 marks]\nhypothalamus sends nerve impulse to posterior pituitary [1 marks]\nwhich causes release of antidiuretic hormone [1 marks]\ntargets distal convoluted tubule and collecting duct of nephron [1 marks]\nto increase permeability to water [1 marks]\nwhich increases reabsorption of water into the blood [1 marks]\nthis lowers osmotic pressure [1 marks]"
+        "solution": "Evangeline would have lost a lot of fluid through sweating [1 marks]\nthis increases osmotic pressure in the blood [1 marks]\nosmoreceptors detect this change in osmotic pressure [1 marks]\nhypothalamus sends nerve impulse to posterior pituitary [1 marks]\nwhich causes release of antidiuretic hormone [1 marks]\ntargets distal convoluted tubule and collecting duct of nephron [1 marks]\nto increase permeability to water [1 marks]\nwhich increases reabsorption of water into the blood [1 marks]\nthis lowers osmotic pressure [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.2",
         "type": "written",
         "marks": 7,
         "prompt": "Describe and explain the appearance of the injury after Evangeline scrapes her knee.",
-        "solution": "Mast cells would be stimulated [1 marks]\ncause release of histamine [1 marks]\nwhich would increase permeability of blood vessels [1 marks]\nmore fluid escapes into surrounding tissue = swelling [1 marks]\nalso increase vasodilation [1 marks]\nsending more blood to the area = red and hot [1 marks]\nthis is inflammation/the inflammatory response [1 marks]"
+        "solution": "Mast cells would be stimulated [1 marks]\ncause release of histamine [1 marks]\nwhich would increase permeability of blood vessels [1 marks]\nmore fluid escapes into surrounding tissue = swelling [1 marks]\nalso increase vasodilation [1 marks]\nsending more blood to the area = red and hot [1 marks]\nthis is inflammation/the inflammatory response [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1676,6 +2638,17 @@ window.QUESTION_BANK.push(...[
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-endocrine-s1",
+      "h12-homeostasis-s3",
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "structure": "multipart"
   }
 ]);

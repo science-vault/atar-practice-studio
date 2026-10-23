@@ -21,7 +21,14 @@ window.QUESTION_BANK.push(...[
           "arboreal clinging and leaping"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. brachiation"
+        "solution": "Supplied marking key: C. brachiation",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -33,7 +40,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q2",
@@ -57,7 +75,14 @@ window.QUESTION_BANK.push(...[
           "broad thorax"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. broad thorax"
+        "solution": "Supplied marking key: D. broad thorax",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -69,7 +94,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q3",
@@ -93,7 +129,14 @@ window.QUESTION_BANK.push(...[
           "a stronger degree of prognathism."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. a stronger degree of prognathism."
+        "solution": "Supplied marking key: D. a stronger degree of prognathism.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -105,7 +148,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q4",
@@ -129,7 +183,14 @@ window.QUESTION_BANK.push(...[
           "can be treated by removing all or part of the gland."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. would result in an intolerance to cold."
+        "solution": "Supplied marking key: A. would result in an intolerance to cold.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -141,7 +202,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q5",
@@ -165,7 +237,15 @@ window.QUESTION_BANK.push(...[
           "control hunger and thirst."
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. produce parathyroid hormone (PTH)."
+        "solution": "Supplied marking key: C. produce parathyroid hormone (PTH).",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1",
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -177,7 +257,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s1",
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q6",
@@ -201,7 +293,14 @@ window.QUESTION_BANK.push(...[
           "produces TSH."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. produces hormones."
+        "solution": "Supplied marking key: B. produces hormones.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -213,7 +312,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q7",
@@ -237,13 +347,31 @@ window.QUESTION_BANK.push(...[
           "Iodine 131 — half-life 8.05 days"
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. Uranium 238 — half-life 4.51 billion years"
+        "solution": "Supplied marking key: B. Uranium 238 — half-life 4.51 billion years",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-evidence"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-evidence-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q8",
@@ -267,13 +395,31 @@ window.QUESTION_BANK.push(...[
           "the size of the population living there was decreasing."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. the climate of the area was becoming drier."
+        "solution": "Supplied marking key: B. the climate of the area was becoming drier.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-evidence"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-evidence-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q9",
@@ -297,13 +443,33 @@ window.QUESTION_BANK.push(...[
           "all of the isotope will be present."
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. one quarter of the original amount of isotope will be present."
+        "solution": "Supplied marking key: C. one quarter of the original amount of isotope will be present.",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-evidence"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-evidence-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q11",
@@ -327,13 +493,31 @@ window.QUESTION_BANK.push(...[
           "hand axes, burin, hafting, spiritual beliefs"
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. pebble tools, use of fire, hafting, burin"
+        "solution": "Supplied marking key: C. pebble tools, use of fire, hafting, burin",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q13",
@@ -357,13 +541,33 @@ window.QUESTION_BANK.push(...[
           "Controlled variable: Newborns; Dependent variable: Incidence of diabetes; Uncontrolled variable: Other dietary proteins"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. Controlled variable: Newborns; Dependent variable: Incidence of diabetes; Uncontrolled variable: Other dietary proteins"
+        "solution": "Supplied marking key: D. Controlled variable: Newborns; Dependent variable: Incidence of diabetes; Uncontrolled variable: Other dietary proteins",
+        "questionTypes": [
+          "multiple_choice",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "scientific_inquiry"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q14",
@@ -387,13 +591,33 @@ window.QUESTION_BANK.push(...[
           "decrease the number of uncontrolled variables to improve validity"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. decrease the number of uncontrolled variables to improve validity"
+        "solution": "Supplied marking key: D. decrease the number of uncontrolled variables to improve validity",
+        "questionTypes": [
+          "multiple_choice",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-homeostasis"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "scientific_inquiry"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q15",
@@ -417,7 +641,15 @@ window.QUESTION_BANK.push(...[
           "This mutation would reduce variation in the population."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. This mutation will change the amino acid sequence."
+        "solution": "Supplied marking key: A. This mutation will change the amino acid sequence.",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-variation-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -451,7 +683,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-variation"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-variation-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q16",
@@ -475,7 +719,14 @@ window.QUESTION_BANK.push(...[
           "Gorilla: Jaw T; Human: Jaw S; Australopithecine: Jaw R"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. Gorilla: Jaw S; Human: Jaw R; Australopithecine: Jaw T"
+        "solution": "Supplied marking key: A. Gorilla: Jaw S; Human: Jaw R; Australopithecine: Jaw T",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -487,7 +738,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q17",
@@ -511,13 +773,31 @@ window.QUESTION_BANK.push(...[
           "short and broad."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. short and broad."
+        "solution": "Supplied marking key: D. short and broad.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q18",
@@ -541,13 +821,31 @@ window.QUESTION_BANK.push(...[
           "(i), (iv) and (v) only"
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. (i), (iv) and (v) only"
+        "solution": "Supplied marking key: D. (i), (iv) and (v) only",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-evidence"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-evidence-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q19",
@@ -571,7 +869,15 @@ window.QUESTION_BANK.push(...[
           "A. afarensis is least like the Outgroup."
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. Homo is more closely related to A. africanus than it is to A. afarensis."
+        "solution": "Supplied marking key: C. Homo is more closely related to A. africanus than it is to A. afarensis.",
+        "questionTypes": [
+          "multiple_choice",
+          "data_interpretation"
+        ],
+        "subtopicIds": [
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
@@ -583,7 +889,19 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-human-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "data_interpretation"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q20",
@@ -607,13 +925,31 @@ window.QUESTION_BANK.push(...[
           "is stimulated by the release of heparin."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. can kill bacteria or prevent them from dividing."
+        "solution": "Supplied marking key: B. can kill bacteria or prevent them from dividing.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q21",
@@ -637,7 +973,14 @@ window.QUESTION_BANK.push(...[
           "two target cells, one of which is more sensitive to this hormone than the other."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. two target cells, one of which is more sensitive to this hormone than the other."
+        "solution": "Supplied marking key: D. two target cells, one of which is more sensitive to this hormone than the other.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -649,7 +992,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-endocrine"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-endocrine-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q22",
@@ -673,7 +1027,14 @@ window.QUESTION_BANK.push(...[
           "phagocytes would be opsonised by activated T cells."
         ],
         "answer": 2,
-        "solution": "Supplied marking key: C. histamine would allow more fluid to exit the blood and enter the intercellular fluid."
+        "solution": "Supplied marking key: C. histamine would allow more fluid to exit the blood and enter the intercellular fluid.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -685,7 +1046,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q23",
@@ -709,13 +1081,31 @@ window.QUESTION_BANK.push(...[
           "There are two neurons in the parasympathetic nerve pathway."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. Sympathetic nerve impulses cause blood vessels to the gut to vasodilate."
+        "solution": "Supplied marking key: A. Sympathetic nerve impulses cause blood vessels to the gut to vasodilate.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q24",
@@ -739,7 +1129,14 @@ window.QUESTION_BANK.push(...[
           "Cells X, Y and Z are all part of the body’s non-specific internal immunity."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. Cell Z will be able to produce a stronger, faster response to this antigen in the future."
+        "solution": "Supplied marking key: B. Cell Z will be able to produce a stronger, faster response to this antigen in the future.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -751,7 +1148,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q25",
@@ -775,7 +1183,14 @@ window.QUESTION_BANK.push(...[
           "dissolves organisms"
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. phagocytosis"
+        "solution": "Supplied marking key: A. phagocytosis",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -787,7 +1202,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q27",
@@ -811,13 +1237,31 @@ window.QUESTION_BANK.push(...[
           "They can be found widespread geographically."
         ],
         "answer": 0,
-        "solution": "Supplied marking key: A. They should be found over a long period of time."
+        "solution": "Supplied marking key: A. They should be found over a long period of time.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-evidence"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-evidence-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q28",
@@ -841,13 +1285,31 @@ window.QUESTION_BANK.push(...[
           "decrease if people only married within their own cultural group."
         ],
         "answer": 3,
-        "solution": "Supplied marking key: D. decrease if people only married within their own cultural group."
+        "solution": "Supplied marking key: D. decrease if people only married within their own cultural group.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-variation-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 4,
     "topicIds": [
       "h12-variation"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-variation-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q29",
@@ -871,7 +1333,14 @@ window.QUESTION_BANK.push(...[
           "the inside of the neuron is becoming more negative and the outside more positive."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. the action potential will climb to a membrane potential of +30mV by point D."
+        "solution": "Supplied marking key: B. the action potential will climb to a membrane potential of +30mV by point D.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -883,7 +1352,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q30",
@@ -907,7 +1387,14 @@ window.QUESTION_BANK.push(...[
           "all ions must enter between the Schwann cells and exit through the myelin sheath."
         ],
         "answer": 1,
-        "solution": "Supplied marking key: B. a refractory period must occur within the nodes of Ranvier."
+        "solution": "Supplied marking key: B. a refractory period must occur within the nodes of Ranvier.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "unit": 3,
@@ -919,7 +1406,18 @@ window.QUESTION_BANK.push(...[
     ],
     "topicIds": [
       "h12-nervous"
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hb2024-u34-q31",
@@ -937,56 +1435,120 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Explain which skull/s could not have been found in Piluo.",
-        "solution": "Skull B and C [1 marks]\nOnly found in Africa / did not leave Africa [1 marks]"
+        "solution": "Skull B and C [1 marks]\nOnly found in Africa / did not leave Africa [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Name the species to which Skull A belongs and state one identifying characteristic in the image to justify your decision.",
-        "solution": "Homo erectus [1 marks]\nHas a sagittal keel [1 marks]"
+        "solution": "Homo erectus [1 marks]\nHas a sagittal keel [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 2,
         "prompt": "Name the species to which Skull C belongs and state one identifying characteristic in the image to justify your decision.",
-        "solution": "Paranthropus robustus [1 marks]\nSagittal crest [1 marks]"
+        "solution": "Paranthropus robustus [1 marks]\nSagittal crest [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 1,
         "prompt": "The species depicted by Skull C is herbivorous. Use the image to justify this decision.",
-        "solution": "Large molars and premolars [1 marks]\nLong ramus in mandible"
+        "solution": "Large molars and premolars [1 marks]\nLong ramus in mandible",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 2,
         "prompt": "Name the pieces removed from a prepared rock core and the hominin species associated with the prepared-core toolkit A shown.",
-        "solution": "Flakes [1 marks]\nHomo neanderthalensis [1 marks]"
+        "solution": "Flakes [1 marks]\nHomo neanderthalensis [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "f.i",
         "type": "written",
         "marks": 1,
         "prompt": "What would Tool B have been made out of?",
-        "solution": "bone [1 marks]\ntusk\nantler"
+        "solution": "bone [1 marks]\ntusk\nantler",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "f.ii",
         "type": "written",
         "marks": 1,
         "prompt": "What species would have been the first to make tools of this kind?",
-        "solution": "Homo sapiens [1 marks]\nCro Magnon"
+        "solution": "Homo sapiens [1 marks]\nCro Magnon",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "g",
         "type": "written",
         "marks": 2,
         "prompt": "Besides tools, state one cultural feature Homo neanderthalensis and Homo sapiens (Cro Magnon) were each believed to have first demonstrated.",
-        "solution": "Homo neanderthalensis – burying dead / spiritual beliefs [1 marks]\nHomo sapiens – art / murals [1 marks]"
+        "solution": "Homo neanderthalensis – burying dead / spiritual beliefs [1 marks]\nHomo sapiens – art / murals [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-human-s1",
+          "h12-human-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "tables": [],
@@ -1003,7 +1565,20 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-human"
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-human-s1",
+      "h12-human-s2"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q32",
@@ -1021,42 +1596,84 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 4,
         "prompt": "Explain how this frequency could have come about.",
-        "solution": "The village formed a small isolated population [1 marks]\nDue to geographical barriers [1 marks]\nPeople could only breed within the village / no gene flow [1 marks]\nDue to random genetic drift / founder effect [1 marks]"
+        "solution": "The village formed a small isolated population [1 marks]\nDue to geographical barriers [1 marks]\nPeople could only breed within the village / no gene flow [1 marks]\nDue to random genetic drift / founder effect [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-variation-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.i",
         "type": "written",
         "marks": 1,
         "prompt": "Name the neurotransmitter whose reduced activity is associated with Alzheimer’s disease.",
-        "solution": "Acetylcholine [1 marks]"
+        "solution": "Acetylcholine [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.ii",
         "type": "written",
         "marks": 1,
         "prompt": "What substance enters the axon terminal and initiates the release of neurotransmitters?",
-        "solution": "Calcium [1 marks]"
+        "solution": "Calcium [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.iii",
         "type": "written",
         "marks": 1,
         "prompt": "Name the process that allows neurotransmitters to be released into the synapse.",
-        "solution": "Exocytosis [1 marks]"
+        "solution": "Exocytosis [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b.iv",
         "type": "written",
         "marks": 1,
         "prompt": "By what process do neurotransmitters move across the synapse?",
-        "solution": "Diffusion [1 marks]"
+        "solution": "Diffusion [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 3,
         "prompt": "Some drugs used to treat Alzheimer’s disease are injected into the cerebrospinal fluid. Describe the functions of cerebrospinal fluid and suggest why drugs might be given in this way.",
-        "solution": "Shock absorbing [1-2 marks]\nProvide nutrients to the CNS tissues\nRemove waste from the CNS tissues\nImprove access to brain cells [1 marks]"
+        "solution": "Shock absorbing [1-2 marks]\nProvide nutrients to the CNS tissues\nRemove waste from the CNS tissues\nImprove access to brain cells [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1069,14 +1686,25 @@ window.QUESTION_BANK.push(...[
     "units": [
       3,
       4
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-variation-s2",
+      "h12-nervous-s1",
+      "h12-nervous-s3"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q33",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-nervous",
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 33",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q33",
     "sample": false,
@@ -1087,42 +1715,85 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 3,
         "prompt": "Identify structures 2, 4 and 5 in the reflex-arc diagram.",
-        "solution": "2 – nocireceptors / pain receptors / thermoreceptors [1 marks]\n4 – effectors [1 marks]\n5 – grey matter [1 marks]"
+        "solution": "2 – nocireceptors / pain receptors / thermoreceptors [1 marks]\n4 – effectors [1 marks]\n5 – grey matter [1 marks]",
+        "questionTypes": [
+          "diagram"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Identify Structure 6 in the image above and state what would be found there.",
-        "solution": "Dorsal / posterior root ganglion [1 marks]\nCell bodies of sensory neurons [1 marks]"
+        "solution": "Dorsal / posterior root ganglion [1 marks]\nCell bodies of sensory neurons [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 2,
         "prompt": "State one structural and one functional characteristic most reflex arcs share.",
-        "solution": "Structural – made of 3 neurons / contains sensory, connector and motor neurons [1 marks]\nFunctional – fast / automatic / involuntary / stereotyped / does not involve the brain in determining a response / require a stimulus [1 marks]"
+        "solution": "Structural – made of 3 neurons / contains sensory, connector and motor neurons [1 marks]\nFunctional – fast / automatic / involuntary / stereotyped / does not involve the brain in determining a response / require a stimulus [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "Describe how Structure B varies between great apes and humans and suggest an advantage of such a variation to humans.",
-        "solution": "Smaller cerebrum / less cerebral cortex in great apes compared to humans [1 marks]\nAllows humans to learn / communicate / think / reason / remember / process information more quickly/easily [1 marks]"
+        "solution": "Smaller cerebrum / less cerebral cortex in great apes compared to humans [1 marks]\nAllows humans to learn / communicate / think / reason / remember / process information more quickly/easily [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 1,
         "prompt": "Suggest how Structures A and D are similar.",
-        "solution": "Both contain white matter / connect parts of the CNS with each other [1 marks]"
+        "solution": "Both contain white matter / connect parts of the CNS with each other [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "f",
         "type": "written",
         "marks": 5,
         "prompt": "Explain the role of Structure C in decreasing carbon dioxide concentrations in the blood.",
-        "solution": "Chemoreceptors in the aortic and carotid bodies / respiratory centre of the medulla oblongata detect high carbon dioxide levels in the blood [1 marks]\nAnd pass nervous impulses / action potentials to the respiratory centre in the medulla oblongata [1 marks]\nWhich sends nerve impulses via the phrenic and intercostal nerves [1 marks]\nTo cause the diaphragm and intercostal muscles [1 marks]\nTo contract and relax faster [1 marks]"
+        "solution": "Chemoreceptors in the aortic and carotid bodies / respiratory centre of the medulla oblongata detect high carbon dioxide levels in the blood [1 marks]\nAnd pass nervous impulses / action potentials to the respiratory centre in the medulla oblongata [1 marks]\nWhich sends nerve impulses via the phrenic and intercostal nerves [1 marks]\nTo cause the diaphragm and intercostal muscles [1 marks]\nTo contract and relax faster [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3",
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1138,8 +1809,24 @@ window.QUESTION_BANK.push(...[
     ],
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
-      "h12-nervous"
-    ]
+      "h12-nervous",
+      "h12-homeostasis"
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-nervous-s2",
+      "h12-nervous-s3",
+      "h12-homeostasis-s1"
+    ],
+    "questionTypes": [
+      "diagram",
+      "short_answer",
+      "multipart"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q34",
@@ -1157,49 +1844,99 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "Define homeostasis.",
-        "solution": "The maintenance of a relatively constant internal environment [1 marks]\nFor the body’s optimal functioning [1 marks]"
+        "solution": "The maintenance of a relatively constant internal environment [1 marks]\nFor the body’s optimal functioning [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Name hormones X and Y.",
-        "solution": "X – calcitonin [1 marks]\nY – PTH / parathyroid hormone [1 marks]"
+        "solution": "X – calcitonin [1 marks]\nY – PTH / parathyroid hormone [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 1,
         "prompt": "State the effect of Hormone X on bone.",
-        "solution": "Stores calcium in bone tissue [1 marks]"
+        "solution": "Stores calcium in bone tissue [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "Besides involvement in managing blood calcium levels, the thyroid is also involved in temperature regulation. Explain how the thyroid regulates body temperature.",
-        "solution": "Thyroid produces thyroxine which affects all body cells [1 marks]\nIncreasing the rate of cell respiration / metabolism which creates heat [1 marks]"
+        "solution": "Thyroid produces thyroxine which affects all body cells [1 marks]\nIncreasing the rate of cell respiration / metabolism which creates heat [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-endocrine-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e.i",
         "type": "written",
         "marks": 4,
         "prompt": "Explain how two nervous communications would help to regulate body temperature.",
-        "solution": "Any 2 of the following points, named and explained\nShivering – generates heat [1-2 marks]\nSweating – loses heat through evaporation [1-2 marks]\nVasodilation – loses heat through conduction / convection / radiation [1-2 marks]\nVasoconstriction – reduces heat loss through conduction / convection / radiation [1-2 marks]"
+        "solution": "Any 2 of the following points, named and explained\nShivering – generates heat [1-2 marks]\nSweating – loses heat through evaporation [1-2 marks]\nVasodilation – loses heat through conduction / convection / radiation [1-2 marks]\nVasoconstriction – reduces heat loss through conduction / convection / radiation [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2",
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e.ii",
         "type": "written",
         "marks": 2,
         "prompt": "State the division of the nervous system that these nervous communications would pass through and explain your choice.",
-        "solution": "Any 1 of the following points, named and explained\nEfferent – the message is travelling from the CNS to the body [1-2 marks]\nAutonomic – the message is unconscious [1-2 marks]"
+        "solution": "Any 1 of the following points, named and explained\nEfferent – the message is travelling from the CNS to the body [1-2 marks]\nAutonomic – the message is unconscious [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e.iii",
         "type": "written",
         "marks": 2,
         "prompt": "Explain two ways in which behaviour could help to regulate body temperature.",
-        "solution": "Any 2 of the following points, explained\nPut on clothes / sit in front of a heater / huddle / exercise / hot shower etc [1 marks]\nReduce heat loss / generate heat (must match behaviour)\nTake off clothes / sit in air conditioning / spread out / don’t move / swim etc [1 marks]\nIncrease heat loss / generate less heat (must match behaviour)"
+        "solution": "Any 2 of the following points, explained\nPut on clothes / sit in front of a heater / huddle / exercise / hot shower etc [1 marks]\nReduce heat loss / generate heat (must match behaviour)\nTake off clothes / sit in air conditioning / spread out / don’t move / swim etc [1 marks]\nIncrease heat loss / generate less heat (must match behaviour)",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1211,13 +1948,24 @@ window.QUESTION_BANK.push(...[
     ],
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
-      "h12-endocrine",
       "h12-homeostasis",
+      "h12-endocrine",
       "h12-nervous"
     ],
     "units": [
       3
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-homeostasis-s2",
+      "h12-endocrine-s2",
+      "h12-nervous-s2"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q35",
@@ -1235,35 +1983,70 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 8,
         "prompt": "A variety of dating techniques can be used to determine the age of different fossils. Complete the table below to differentiate between carbon 14 dating and stratigraphy.",
-        "solution": " [Carbon 14 dating marks]\nIdentify whether this technique is a form of relative or absolute dating [Absolute marks]\nType of material dated using this technique [Organic marks]\nTime limit associated with this technique [Less than 70,000 years marks]\nOne weakness associated with this technique [At least 3 g of material is required /\nC14:C12 ratio is not the same through history / C14:C12 ratio is not the same everywhere in the world marks]"
+        "solution": " [Carbon 14 dating marks]\nIdentify whether this technique is a form of relative or absolute dating [Absolute marks]\nType of material dated using this technique [Organic marks]\nTime limit associated with this technique [Less than 70,000 years marks]\nOne weakness associated with this technique [At least 3 g of material is required /\nC14:C12 ratio is not the same through history / C14:C12 ratio is not the same everywhere in the world marks]",
+        "questionTypes": [
+          "table_completion"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 4,
         "prompt": "State two conditions required for fossilisation to take place and two reasons why fossils may not be found.",
-        "solution": "Quick burial / presence of hard body parts / absence of decay organisms / long period of stability / alkaline soil / sedimentary soils / lack of oxygen [1-2 marks]\nWe don’t look in the right places / buried too deep / inaccessible / destroyed by human activity / don’t recognise them as fossils [1-2 marks]"
+        "solution": "Quick burial / presence of hard body parts / absence of decay organisms / long period of stability / alkaline soil / sedimentary soils / lack of oxygen [1-2 marks]\nWe don’t look in the right places / buried too deep / inaccessible / destroyed by human activity / don’t recognise them as fossils [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 2,
         "prompt": "DNA extracted from fossils can be used to determine the relationships between organisms and patterns of migration. Give two reasons why mitochondrial DNA might be used rather than nuclear DNA to determine these relationships.",
-        "solution": "Higher rate of mutation than nuclear DNA / large amounts of it is present in cells / more easily accessible in cells [1-2 marks]"
+        "solution": "Higher rate of mutation than nuclear DNA / large amounts of it is present in cells / more easily accessible in cells [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "For this exercise, assume the two Homo species have the most similar DNA sequences. Which species is therefore most likely Australopithecus africanus? Justify your answer using the sequence differences.",
-        "solution": "Species 2 [1 marks]\nIt has the most / 5 and 6 differences to the other species as it is in a different genus [1 marks]"
+        "solution": "Species 2 [1 marks]\nIt has the most / 5 and 6 differences to the other species as it is in a different genus [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s2"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 6,
         "prompt": "Complete the table below by contrasting the skeletal structures of the hands and feet between Australopithecus afarensis and Homo erectus and suggest an advantage of these adaptations for each species.",
-        "solution": " [Australopithecus afarensis marks]\nHands [short thumbs\nlong fingers\ncurved finger bones marks]\nFeet [Long toes\nCurved toe bones marks]\nAdvantage [Able to climb trees marks]"
+        "solution": " [Australopithecus afarensis marks]\nHands [short thumbs\nlong fingers\ncurved finger bones marks]\nFeet [Long toes\nCurved toe bones marks]\nAdvantage [Able to climb trees marks]",
+        "questionTypes": [
+          "table_completion"
+        ],
+        "subtopicIds": [
+          "h12-human-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [
@@ -1363,7 +2146,19 @@ window.QUESTION_BANK.push(...[
     ],
     "units": [
       4
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-evidence-s1",
+      "h12-evidence-s2",
+      "h12-human-s1"
+    ],
+    "questionTypes": [
+      "table_completion",
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q36",
@@ -1381,56 +2176,124 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 2,
         "prompt": "What is gene therapy?",
-        "solution": "The replacement of an affected gene with a healthy gene [1 marks]\nIn order to treat single gene disorders [1 marks]"
+        "solution": "The replacement of an affected gene with a healthy gene [1 marks]\nIn order to treat single gene disorders [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Explain why the researchers believed that gene therapy on the stem cells would provide better outcomes than stem cell replacement therapy alone.",
-        "solution": "Stem cells from the children will contain the same genetic disorder [1 marks]\nGene therapy will give them a healthy gene [1 marks]"
+        "solution": "Stem cells from the children will contain the same genetic disorder [1 marks]\nGene therapy will give them a healthy gene [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 3,
         "prompt": "Describe three ways in which the researchers could have conducted their research in an ethical manner.",
-        "solution": "Confidential / anonymous / informed written consent / right to withdraw / minimised harm / voluntary participation [1-3 marks]"
+        "solution": "Confidential / anonymous / informed written consent / right to withdraw / minimised harm / voluntary participation [1-3 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 1,
         "prompt": "State an appropriate title for their table of results.",
-        "solution": "The effect of cell replacement and gene therapy on average number of T cells in the blood of children with SCID [1 marks]"
+        "solution": "The effect of cell replacement and gene therapy on average number of T cells in the blood of children with SCID [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 2,
         "prompt": "Explain why no treatment was given to some children.",
-        "solution": "They were the control [1 marks]\nAs a means for comparison to the treatment groups [1 marks]"
+        "solution": "They were the control [1 marks]\nAs a means for comparison to the treatment groups [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "f",
         "type": "written",
         "marks": 2,
         "prompt": "Explain which type of graph they should use to represent their data.",
-        "solution": "Line graph [1 marks]\nAs the data is continuous [1 marks]"
+        "solution": "Line graph [1 marks]\nAs the data is continuous [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "g",
         "type": "written",
         "marks": 2,
         "prompt": "In their analysis, the researchers suggested that future study should increase the reliability. Describe how and why they should do this given the opportunity.",
-        "solution": "Increase the number of children used / repeat the experiment [1 marks]\nSo that they can identify outliers / ensure the data is consistent in the same population [1 marks]"
+        "solution": "Increase the number of children used / repeat the experiment [1 marks]\nSo that they can identify outliers / ensure the data is consistent in the same population [1 marks]",
+        "questionTypes": [
+          "short_answer",
+          "scientific_inquiry"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "h",
         "type": "written",
         "marks": 2,
         "prompt": "Children with SCID must have numerous injections to provide them with the immunity their own body can’t provide. Explain what type of immunity they are being given.",
-        "solution": "Artificial passive [1 marks]\nThey are being injected with antibodies [1 marks]"
+        "solution": "Artificial passive [1 marks]\nThey are being injected with antibodies [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [
@@ -1480,7 +2343,18 @@ window.QUESTION_BANK.push(...[
     "units": [
       3,
       4
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-biotech-s1",
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "scientific_inquiry",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q37",
@@ -1498,49 +2372,98 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 4,
         "prompt": "Explain why untreated Type 1 diabetes may cause weight loss and why excess body weight is a risk factor for Type 2 diabetes.",
-        "solution": "Type 1: insulin deficiency reduces glucose uptake by insulin-dependent tissues (1); breakdown of stored fat and protein contributes to weight loss (1). Type 2: excess adiposity is associated with insulin resistance (1); cells respond less effectively to insulin, raising blood glucose (1)."
+        "solution": "Type 1: insulin deficiency reduces glucose uptake by insulin-dependent tissues (1); breakdown of stored fat and protein contributes to weight loss (1). Type 2: excess adiposity is associated with insulin resistance (1); cells respond less effectively to insulin, raising blood glucose (1).",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 2,
         "prompt": "Differentiate between the treatment for Type 1 and Type 2 diabetes.",
-        "solution": "Type 1 requires insulin replacement (1). Type 2 management includes diet and activity changes and may also require glucose-lowering medicines or insulin (1)."
+        "solution": "Type 1 requires insulin replacement (1). Type 2 management includes diet and activity changes and may also require glucose-lowering medicines or insulin (1).",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-homeostasis-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 2,
         "prompt": "Mutations in the HLA-DR3 and HLA-DR4 genes are linked to the incidence of Type 1 diabetes. If these mutations can be found in families, explain whether these mutations are somatic or germline in nature.",
-        "solution": "Germline variation (1), because the associated susceptibility alleles can be inherited through gametes; inheriting risk does not guarantee diabetes (1)."
+        "solution": "Germline variation (1), because the associated susceptibility alleles can be inherited through gametes; inheriting risk does not guarantee diabetes (1).",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-variation-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
         "type": "written",
         "marks": 2,
         "prompt": "Researchers have used gel electrophoresis and PCR to study the HLA-DR3 and HLA-DR4 genes. Explain why each of these processes would have been used in the study.",
-        "solution": "PCR amplifies a selected DNA region (1). Gel electrophoresis separates DNA fragments by size, allowing suitable allele-specific or restriction-fragment patterns to be compared (1)."
+        "solution": "PCR amplifies a selected DNA region (1). Gel electrophoresis separates DNA fragments by size, allowing suitable allele-specific or restriction-fragment patterns to be compared (1).",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e",
         "type": "written",
         "marks": 2,
         "prompt": "Give two advantages of biosynthetic human insulin over insulin extracted from animals.",
-        "solution": "Any two: scalable supply, no need to extract insulin from slaughtered animals, high purity, and reduced risk of immune reactions to non-human insulin. [2 marks]"
+        "solution": "Any two: scalable supply, no need to extract insulin from slaughtered animals, high purity, and reduced risk of immune reactions to non-human insulin. [2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "f.i",
         "type": "written",
         "marks": 2,
         "prompt": "Give two reasons why Cell A is used in this process over other types of cells.",
-        "solution": "Available in large numbers / reproduces quickly / only requires a small amount of space / has been well studied / reproduces plasmids [1-2 marks]"
+        "solution": "Available in large numbers / reproduces quickly / only requires a small amount of space / has been well studied / reproduces plasmids [1-2 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "f.ii",
         "type": "written",
         "marks": 4,
         "prompt": "Identify Substance C and Substance D and explain why they are used in this process.",
-        "solution": "Substance C – restriction enzyme [1 marks]\nCuts open DNA leaving sticky ends [1 marks]\nSubstance D – DNA ligase [1 marks]\nBinds sticky ends of DNA back together [1 marks]"
+        "solution": "Substance C – restriction enzyme [1 marks]\nCuts open DNA leaving sticky ends [1 marks]\nSubstance D – DNA ligase [1 marks]\nBinds sticky ends of DNA back together [1 marks]",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1559,7 +2482,18 @@ window.QUESTION_BANK.push(...[
     "units": [
       3,
       4
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "h12-homeostasis-s1",
+      "h12-variation-s1",
+      "h12-biotech-s1"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q39",
@@ -1577,21 +2511,45 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 8,
         "prompt": "Describe the characteristics of bacterial cells and suggest how the diphtheria vaccine could provide immunity to this disease.",
-        "solution": "Bacterial cells have a cell wall / slime layer / plasmids / no nucleus / one strand of DNA in the cytoplasm / no membrane bound organelles / seen using a light microscope / one cell big [1-3 marks]\nWhen injected into the body, the diphtheria toxin is seen as an antigen [1-5 marks]\nB cells will become activated, sensitised, enlarge and divide\nDividing to form plasma cells and memory cells\nThe plasma cells will produce antibodies\nAntibodies will destroy the antigen\nThe memory cells will remember the antigen for the future\nSo they can provide a faster stronger response"
+        "solution": "Bacterial cells have a cell wall / slime layer / plasmids / no nucleus / one strand of DNA in the cytoplasm / no membrane bound organelles / seen using a light microscope / one cell big [1-3 marks]\nWhen injected into the body, the diphtheria toxin is seen as an antigen [1-5 marks]\nB cells will become activated, sensitised, enlarge and divide\nDividing to form plasma cells and memory cells\nThe plasma cells will produce antibodies\nAntibodies will destroy the antigen\nThe memory cells will remember the antigen for the future\nSo they can provide a faster stronger response",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 8,
         "prompt": "State whether antibiotics or antivirals would be used to treat diphtheria, explain your choice and describe how they act to treat the disease.",
-        "solution": "Antibiotics [1 marks]\nAs diphtheria is a bacteria / antivirals only work on viruses [1 marks]\nBacteriocides [1 marks]\nWhich kill the bacteria [1 marks]\nBy changing the structure of the cell wall / cell membrane [1 marks]\nBy disrupting essential enzymes\nBacteriostatics [1 marks]\nWhich stop the bacteria from reproducing [1 marks]\nBy disrupting protein synthesis [1 marks]"
+        "solution": "Antibiotics [1 marks]\nAs diphtheria is a bacteria / antivirals only work on viruses [1 marks]\nBacteriocides [1 marks]\nWhich kill the bacteria [1 marks]\nBy changing the structure of the cell wall / cell membrane [1 marks]\nBy disrupting essential enzymes\nBacteriostatics [1 marks]\nWhich stop the bacteria from reproducing [1 marks]\nBy disrupting protein synthesis [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "marks": 4,
         "prompt": "Diphtheria is part of the Australian National Immunisation Program Schedule which begins when babies are 2 months of age. Give reasons why parents might choose to vaccinate their child against diphtheria.",
-        "solution": "Easy access / peers are vaccinating / requirement for childcare / free / high level of maternal education / they themselves were vaccinated / believe it will protect their child against the disease / [1-4 marks]"
+        "solution": "Easy access / peers are vaccinating / requirement for childcare / free / high level of maternal education / they themselves were vaccinated / believe it will protect their child against the disease / [1-4 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-disease-s1",
+          "h12-disease-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "tables": [],
@@ -1599,7 +2557,20 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-disease"
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-disease-s1",
+      "h12-disease-s2"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q40",
@@ -1617,14 +2588,29 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 8,
         "prompt": "Explain how DNA sequencing, comparative biochemistry and bioinformatics would have been used in this research.",
-        "solution": "DNA sequencing\nInvestigators would have collected DNA samples from each of the Yamnaya specimens [1-2 marks]\nThen determined the nitrogen base sequence for the DNA of each specimen\nComparative biochemistry\nDNA sequences from the Yamnaya would have been compared to the UK specimens who had multiple sclerosis (MS) [1-3 marks]\nIn order to see whether the Yamnaya carried the MS gene\nThe more similar the DNA sequences the more closely related the Yamnaya were to the UK population\nAnd the more recent their common ancestors\nBioinformatics\nThe amount of data required to be compared for all the genomes is extremely large [1-3 marks]\nSo the DNA data would be held and compared using computer technology\nWhich would more accurately be able to identify similarities and differences in the DNA sequences"
+        "solution": "DNA sequencing\nInvestigators would have collected DNA samples from each of the Yamnaya specimens [1-2 marks]\nThen determined the nitrogen base sequence for the DNA of each specimen\nComparative biochemistry\nDNA sequences from the Yamnaya would have been compared to the UK specimens who had multiple sclerosis (MS) [1-3 marks]\nIn order to see whether the Yamnaya carried the MS gene\nThe more similar the DNA sequences the more closely related the Yamnaya were to the UK population\nAnd the more recent their common ancestors\nBioinformatics\nThe amount of data required to be compared for all the genomes is extremely large [1-3 marks]\nSo the DNA data would be held and compared using computer technology\nWhich would more accurately be able to identify similarities and differences in the DNA sequences",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-evidence-s2",
+          "h12-biotech-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 12,
         "prompt": "Multiple sclerosis is an autoimmune disease, where the immune system has a strong response to the body’s own cells. There is a suggestion this may have protected the Yamnaya from diseases found in the animals they herded. Using the research about multiple sclerosis, explain how this demonstrates natural selection.",
-        "solution": "Within the proposed scenario: heritable variation in immune-related alleles exists; some variants improve resistance to livestock pathogens; pathogen exposure is a selection pressure; individuals differ in survival; beneficial variants can improve survival to reproductive age; surviving carriers can leave more offspring; alleles pass through gametes; offspring inherit the variants; this differential reproductive success changes allele frequencies; repeated selection over generations raises advantageous allele frequencies; migration can introduce these alleles to new populations; an allele advantageous historically may increase autoimmune disease susceptibility in a different environment. [Up to 12 marks for a linked explanation.]"
+        "solution": "Within the proposed scenario: heritable variation in immune-related alleles exists; some variants improve resistance to livestock pathogens; pathogen exposure is a selection pressure; individuals differ in survival; beneficial variants can improve survival to reproductive age; surviving carriers can leave more offspring; alleles pass through gametes; offspring inherit the variants; this differential reproductive success changes allele frequencies; repeated selection over generations raises advantageous allele frequencies; migration can introduce these alleles to new populations; an allele advantageous historically may increase autoimmune disease susceptibility in a different environment. [Up to 12 marks for a linked explanation.]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-variation-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1637,7 +2623,18 @@ window.QUESTION_BANK.push(...[
     ],
     "units": [
       4
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-evidence-s2",
+      "h12-biotech-s1",
+      "h12-variation-s2"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hb2024-u34-q41",
@@ -1655,14 +2652,28 @@ window.QUESTION_BANK.push(...[
         "type": "written",
         "marks": 8,
         "prompt": "Define mutation, name the specific type of mutation that is caused by sickle cell and describe how mutations can come about.",
-        "solution": "A mutation is a change in DNA sequence (1). Sickle cell disease involves a single-base substitution in HBB (1). Mutations may arise from replication errors (1), including substitutions, insertions or deletions (1); insertions/deletions not in multiples of three cause a reading-frame shift. Chromosome changes can arise during cell division (1), e.g. inversions, translocations or nondisjunction (1). Mutagens can damage DNA (1), e.g. UV light, ionising radiation or certain chemicals (1)."
+        "solution": "A mutation is a change in DNA sequence (1). Sickle cell disease involves a single-base substitution in HBB (1). Mutations may arise from replication errors (1), including substitutions, insertions or deletions (1); insertions/deletions not in multiples of three cause a reading-frame shift. Chromosome changes can arise during cell division (1), e.g. inversions, translocations or nondisjunction (1). Mutagens can damage DNA (1), e.g. UV light, ionising radiation or certain chemicals (1).",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-variation-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
         "type": "written",
         "marks": 12,
         "prompt": "Suggest how different selection pressures and founder effects could account for the incidence of sickle cell in different countries.",
-        "solution": "Sickle-cell trait heterozygotes produce both HbA and HbS and are usually asymptomatic; it is not a case of half their red cells being affected [1 marks]\nHeterozygotes have a resistance to malaria [1 marks]\nIn countries where malaria is present, malaria would be the selection pressure [1 marks]\nThose without sickle cell trait are more likely to die of malaria [1 marks]\nThose with sickle cell trait have a survival advantage [1 marks]\nAnd are more likely to survive to reproductive maturity [1 marks]\nAnd pass on the sickle cell allele [1 marks]\nResulting in the frequency of the sickle cell allele becoming more common in these countries [1 marks]\nIf malaria is not present, the frequency of the sickle cell allele would vary as there is no advantage to it being present [1 marks]\nFounder effect occurs when a small group leaves their large population and begins again somewhere else [1 marks]\nBy chance, this small group may not contain all the alleles of the original population [1 marks]\nIf someone did contain the sickle cell allele, over time it may become more common through random genetic drift regardless of whether malaria was present or not [1 marks]"
+        "solution": "Sickle-cell trait heterozygotes produce both HbA and HbS and are usually asymptomatic; it is not a case of half their red cells being affected [1 marks]\nHeterozygotes have a resistance to malaria [1 marks]\nIn countries where malaria is present, malaria would be the selection pressure [1 marks]\nThose without sickle cell trait are more likely to die of malaria [1 marks]\nThose with sickle cell trait have a survival advantage [1 marks]\nAnd are more likely to survive to reproductive maturity [1 marks]\nAnd pass on the sickle cell allele [1 marks]\nResulting in the frequency of the sickle cell allele becoming more common in these countries [1 marks]\nIf malaria is not present, the frequency of the sickle cell allele would vary as there is no advantage to it being present [1 marks]\nFounder effect occurs when a small group leaves their large population and begins again somewhere else [1 marks]\nBy chance, this small group may not contain all the alleles of the original population [1 marks]\nIf someone did contain the sickle cell allele, over time it may become more common through random genetic drift regardless of whether malaria was present or not [1 marks]",
+        "questionTypes": [
+          "extended_response"
+        ],
+        "subtopicIds": [
+          "h12-variation-s2"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "tables": [],
@@ -1670,6 +2681,19 @@ window.QUESTION_BANK.push(...[
     "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
     "topicIds": [
       "h12-variation"
-    ]
+    ],
+    "examSection": "extended_response",
+    "subtopicIds": [
+      "h12-variation-s1",
+      "h12-variation-s2"
+    ],
+    "questionTypes": [
+      "extended_response",
+      "multipart"
+    ],
+    "units": [
+      4
+    ],
+    "structure": "multipart"
   }
 ]);

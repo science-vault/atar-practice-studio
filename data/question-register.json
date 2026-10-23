@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "updatedDate": "2026-10-23",
   "sources": [
     {
@@ -124,7 +124,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s1",
+      "subtopics": "Voltage and Current",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 2,
       "marks": 4,
@@ -150,7 +155,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s6",
+      "subtopics": "Compound Circuits",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 2,
       "marks": 4,
@@ -176,7 +186,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s3",
+      "subtopics": "Energy and Power",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 1,
       "marks": 3,
@@ -202,7 +217,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "diagram; calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s1; p11-electric-s6; p11-electric-s3",
+      "subtopics": "Voltage and Current; Compound Circuits; Energy and Power",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 5,
       "marks": 13,
@@ -228,7 +248,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "Electrical Forces and Energy; Mechanical and Thermal Energy",
+      "structure": "multipart",
+      "questionTypes": "calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-thermal-s4; p11-electric-s3; p11-electric-s1",
+      "subtopics": "Specific Heat Capacity; Energy and Power; Voltage and Current",
+      "coveredTopics": "Mechanical and Thermal Energy; Electrical Forces and Energy",
       "units": "1; 2",
       "parts": 3,
       "marks": 8,
@@ -254,7 +279,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s3",
+      "subtopics": "Energy and Power",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 1,
       "marks": 4,
@@ -280,7 +310,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "short_answer",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s7",
+      "subtopics": "Electrical Safety",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 1,
       "marks": 3,
@@ -306,7 +341,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "equation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s2",
+      "subtopics": "Nuclear Reactions",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 3,
       "marks": 3,
@@ -332,7 +372,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "diagram; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s1; p11-nuclear-s4",
+      "subtopics": "Radioactive Nuclei; Dosage and Applications",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 4,
       "marks": 8,
@@ -358,7 +403,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "short_answer; calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s3",
+      "subtopics": "Half Life",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 2,
       "marks": 5,
@@ -384,7 +434,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s5",
+      "subtopics": "Energy and Momentum in Nuclear Events",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 2,
       "marks": 5,
@@ -410,7 +465,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "calculation",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s5; p11-nuclear-s7",
+      "subtopics": "Energy and Momentum in Nuclear Events; Nuclear Fusion and its Applications",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 1,
       "marks": 5,
@@ -436,7 +496,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "short_answer; calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s4",
+      "subtopics": "Dosage and Applications",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 3,
       "marks": 7,
@@ -462,7 +527,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-nuclear-s6; p11-nuclear-s7",
+      "subtopics": "Nuclear Fission and its Applications; Nuclear Fusion and its Applications",
+      "coveredTopics": "Ionising Radiation and Nuclear Reactions",
       "units": "2",
       "parts": 3,
       "marks": 6,
@@ -488,7 +558,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "p11-motion-s7",
+      "subtopics": "Newton’s Laws",
+      "coveredTopics": "Motion and Forces",
       "units": "1",
       "parts": 1,
       "marks": 1,
@@ -514,7 +589,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "p11-electric-s2",
+      "subtopics": "Resistance and Ohm’s Law",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 1,
       "marks": 1,
@@ -540,7 +620,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "p12-static-s4",
+      "subtopics": "Horizontal Circular Motion",
+      "coveredTopics": "Newtonian Motion within Gravitational Fields",
       "units": "3",
       "parts": 1,
       "marks": 1,
@@ -566,7 +651,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "c11-atomic-s1",
+      "subtopics": "Atomic Structure",
+      "coveredTopics": "Atomic Structure",
       "units": "1",
       "parts": 1,
       "marks": 1,
@@ -592,7 +682,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "c12-equilibrium-s3",
+      "subtopics": "Changes to Equilibrium",
+      "coveredTopics": "Rates and Equilibrium",
       "units": "3",
       "parts": 1,
       "marks": 1,
@@ -618,7 +713,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "c11-reactions-s1",
+      "subtopics": "The Mole",
+      "coveredTopics": "Chemical Reactions",
       "units": "1",
       "parts": 1,
       "marks": 1,
@@ -644,7 +744,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "b11-cells-s1",
+      "subtopics": "Cell biology",
+      "coveredTopics": "Cell biology",
       "units": "2",
       "parts": 1,
       "marks": 1,
@@ -670,7 +775,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "b12-evolution-s1",
+      "subtopics": "Evolution",
+      "coveredTopics": "Evolution",
       "units": "3",
       "parts": 1,
       "marks": 1,
@@ -696,7 +806,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h11-circulation-s1",
+      "subtopics": "Heart, Vessels and Circulation",
+      "coveredTopics": "Circulatory System",
       "units": "1",
       "parts": 1,
       "marks": 1,
@@ -722,7 +837,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s3",
+      "subtopics": "The Brain and Spinal Cord",
+      "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
       "marks": 1,
@@ -748,7 +868,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "s11-inquiry-s1",
+      "subtopics": "Research methods",
+      "coveredTopics": "Research methods",
       "units": "1",
       "parts": 1,
       "marks": 1,
@@ -774,7 +899,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "s12-learning-s1",
+      "subtopics": "Learning",
+      "coveredTopics": "Learning",
       "units": "3",
       "parts": 1,
       "marks": 1,
@@ -800,7 +930,12 @@
       "status": "sample",
       "uploadedDate": null,
       "recordedDate": "2026-10-23",
-      "coveredTopics": "",
+      "structure": "multipart",
+      "questionTypes": "calculation; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "p11-electric-s1; p11-electric-s3",
+      "subtopics": "Voltage and Current; Energy and Power",
+      "coveredTopics": "Electrical Forces and Energy",
       "units": "2",
       "parts": 3,
       "marks": 6,
@@ -826,6 +961,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s2",
+      "subtopics": "Body Temperature Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -852,6 +992,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -878,6 +1023,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -904,6 +1054,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s2",
+      "subtopics": "Endocrine Glands and Disorders",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -930,6 +1085,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; scientific_inquiry; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -956,6 +1116,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -982,6 +1147,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1008,6 +1178,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-biotech-s1",
+      "subtopics": "Biotechnology",
       "coveredTopics": "Biotechnology",
       "units": "4",
       "parts": 1,
@@ -1034,6 +1209,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-biotech-s1",
+      "subtopics": "Biotechnology",
       "coveredTopics": "Biotechnology",
       "units": "4",
       "parts": 1,
@@ -1060,6 +1240,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s1",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1086,6 +1271,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s1",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1112,6 +1302,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s1",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1138,6 +1333,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s2",
+      "subtopics": "Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -1164,6 +1364,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -1190,6 +1395,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -1216,6 +1426,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s2",
+      "subtopics": "Body Temperature Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1242,6 +1457,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s2",
+      "subtopics": "Endocrine Glands and Disorders",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1268,6 +1488,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s3",
+      "subtopics": "Body Fluid Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1294,6 +1519,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s2",
+      "subtopics": "Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -1320,6 +1550,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s3",
+      "subtopics": "Body Fluid Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1346,6 +1581,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s2",
+      "subtopics": "Nervous System Divisions",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1372,6 +1612,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s2",
+      "subtopics": "Nervous System Divisions",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1398,6 +1643,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s1",
+      "subtopics": "Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1424,6 +1674,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s1",
+      "subtopics": "Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1450,6 +1705,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s1",
+      "subtopics": "Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1476,6 +1736,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s3",
+      "subtopics": "The Brain and Spinal Cord",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -1502,6 +1767,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s2",
+      "subtopics": "Body Temperature Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1528,6 +1798,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s3",
+      "subtopics": "Body Fluid Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -1554,6 +1829,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -1580,7 +1860,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "Homeostatic Control; Immunity",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-disease-s1; h12-homeostasis-s1; h12-nervous-s3",
+      "subtopics": "Pathogens and Non-Specific Defences; Blood Glucose and Gas Concentration Regulation; The Brain and Spinal Cord",
+      "coveredTopics": "Immunity; Homeostatic Control; The Nervous System",
       "units": "3",
       "parts": 4,
       "marks": 14,
@@ -1606,6 +1891,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; graphing; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-disease-s2",
+      "subtopics": "Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 6,
@@ -1632,6 +1922,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; scientific_inquiry; data_interpretation; calculation; graphing; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-endocrine-s2; h12-homeostasis-s1",
+      "subtopics": "Endocrine Glands and Disorders; Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "The Endocrine System; Homeostatic Control",
       "units": "3",
       "parts": 7,
@@ -1658,6 +1953,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "diagram; table_completion; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-nervous-s3; h12-nervous-s1",
+      "subtopics": "The Brain and Spinal Cord; Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 5,
@@ -1684,7 +1984,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "The Endocrine System; Homeostatic Control",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-endocrine-s2; h12-nervous-s2; h12-homeostasis-s1",
+      "subtopics": "Endocrine Glands and Disorders; Nervous System Divisions; Blood Glucose and Gas Concentration Regulation",
+      "coveredTopics": "The Endocrine System; The Nervous System; Homeostatic Control",
       "units": "3",
       "parts": 4,
       "marks": 14,
@@ -1710,6 +2015,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "diagram; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-nervous-s1; h12-nervous-s2",
+      "subtopics": "Neurons, Action Potentials and Synapses; Nervous System Divisions",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 3,
@@ -1736,7 +2046,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "Homeostatic Control; The Nervous System; The Endocrine System",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-homeostasis-s2; h12-endocrine-s1; h12-nervous-s1",
+      "subtopics": "Body Temperature Regulation; Hormone Types, Hypothalamus and Pituitary Gland; Neurons, Action Potentials and Synapses",
+      "coveredTopics": "Homeostatic Control; The Endocrine System; The Nervous System",
       "units": "3",
       "parts": 4,
       "marks": 13,
@@ -1762,7 +2077,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "The Nervous System; The Endocrine System; Homeostatic Control",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-nervous-s3; h12-homeostasis-s2; h12-endocrine-s1; h12-endocrine-s2",
+      "subtopics": "The Brain and Spinal Cord; Body Temperature Regulation; Hormone Types, Hypothalamus and Pituitary Gland; Endocrine Glands and Disorders",
+      "coveredTopics": "The Nervous System; Homeostatic Control; The Endocrine System",
       "units": "3",
       "parts": 3,
       "marks": 20,
@@ -1788,6 +2108,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-nervous-s2; h12-nervous-s3; h12-disease-s2",
+      "subtopics": "Nervous System Divisions; The Brain and Spinal Cord; Specific Defences, Immunity and Treatments",
       "coveredTopics": "The Nervous System; Immunity",
       "units": "3",
       "parts": 2,
@@ -1814,6 +2139,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-endocrine-s1; h12-homeostasis-s3; h12-disease-s1",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland; Body Fluid Regulation; Pathogens and Non-Specific Defences",
       "coveredTopics": "The Endocrine System; Homeostatic Control; Immunity",
       "units": "3",
       "parts": 3,
@@ -1840,6 +2170,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s1",
+      "subtopics": "Humans as Primates and Bipedalism",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -1866,6 +2201,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s1",
+      "subtopics": "Humans as Primates and Bipedalism",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -1892,6 +2232,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s1",
+      "subtopics": "Humans as Primates and Bipedalism",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -1918,6 +2263,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s2",
+      "subtopics": "Endocrine Glands and Disorders",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1944,6 +2294,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s1; h12-endocrine-s2",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland; Endocrine Glands and Disorders",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1970,6 +2325,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s2",
+      "subtopics": "Endocrine Glands and Disorders",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -1996,6 +2356,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-evidence-s1",
+      "subtopics": "Fossils and Dating Methods",
       "coveredTopics": "Evidence for Evolution",
       "units": "4",
       "parts": 1,
@@ -2022,6 +2387,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-evidence-s1",
+      "subtopics": "Fossils and Dating Methods",
       "coveredTopics": "Evidence for Evolution",
       "units": "4",
       "parts": 1,
@@ -2048,6 +2418,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; calculation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-evidence-s1",
+      "subtopics": "Fossils and Dating Methods",
       "coveredTopics": "Evidence for Evolution",
       "units": "4",
       "parts": 1,
@@ -2074,6 +2449,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s2",
+      "subtopics": "The Hominins",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -2100,6 +2480,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; scientific_inquiry",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -2126,6 +2511,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; scientific_inquiry",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-homeostasis-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation",
       "coveredTopics": "Homeostatic Control",
       "units": "3",
       "parts": 1,
@@ -2152,6 +2542,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-variation-s1",
+      "subtopics": "Sources of Variation",
       "coveredTopics": "Evolutionary Mechanisms",
       "units": "4",
       "parts": 1,
@@ -2178,6 +2573,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s1",
+      "subtopics": "Humans as Primates and Bipedalism",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -2204,6 +2604,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s1",
+      "subtopics": "Humans as Primates and Bipedalism",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -2230,6 +2635,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-evidence-s1",
+      "subtopics": "Fossils and Dating Methods",
       "coveredTopics": "Evidence for Evolution",
       "units": "4",
       "parts": 1,
@@ -2256,6 +2666,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice; data_interpretation",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-human-s2",
+      "subtopics": "The Hominins",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 1,
@@ -2282,6 +2697,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -2308,6 +2728,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-endocrine-s1",
+      "subtopics": "Hormone Types, Hypothalamus and Pituitary Gland",
       "coveredTopics": "The Endocrine System",
       "units": "3",
       "parts": 1,
@@ -2334,6 +2759,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s1",
+      "subtopics": "Pathogens and Non-Specific Defences",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -2360,6 +2790,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s2",
+      "subtopics": "Nervous System Divisions",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -2386,6 +2821,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s2",
+      "subtopics": "Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -2412,6 +2852,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-disease-s2",
+      "subtopics": "Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 1,
@@ -2438,6 +2883,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-evidence-s1",
+      "subtopics": "Fossils and Dating Methods",
       "coveredTopics": "Evidence for Evolution",
       "units": "4",
       "parts": 1,
@@ -2464,6 +2914,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-variation-s2",
+      "subtopics": "Evolutionary Mechanisms",
       "coveredTopics": "Evolutionary Mechanisms",
       "units": "4",
       "parts": 1,
@@ -2490,6 +2945,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s1",
+      "subtopics": "Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -2516,6 +2976,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "single_part",
+      "questionTypes": "multiple_choice",
+      "examSection": "multiple_choice",
+      "subtopicIds": "h12-nervous-s1",
+      "subtopics": "Neurons, Action Potentials and Synapses",
       "coveredTopics": "The Nervous System",
       "units": "3",
       "parts": 1,
@@ -2542,6 +3007,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-human-s1; h12-human-s2",
+      "subtopics": "Humans as Primates and Bipedalism; The Hominins",
       "coveredTopics": "Human Evolution",
       "units": "4",
       "parts": 8,
@@ -2568,6 +3038,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-variation-s2; h12-nervous-s1; h12-nervous-s3",
+      "subtopics": "Evolutionary Mechanisms; Neurons, Action Potentials and Synapses; The Brain and Spinal Cord",
       "coveredTopics": "Evolutionary Mechanisms; The Nervous System",
       "units": "3; 4",
       "parts": 6,
@@ -2588,13 +3063,18 @@
       "subject": "Human Biology",
       "year": 12,
       "unit": 3,
-      "topic": "The Nervous System",
-      "topicId": "h12-nervous",
+      "topic": "Mixed topics",
+      "topicId": "h12-mixed",
       "title": "2024 Units 3 & 4 · Question 33",
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "The Nervous System",
+      "structure": "multipart",
+      "questionTypes": "diagram; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-nervous-s2; h12-nervous-s3; h12-homeostasis-s1",
+      "subtopics": "Nervous System Divisions; The Brain and Spinal Cord; Blood Glucose and Gas Concentration Regulation",
+      "coveredTopics": "The Nervous System; Homeostatic Control",
       "units": "3",
       "parts": 6,
       "marks": 15,
@@ -2620,7 +3100,12 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
-      "coveredTopics": "The Endocrine System; Homeostatic Control; The Nervous System",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-homeostasis-s2; h12-endocrine-s2; h12-nervous-s2",
+      "subtopics": "Body Temperature Regulation; Endocrine Glands and Disorders; Nervous System Divisions",
+      "coveredTopics": "Homeostatic Control; The Endocrine System; The Nervous System",
       "units": "3",
       "parts": 7,
       "marks": 15,
@@ -2646,6 +3131,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "table_completion; short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-evidence-s1; h12-evidence-s2; h12-human-s1",
+      "subtopics": "Fossils and Dating Methods; Comparative Studies; Humans as Primates and Bipedalism",
       "coveredTopics": "Evidence for Evolution; Human Evolution",
       "units": "4",
       "parts": 5,
@@ -2672,6 +3162,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; scientific_inquiry; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-biotech-s1; h12-disease-s2",
+      "subtopics": "Biotechnology; Specific Defences, Immunity and Treatments",
       "coveredTopics": "Biotechnology; Immunity",
       "units": "3; 4",
       "parts": 8,
@@ -2698,6 +3193,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "short_answer; multipart",
+      "examSection": "short_answer",
+      "subtopicIds": "h12-homeostasis-s1; h12-variation-s1; h12-biotech-s1",
+      "subtopics": "Blood Glucose and Gas Concentration Regulation; Sources of Variation; Biotechnology",
       "coveredTopics": "Homeostatic Control; Evolutionary Mechanisms; Biotechnology",
       "units": "3; 4",
       "parts": 7,
@@ -2724,6 +3224,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-disease-s1; h12-disease-s2",
+      "subtopics": "Pathogens and Non-Specific Defences; Specific Defences, Immunity and Treatments",
       "coveredTopics": "Immunity",
       "units": "3",
       "parts": 3,
@@ -2750,6 +3255,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-evidence-s2; h12-biotech-s1; h12-variation-s2",
+      "subtopics": "Comparative Studies; Biotechnology; Evolutionary Mechanisms",
       "coveredTopics": "Evidence for Evolution; Biotechnology; Evolutionary Mechanisms",
       "units": "4",
       "parts": 2,
@@ -2776,6 +3286,11 @@
       "status": "published",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": "multipart",
+      "questionTypes": "extended_response; multipart",
+      "examSection": "extended_response",
+      "subtopicIds": "h12-variation-s1; h12-variation-s2",
+      "subtopics": "Sources of Variation; Evolutionary Mechanisms",
       "coveredTopics": "Evolutionary Mechanisms",
       "units": "4",
       "parts": 2,
@@ -2802,6 +3317,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2828,6 +3348,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2854,6 +3379,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2880,6 +3410,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2906,6 +3441,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2932,6 +3472,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2958,6 +3503,11 @@
       "status": "held",
       "uploadedDate": "2026-10-22",
       "recordedDate": "2026-10-23",
+      "structure": null,
+      "questionTypes": "",
+      "examSection": null,
+      "subtopicIds": "",
+      "subtopics": "",
       "coveredTopics": "",
       "units": "",
       "parts": null,
@@ -2970,5 +3520,2669 @@
       "bankFile": null
     }
   ],
-  "duplicateCandidates": []
+  "duplicateCandidates": [],
+  "partMetadata": [
+    {
+      "questionId": "hcc-electricity-2020-q1",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q1",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q3",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q3",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q4",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q5",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1",
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q5",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q5",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q5",
+      "partId": "d",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q5",
+      "partId": "e",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s3",
+        "p11-electric-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q6",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-thermal-s4",
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q6",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q6",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q7",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-electricity-2020-q8",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-electric-s7"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q1",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "equation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q1",
+      "partId": "b",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "equation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q1",
+      "partId": "c",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "equation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q2",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q2",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q2",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q2",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s4"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q3",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q3",
+      "partId": "b",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q4",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s5"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q4",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s5"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q5",
+      "partId": "a",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s5",
+        "p11-nuclear-s7"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q6",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s4"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q6",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s4"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q6",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s4"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q7",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s6",
+        "p11-nuclear-s7"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q7",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hcc-nuclear-2019-q7",
+      "partId": "c",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "p11-nuclear-s6"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "sample-0",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-motion-s7"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-1",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-2",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "p12-static-s4"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-3",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation"
+      ],
+      "subtopicIds": [
+        "c11-atomic-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-4",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "c12-equilibrium-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-5",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation"
+      ],
+      "subtopicIds": [
+        "c11-reactions-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-6",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "b11-cells-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-7",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "b12-evolution-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-8",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h11-circulation-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-9",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-10",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "s11-inquiry-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-11",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "s12-learning-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-circuit-multipart",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1",
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-circuit-multipart",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1",
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "sample-circuit-multipart",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation"
+      ],
+      "subtopicIds": [
+        "p11-electric-s1",
+        "p11-electric-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q1",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q2",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q3",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q4",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q5",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "scientific_inquiry",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q6",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q7",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q8",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q9",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q11",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q12",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q13",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q14",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q15",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q16",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q17",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q18",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q19",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q20",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q21",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q22",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q23",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q24",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q25",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q26",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q27",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q28",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q29",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s3"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q30",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q31",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q31",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q31",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q31",
+      "partId": "d",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1",
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "c",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "graphing"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "e",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q32",
+      "partId": "f",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "c",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "d",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "calculation",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "e.1",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "graphing"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "e.2",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q33",
+      "partId": "f",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q34",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram",
+        "table_completion"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q34",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q34",
+      "partId": "c",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q34",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q34",
+      "partId": "e",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q35",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q35",
+      "partId": "b",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q35",
+      "partId": "c",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q35",
+      "partId": "d",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q36",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1",
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q36",
+      "partId": "b",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1",
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q36",
+      "partId": "c",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1",
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u3-q37",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q37",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q37",
+      "partId": "c",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q37",
+      "partId": "d",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q38",
+      "partId": "a",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q38",
+      "partId": "b",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q38",
+      "partId": "c",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1",
+        "h12-endocrine-s2",
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q40",
+      "partId": "a",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2",
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q40",
+      "partId": "b",
+      "marks": 12,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2",
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q41",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q41",
+      "partId": "b.1",
+      "marks": 9,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u3-q41",
+      "partId": "b.2",
+      "marks": 7,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q1",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q2",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q3",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q4",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q5",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1",
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q6",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q7",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q8",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q9",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "calculation"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q11",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q13",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q14",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q15",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-variation-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q16",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q17",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q18",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q19",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice",
+        "data_interpretation"
+      ],
+      "subtopicIds": [
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q20",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q21",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q22",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q23",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q24",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q25",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q27",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q28",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-variation-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q29",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q30",
+      "partId": "a",
+      "marks": 1,
+      "responseFormat": "mcq",
+      "questionTypes": [
+        "multiple_choice"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "d",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "e",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "f.i",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "f.ii",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q31",
+      "partId": "g",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-human-s1",
+        "h12-human-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-variation-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "b.i",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "b.ii",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "b.iii",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "b.iv",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q32",
+      "partId": "c",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "a",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "diagram"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "e",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q33",
+      "partId": "f",
+      "marks": 5,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s3",
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "c",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-endocrine-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "e.i",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2",
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "e.ii",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-nervous-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q34",
+      "partId": "e.iii",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q35",
+      "partId": "a",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "table_completion"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q35",
+      "partId": "b",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q35",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q35",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q35",
+      "partId": "e",
+      "marks": 6,
+      "responseFormat": "written",
+      "questionTypes": [
+        "table_completion"
+      ],
+      "subtopicIds": [
+        "h12-human-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "a",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "c",
+      "marks": 3,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "d",
+      "marks": 1,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "e",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "f",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "g",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer",
+        "scientific_inquiry"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q36",
+      "partId": "h",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "a",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "b",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-homeostasis-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "c",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-variation-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "d",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "e",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "f.i",
+      "marks": 2,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q37",
+      "partId": "f.ii",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "short_answer"
+      ],
+      "subtopicIds": [
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q39",
+      "partId": "a",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q39",
+      "partId": "b",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q39",
+      "partId": "c",
+      "marks": 4,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-disease-s1",
+        "h12-disease-s2"
+      ],
+      "subtopicTagBasis": "shared_question"
+    },
+    {
+      "questionId": "hb2024-u34-q40",
+      "partId": "a",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-evidence-s2",
+        "h12-biotech-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q40",
+      "partId": "b",
+      "marks": 12,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-variation-s2"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q41",
+      "partId": "a",
+      "marks": 8,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-variation-s1"
+      ],
+      "subtopicTagBasis": "part"
+    },
+    {
+      "questionId": "hb2024-u34-q41",
+      "partId": "b",
+      "marks": 12,
+      "responseFormat": "written",
+      "questionTypes": [
+        "extended_response"
+      ],
+      "subtopicIds": [
+        "h12-variation-s2"
+      ],
+      "subtopicTagBasis": "part"
+    }
+  ]
 }

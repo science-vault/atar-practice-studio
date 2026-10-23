@@ -1,3 +1,5 @@
 # Question import maintenance
 
 For every question import, removal, source correction or topic regrouping, update the provenance register in the same commit. Register all sources and held questions in data/register-config.json, retain stable question IDs, then run python3 scripts/build-register.py. Review duplicateCandidates in the generated JSON; do not silently duplicate source/question pairs. Commit all generated JSON, CSV and SQLite outputs. Upload dates must be evidenced or null. Bump the question-register JSON cache version in register.js when register data changes.
+
+For future question imports, classify both the question and each part using the required assessment-builder metadata in QUESTION_FORMAT.md. Select stable subtopic IDs and question-type codes from curriculum.js; preserve response-input type separately. The register build must pass before publication.

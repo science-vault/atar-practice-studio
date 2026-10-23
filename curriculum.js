@@ -611,3 +611,1476 @@ for(const subject of window.CURRICULUM){const years=suppliedTopicYears[subject.s
 // Preserve the existing broad groups for subjects outside this screenshot update.
 const otherTopicLabels={'b11-diversity':'Biodiversity','b11-ecosystems':'Ecology','b11-cells':'Cell biology','b11-systems':'Body systems','b12-dna':'Genetics','b12-evolution':'Evolution','b12-homeostasis':'Homeostasis','b12-disease':'Disease and immunity','s11-biological':'Biological psychology','s11-lifespan':'Development','s11-inquiry':'Research methods','s11-attitudes':'Attitudes and stereotypes','s11-social':'Social influence','s12-memory':'Memory','s12-learning':'Learning','s12-inquiry':'Research methods','s12-motivation':'Motivation, wellbeing and health'};
 for(const subject of window.CURRICULUM){if(suppliedTopicYears[subject.subject])continue;for(const units of Object.values(subject.years))for(const unit of units){const seen=new Set();unit[2]=unit[2].flatMap(([id,label])=>{id=window.TOPIC_GROUPS[id]||id;if(seen.has(id))return [];seen.add(id);return [[id,otherTopicLabels[id]||label]]});}}
+
+// Stable, selectable subtopic IDs for question classification and assessment building.
+window.SUBTOPICS = {
+  "p11-motion-s1": {
+    "id": "p11-motion-s1",
+    "label": "Displacement in Two Dimensions",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s2": {
+    "id": "p11-motion-s2",
+    "label": "Velocity in Two Dimensions",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s3": {
+    "id": "p11-motion-s3",
+    "label": "Acceleration in Two Dimensions",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s4": {
+    "id": "p11-motion-s4",
+    "label": "Graphical Representation of Motion",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s5": {
+    "id": "p11-motion-s5",
+    "label": "Equations of Motion",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s6": {
+    "id": "p11-motion-s6",
+    "label": "Vertical Motion Under Gravity",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s7": {
+    "id": "p11-motion-s7",
+    "label": "Newton’s Laws",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s8": {
+    "id": "p11-motion-s8",
+    "label": "Complex Scenarios for Newton’s Second Law",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s9": {
+    "id": "p11-motion-s9",
+    "label": "Coefficients of Friction",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s10": {
+    "id": "p11-motion-s10",
+    "label": "Inclined Planes",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-motion-s11": {
+    "id": "p11-motion-s11",
+    "label": "Momentum and Impulse",
+    "topicId": "p11-motion",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s1": {
+    "id": "p11-thermal-s1",
+    "label": "Mechanical Energy, Work and Power",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s2": {
+    "id": "p11-thermal-s2",
+    "label": "Conservation of Mechanical Energy",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s3": {
+    "id": "p11-thermal-s3",
+    "label": "Kinetic Theory and Internal Energy",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s4": {
+    "id": "p11-thermal-s4",
+    "label": "Specific Heat Capacity",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s5": {
+    "id": "p11-thermal-s5",
+    "label": "Latent Heat",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s6": {
+    "id": "p11-thermal-s6",
+    "label": "Heating and Cooling Curves",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s7": {
+    "id": "p11-thermal-s7",
+    "label": "Thermal Equilibrium",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-thermal-s8": {
+    "id": "p11-thermal-s8",
+    "label": "Heat Pumps",
+    "topicId": "p11-thermal",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 1
+  },
+  "p11-waves-s1": {
+    "id": "p11-waves-s1",
+    "label": "Introducing Waves",
+    "topicId": "p11-waves",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-waves-s2": {
+    "id": "p11-waves-s2",
+    "label": "Wave Applications using Reflection and Refraction",
+    "topicId": "p11-waves",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-waves-s3": {
+    "id": "p11-waves-s3",
+    "label": "Interference",
+    "topicId": "p11-waves",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-waves-s4": {
+    "id": "p11-waves-s4",
+    "label": "Resonance and Standing Waves",
+    "topicId": "p11-waves",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s1": {
+    "id": "p11-nuclear-s1",
+    "label": "Radioactive Nuclei",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s2": {
+    "id": "p11-nuclear-s2",
+    "label": "Nuclear Reactions",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s3": {
+    "id": "p11-nuclear-s3",
+    "label": "Half Life",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s4": {
+    "id": "p11-nuclear-s4",
+    "label": "Dosage and Applications",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s5": {
+    "id": "p11-nuclear-s5",
+    "label": "Energy and Momentum in Nuclear Events",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s6": {
+    "id": "p11-nuclear-s6",
+    "label": "Nuclear Fission and its Applications",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-nuclear-s7": {
+    "id": "p11-nuclear-s7",
+    "label": "Nuclear Fusion and its Applications",
+    "topicId": "p11-nuclear",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s1": {
+    "id": "p11-electric-s1",
+    "label": "Voltage and Current",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s2": {
+    "id": "p11-electric-s2",
+    "label": "Resistance and Ohm’s Law",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s3": {
+    "id": "p11-electric-s3",
+    "label": "Energy and Power",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s4": {
+    "id": "p11-electric-s4",
+    "label": "Series Circuits",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s5": {
+    "id": "p11-electric-s5",
+    "label": "Parallel Circuits",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s6": {
+    "id": "p11-electric-s6",
+    "label": "Compound Circuits",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-electric-s7": {
+    "id": "p11-electric-s7",
+    "label": "Electrical Safety",
+    "topicId": "p11-electric",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 2
+  },
+  "p11-inquiry-s1": {
+    "id": "p11-inquiry-s1",
+    "label": "Rearranging Equations",
+    "topicId": "p11-inquiry",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 0
+  },
+  "p11-inquiry-s2": {
+    "id": "p11-inquiry-s2",
+    "label": "Scientific Notation and Units",
+    "topicId": "p11-inquiry",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 0
+  },
+  "p11-inquiry-s3": {
+    "id": "p11-inquiry-s3",
+    "label": "Uncertainty of Measurements",
+    "topicId": "p11-inquiry",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 0
+  },
+  "p11-inquiry-s4": {
+    "id": "p11-inquiry-s4",
+    "label": "Uncertainty of Calculated Values",
+    "topicId": "p11-inquiry",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 0
+  },
+  "p11-inquiry-s5": {
+    "id": "p11-inquiry-s5",
+    "label": "Graphing with Uncertainty",
+    "topicId": "p11-inquiry",
+    "subject": "Physics",
+    "year": 11,
+    "unit": 0
+  },
+  "p12-static-s1": {
+    "id": "p12-static-s1",
+    "label": "Gravitational Fields and Forces",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s2": {
+    "id": "p12-static-s2",
+    "label": "Inclined Planes",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s3": {
+    "id": "p12-static-s3",
+    "label": "Projectile Motion",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s4": {
+    "id": "p12-static-s4",
+    "label": "Horizontal Circular Motion",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s5": {
+    "id": "p12-static-s5",
+    "label": "Vertical Circular Motion",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s6": {
+    "id": "p12-static-s6",
+    "label": "Satellite Motion",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s7": {
+    "id": "p12-static-s7",
+    "label": "Work and Energy in a Gravitational Field",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-static-s8": {
+    "id": "p12-static-s8",
+    "label": "Static Equilibrium",
+    "topicId": "p12-static",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-relativity-s1": {
+    "id": "p12-relativity-s1",
+    "label": "Postulates of Special Relativity",
+    "topicId": "p12-relativity",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-relativity-s2": {
+    "id": "p12-relativity-s2",
+    "label": "Time Dilation and Length Contraction",
+    "topicId": "p12-relativity",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-relativity-s3": {
+    "id": "p12-relativity-s3",
+    "label": "Relativistic Addition of Velocities",
+    "topicId": "p12-relativity",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-relativity-s4": {
+    "id": "p12-relativity-s4",
+    "label": "Relativistic Energy and Momentum*",
+    "topicId": "p12-relativity",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-relativity-s5": {
+    "id": "p12-relativity-s5",
+    "label": "General Relativity",
+    "topicId": "p12-relativity",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 3
+  },
+  "p12-em-s1": {
+    "id": "p12-em-s1",
+    "label": "Electric Fields and Forces",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s2": {
+    "id": "p12-em-s2",
+    "label": "Work and Energy in Uniform Electric Fields",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s3": {
+    "id": "p12-em-s3",
+    "label": "Magnetic Fields",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s4": {
+    "id": "p12-em-s4",
+    "label": "Magnetic Force on Moving Charge",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s5": {
+    "id": "p12-em-s5",
+    "label": "Applications of Electric and Magnetic Fields",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s6": {
+    "id": "p12-em-s6",
+    "label": "Electric Motors",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s7": {
+    "id": "p12-em-s7",
+    "label": "Electromagnetic Induction",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s8": {
+    "id": "p12-em-s8",
+    "label": "Generators",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s9": {
+    "id": "p12-em-s9",
+    "label": "Transformers and Power Transmission",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-em-s10": {
+    "id": "p12-em-s10",
+    "label": "Further Applications of Induction",
+    "topicId": "p12-em",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-quantum-s1": {
+    "id": "p12-quantum-s1",
+    "label": "A Wave Model of Light",
+    "topicId": "p12-quantum",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-quantum-s2": {
+    "id": "p12-quantum-s2",
+    "label": "A Particle Model of Light",
+    "topicId": "p12-quantum",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-quantum-s3": {
+    "id": "p12-quantum-s3",
+    "label": "Atomic Spectra",
+    "topicId": "p12-quantum",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-quantum-s4": {
+    "id": "p12-quantum-s4",
+    "label": "Applications of Energy Levels",
+    "topicId": "p12-quantum",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-quantum-s5": {
+    "id": "p12-quantum-s5",
+    "label": "Matter Waves",
+    "topicId": "p12-quantum",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "p12-universe-s1": {
+    "id": "p12-universe-s1",
+    "label": "Big Bang Theory",
+    "topicId": "p12-universe",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4
+  },
+  "c11-atomic-s1": {
+    "id": "c11-atomic-s1",
+    "label": "Atomic Structure",
+    "topicId": "c11-atomic",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-atomic-s2": {
+    "id": "c11-atomic-s2",
+    "label": "The Periodic Table",
+    "topicId": "c11-atomic",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-atomic-s3": {
+    "id": "c11-atomic-s3",
+    "label": "Isotopes and Mass Spectrometry",
+    "topicId": "c11-atomic",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-atomic-s4": {
+    "id": "c11-atomic-s4",
+    "label": "Atomic Absorption Spectroscopy",
+    "topicId": "c11-atomic",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-bonding-s1": {
+    "id": "c11-bonding-s1",
+    "label": "Compounds and Mixtures",
+    "topicId": "c11-bonding",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-bonding-s2": {
+    "id": "c11-bonding-s2",
+    "label": "Ionic Bonding",
+    "topicId": "c11-bonding",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-bonding-s3": {
+    "id": "c11-bonding-s3",
+    "label": "Metallic Bonding",
+    "topicId": "c11-bonding",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-bonding-s4": {
+    "id": "c11-bonding-s4",
+    "label": "Covalent Bonding",
+    "topicId": "c11-bonding",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-bonding-s5": {
+    "id": "c11-bonding-s5",
+    "label": "Nanomaterials",
+    "topicId": "c11-bonding",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-carbon-s1": {
+    "id": "c11-carbon-s1",
+    "label": "Carbon and Covalent Network Solids",
+    "topicId": "c11-carbon",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-carbon-s2": {
+    "id": "c11-carbon-s2",
+    "label": "Hydrocarbons Structure and Naming",
+    "topicId": "c11-carbon",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-carbon-s3": {
+    "id": "c11-carbon-s3",
+    "label": "Reactions of Hydrocarbons",
+    "topicId": "c11-carbon",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-reactions-s1": {
+    "id": "c11-reactions-s1",
+    "label": "The Mole",
+    "topicId": "c11-reactions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-reactions-s2": {
+    "id": "c11-reactions-s2",
+    "label": "Stoichiometry",
+    "topicId": "c11-reactions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-reactions-s3": {
+    "id": "c11-reactions-s3",
+    "label": "Percentage Composition",
+    "topicId": "c11-reactions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-reactions-s4": {
+    "id": "c11-reactions-s4",
+    "label": "Energy Changes and Fuels",
+    "topicId": "c11-reactions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 1
+  },
+  "c11-gases-s1": {
+    "id": "c11-gases-s1",
+    "label": "Molecular Shapes and Polarity",
+    "topicId": "c11-gases",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-gases-s2": {
+    "id": "c11-gases-s2",
+    "label": "Intermolecular Forces",
+    "topicId": "c11-gases",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-gases-s3": {
+    "id": "c11-gases-s3",
+    "label": "Kinetic Theory and Gases",
+    "topicId": "c11-gases",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-gases-s4": {
+    "id": "c11-gases-s4",
+    "label": "Molar Volume and Gas Calculations",
+    "topicId": "c11-gases",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-gases-s5": {
+    "id": "c11-gases-s5",
+    "label": "Chromatography",
+    "topicId": "c11-gases",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s1": {
+    "id": "c11-solutions-s1",
+    "label": "Solubility",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s2": {
+    "id": "c11-solutions-s2",
+    "label": "Solution Concentration",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s3": {
+    "id": "c11-solutions-s3",
+    "label": "Precipitation Reactions",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s4": {
+    "id": "c11-solutions-s4",
+    "label": "Acid Base Theory and pH",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s5": {
+    "id": "c11-solutions-s5",
+    "label": "Reactions of Acids and Bases",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-solutions-s6": {
+    "id": "c11-solutions-s6",
+    "label": "Water",
+    "topicId": "c11-solutions",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-rates-s1": {
+    "id": "c11-rates-s1",
+    "label": "Rates of Reaction",
+    "topicId": "c11-rates",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c11-rates-s2": {
+    "id": "c11-rates-s2",
+    "label": "Factors Affecting Rates of Reaction",
+    "topicId": "c11-rates",
+    "subject": "Chemistry",
+    "year": 11,
+    "unit": 2
+  },
+  "c12-equilibrium-s1": {
+    "id": "c12-equilibrium-s1",
+    "label": "Rates of Reaction",
+    "topicId": "c12-equilibrium",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-equilibrium-s2": {
+    "id": "c12-equilibrium-s2",
+    "label": "Reversible Reactions and Equilibrium",
+    "topicId": "c12-equilibrium",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-equilibrium-s3": {
+    "id": "c12-equilibrium-s3",
+    "label": "Changes to Equilibrium",
+    "topicId": "c12-equilibrium",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-equilibrium-s4": {
+    "id": "c12-equilibrium-s4",
+    "label": "Equilibrium Law",
+    "topicId": "c12-equilibrium",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-equilibrium-s5": {
+    "id": "c12-equilibrium-s5",
+    "label": "Ocean Equilibrium",
+    "topicId": "c12-equilibrium",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s1": {
+    "id": "c12-acids-s1",
+    "label": "Acid-Base Theories",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s2": {
+    "id": "c12-acids-s2",
+    "label": "Autoionisation of Water and pH",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s3": {
+    "id": "c12-acids-s3",
+    "label": "Acid-Base Strength and Salts",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s4": {
+    "id": "c12-acids-s4",
+    "label": "Buffers",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s5": {
+    "id": "c12-acids-s5",
+    "label": "Acid-Base Titrations",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-acids-s6": {
+    "id": "c12-acids-s6",
+    "label": "Titration Calculations",
+    "topicId": "c12-acids",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s1": {
+    "id": "c12-redox-s1",
+    "label": "Redox Reactions and Oxidation Numbers",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s2": {
+    "id": "c12-redox-s2",
+    "label": "Redox Equations",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s3": {
+    "id": "c12-redox-s3",
+    "label": "Galvanic Cells",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s4": {
+    "id": "c12-redox-s4",
+    "label": "Electrolysis",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s5": {
+    "id": "c12-redox-s5",
+    "label": "Batteries and Fuel Cells",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-redox-s6": {
+    "id": "c12-redox-s6",
+    "label": "Corrosion",
+    "topicId": "c12-redox",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 3
+  },
+  "c12-organic-s1": {
+    "id": "c12-organic-s1",
+    "label": "Hydrocarbons Review",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-organic-s2": {
+    "id": "c12-organic-s2",
+    "label": "Functional Groups",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-organic-s3": {
+    "id": "c12-organic-s3",
+    "label": "Reactions of Organic Compounds",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-organic-s4": {
+    "id": "c12-organic-s4",
+    "label": "Empirical Formula",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-organic-s5": {
+    "id": "c12-organic-s5",
+    "label": "Polymers",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-organic-s6": {
+    "id": "c12-organic-s6",
+    "label": "Amino Acids and Proteins",
+    "topicId": "c12-organic",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-synthesis-s1": {
+    "id": "c12-synthesis-s1",
+    "label": "Chemical Synthesis and Yield",
+    "topicId": "c12-synthesis",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-synthesis-s2": {
+    "id": "c12-synthesis-s2",
+    "label": "Limiting Reagent and Yield Calculations",
+    "topicId": "c12-synthesis",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-synthesis-s3": {
+    "id": "c12-synthesis-s3",
+    "label": "Biodiesel, Ethanol and Ethyl Ethanoate",
+    "topicId": "c12-synthesis",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "c12-synthesis-s4": {
+    "id": "c12-synthesis-s4",
+    "label": "Soaps and Plastics",
+    "topicId": "c12-synthesis",
+    "subject": "Chemistry",
+    "year": 12,
+    "unit": 4
+  },
+  "b11-diversity-s1": {
+    "id": "b11-diversity-s1",
+    "label": "Biodiversity",
+    "topicId": "b11-diversity",
+    "subject": "Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "b11-ecosystems-s1": {
+    "id": "b11-ecosystems-s1",
+    "label": "Ecology",
+    "topicId": "b11-ecosystems",
+    "subject": "Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "b11-cells-s1": {
+    "id": "b11-cells-s1",
+    "label": "Cell biology",
+    "topicId": "b11-cells",
+    "subject": "Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "b11-systems-s1": {
+    "id": "b11-systems-s1",
+    "label": "Body systems",
+    "topicId": "b11-systems",
+    "subject": "Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "b12-dna-s1": {
+    "id": "b12-dna-s1",
+    "label": "Genetics",
+    "topicId": "b12-dna",
+    "subject": "Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "b12-evolution-s1": {
+    "id": "b12-evolution-s1",
+    "label": "Evolution",
+    "topicId": "b12-evolution",
+    "subject": "Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "b12-homeostasis-s1": {
+    "id": "b12-homeostasis-s1",
+    "label": "Homeostasis",
+    "topicId": "b12-homeostasis",
+    "subject": "Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "b12-disease-s1": {
+    "id": "b12-disease-s1",
+    "label": "Disease and immunity",
+    "topicId": "b12-disease",
+    "subject": "Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h11-cells-s1": {
+    "id": "h11-cells-s1",
+    "label": "Cells and Tissues",
+    "topicId": "h11-cells",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-cells-s2": {
+    "id": "h11-cells-s2",
+    "label": "Cell Membrane and Transport",
+    "topicId": "h11-cells",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-cells-s3": {
+    "id": "h11-cells-s3",
+    "label": "Organic Compounds, Enzymes and Metabolism",
+    "topicId": "h11-cells",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-digestion-s1": {
+    "id": "h11-digestion-s1",
+    "label": "Digestive System",
+    "topicId": "h11-digestion",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-excretion-s1": {
+    "id": "h11-excretion-s1",
+    "label": "Excretory System",
+    "topicId": "h11-excretion",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-respiratory-s1": {
+    "id": "h11-respiratory-s1",
+    "label": "Respiratory System",
+    "topicId": "h11-respiratory",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-circulation-s1": {
+    "id": "h11-circulation-s1",
+    "label": "Heart, Vessels and Circulation",
+    "topicId": "h11-circulation",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-circulation-s2": {
+    "id": "h11-circulation-s2",
+    "label": "Blood, Grouping Systems and Diseases",
+    "topicId": "h11-circulation",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-musculoskeletal-s1": {
+    "id": "h11-musculoskeletal-s1",
+    "label": "Bones, Cartilage and Joints",
+    "topicId": "h11-musculoskeletal",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-musculoskeletal-s2": {
+    "id": "h11-musculoskeletal-s2",
+    "label": "Muscles",
+    "topicId": "h11-musculoskeletal",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 1
+  },
+  "h11-dna-s1": {
+    "id": "h11-dna-s1",
+    "label": "DNA, Protein Synthesis and Gene Expression",
+    "topicId": "h11-dna",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-division-s1": {
+    "id": "h11-division-s1",
+    "label": "Mitosis and Cancer",
+    "topicId": "h11-division",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-inheritance-s1": {
+    "id": "h11-inheritance-s1",
+    "label": "Terminology, Modes of Inheritance and Punnett Squares",
+    "topicId": "h11-inheritance",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-inheritance-s2": {
+    "id": "h11-inheritance-s2",
+    "label": "Pedigrees and Genetic Counselling",
+    "topicId": "h11-inheritance",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s1": {
+    "id": "h11-reproduction-s1",
+    "label": "The Reproductive System and Sexual Intercourse",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s2": {
+    "id": "h11-reproduction-s2",
+    "label": "Gametogenesis and Variation",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s3": {
+    "id": "h11-reproduction-s3",
+    "label": "Reproductive Hormones and Cycles",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s4": {
+    "id": "h11-reproduction-s4",
+    "label": "Contraception and STIs",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s5": {
+    "id": "h11-reproduction-s5",
+    "label": "Embryonic Development and Stem Cells",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s6": {
+    "id": "h11-reproduction-s6",
+    "label": "Foetal Development and Reproductive Technologies",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h11-reproduction-s7": {
+    "id": "h11-reproduction-s7",
+    "label": "Birth and Breast Feeding",
+    "topicId": "h11-reproduction",
+    "subject": "Human Biology",
+    "year": 11,
+    "unit": 2
+  },
+  "h12-endocrine-s1": {
+    "id": "h12-endocrine-s1",
+    "label": "Hormone Types, Hypothalamus and Pituitary Gland",
+    "topicId": "h12-endocrine",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-endocrine-s2": {
+    "id": "h12-endocrine-s2",
+    "label": "Endocrine Glands and Disorders",
+    "topicId": "h12-endocrine",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-nervous-s1": {
+    "id": "h12-nervous-s1",
+    "label": "Neurons, Action Potentials and Synapses",
+    "topicId": "h12-nervous",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-nervous-s2": {
+    "id": "h12-nervous-s2",
+    "label": "Nervous System Divisions",
+    "topicId": "h12-nervous",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-nervous-s3": {
+    "id": "h12-nervous-s3",
+    "label": "The Brain and Spinal Cord",
+    "topicId": "h12-nervous",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-homeostasis-s1": {
+    "id": "h12-homeostasis-s1",
+    "label": "Blood Glucose and Gas Concentration Regulation",
+    "topicId": "h12-homeostasis",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-homeostasis-s2": {
+    "id": "h12-homeostasis-s2",
+    "label": "Body Temperature Regulation",
+    "topicId": "h12-homeostasis",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-homeostasis-s3": {
+    "id": "h12-homeostasis-s3",
+    "label": "Body Fluid Regulation",
+    "topicId": "h12-homeostasis",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-disease-s1": {
+    "id": "h12-disease-s1",
+    "label": "Pathogens and Non-Specific Defences",
+    "topicId": "h12-disease",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-disease-s2": {
+    "id": "h12-disease-s2",
+    "label": "Specific Defences, Immunity and Treatments",
+    "topicId": "h12-disease",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 3
+  },
+  "h12-variation-s1": {
+    "id": "h12-variation-s1",
+    "label": "Sources of Variation",
+    "topicId": "h12-variation",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-variation-s2": {
+    "id": "h12-variation-s2",
+    "label": "Evolutionary Mechanisms",
+    "topicId": "h12-variation",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-evidence-s1": {
+    "id": "h12-evidence-s1",
+    "label": "Fossils and Dating Methods",
+    "topicId": "h12-evidence",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-evidence-s2": {
+    "id": "h12-evidence-s2",
+    "label": "Comparative Studies",
+    "topicId": "h12-evidence",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-human-s1": {
+    "id": "h12-human-s1",
+    "label": "Humans as Primates and Bipedalism",
+    "topicId": "h12-human",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-human-s2": {
+    "id": "h12-human-s2",
+    "label": "The Hominins",
+    "topicId": "h12-human",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "h12-biotech-s1": {
+    "id": "h12-biotech-s1",
+    "label": "Biotechnology",
+    "topicId": "h12-biotech",
+    "subject": "Human Biology",
+    "year": 12,
+    "unit": 4
+  },
+  "s11-biological-s1": {
+    "id": "s11-biological-s1",
+    "label": "Biological psychology",
+    "topicId": "s11-biological",
+    "subject": "Psychology",
+    "year": 11,
+    "unit": 1
+  },
+  "s11-lifespan-s1": {
+    "id": "s11-lifespan-s1",
+    "label": "Development",
+    "topicId": "s11-lifespan",
+    "subject": "Psychology",
+    "year": 11,
+    "unit": 1
+  },
+  "s11-inquiry-s1": {
+    "id": "s11-inquiry-s1",
+    "label": "Research methods",
+    "topicId": "s11-inquiry",
+    "subject": "Psychology",
+    "year": 11,
+    "unit": 1
+  },
+  "s11-attitudes-s1": {
+    "id": "s11-attitudes-s1",
+    "label": "Attitudes and stereotypes",
+    "topicId": "s11-attitudes",
+    "subject": "Psychology",
+    "year": 11,
+    "unit": 2
+  },
+  "s11-social-s1": {
+    "id": "s11-social-s1",
+    "label": "Social influence",
+    "topicId": "s11-social",
+    "subject": "Psychology",
+    "year": 11,
+    "unit": 2
+  },
+  "s12-memory-s1": {
+    "id": "s12-memory-s1",
+    "label": "Memory",
+    "topicId": "s12-memory",
+    "subject": "Psychology",
+    "year": 12,
+    "unit": 3
+  },
+  "s12-learning-s1": {
+    "id": "s12-learning-s1",
+    "label": "Learning",
+    "topicId": "s12-learning",
+    "subject": "Psychology",
+    "year": 12,
+    "unit": 3
+  },
+  "s12-inquiry-s1": {
+    "id": "s12-inquiry-s1",
+    "label": "Research methods",
+    "topicId": "s12-inquiry",
+    "subject": "Psychology",
+    "year": 12,
+    "unit": 3
+  },
+  "s12-motivation-s1": {
+    "id": "s12-motivation-s1",
+    "label": "Motivation, wellbeing and health",
+    "topicId": "s12-motivation",
+    "subject": "Psychology",
+    "year": 12,
+    "unit": 4
+  }
+};
+window.QUESTION_TYPES = {
+  "multipart": "Multipart",
+  "multiple_choice": "Multiple choice",
+  "short_answer": "Short answer",
+  "calculation": "Calculation",
+  "extended_response": "Extended response",
+  "graphing": "Graphing",
+  "diagram": "Diagram / labelling",
+  "data_interpretation": "Data interpretation",
+  "table_completion": "Table completion",
+  "scientific_inquiry": "Scientific inquiry",
+  "equation": "Equation / symbolic response"
+};

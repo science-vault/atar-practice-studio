@@ -19,7 +19,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: Q/e with substitution.",
           "1 mark: 2.50 × 10²⁰ electrons."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -30,10 +37,32 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: I = Q/t with substitution.",
           "1 mark: 3.60 × 10³ A."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s1"
+    ],
+    "questionTypes": [
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-electricity-2020-q3",
@@ -61,7 +90,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: correct series/parallel combination.",
           "1 mark: 1.60 Ω."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -78,10 +114,32 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: correct reduction of the network.",
           "1 mark: 2.00 Ω."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s6"
+    ],
+    "questionTypes": [
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-electricity-2020-q4",
@@ -104,10 +162,31 @@ window.QUESTION_BANK = [
           "1 mark: E = VIt.",
           "1 mark: correct time conversion and substitution.",
           "1 mark: 1.97 × 10⁶ J."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s3"
+    ],
+    "questionTypes": [
+      "calculation"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hcc-electricity-2020-q5",
@@ -135,7 +214,15 @@ window.QUESTION_BANK = [
           "1 mark: electron flow from negative to positive through the external circuit.",
           "1 mark: ammeter in series with 4.00 Ω.",
           "1 mark: voltmeter across the 3.00 Ω resistor."
-        ]
+        ],
+        "questionTypes": [
+          "diagram"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1",
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
@@ -146,7 +233,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: V = IR and substitution.",
           "1 mark: 1.80 V."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
@@ -157,7 +251,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: top branch resistance and voltage, or equal-branch reasoning.",
           "1 mark: 0.300 A."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
@@ -169,7 +270,14 @@ window.QUESTION_BANK = [
           "1 mark: 0.600 A total current.",
           "1 mark: 1.80 V across 3.00 Ω.",
           "1 mark: 3.60 V supply."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "e",
@@ -181,10 +289,36 @@ window.QUESTION_BANK = [
           "1 mark: P = I²R.",
           "1 mark: correct substitution with total current.",
           "1 mark: 1.08 W."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s3",
+          "p11-electric-s6"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s1",
+      "p11-electric-s6",
+      "p11-electric-s3"
+    ],
+    "questionTypes": [
+      "diagram",
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-electricity-2020-q6",
@@ -212,7 +346,15 @@ window.QUESTION_BANK = [
           "1 mark: include heat absorbed by both water and copper.",
           "1 mark: correct SI substitution.",
           "1 mark: 1.28 × 10⁴ J."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-thermal-s4",
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
@@ -224,7 +366,14 @@ window.QUESTION_BANK = [
           "1 mark: P = E/t.",
           "1 mark: time in seconds and substitution.",
           "1 mark: 28.4 W."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
@@ -235,7 +384,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: V = P/I with substitution.",
           "1 mark: 10.3 V."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
     "sample": false,
@@ -243,13 +399,24 @@ window.QUESTION_BANK = [
       "Thermal energy"
     ],
     "topicIds": [
-      "p11-electric",
-      "p11-thermal"
+      "p11-thermal",
+      "p11-electric"
     ],
     "units": [
       1,
       2
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-thermal-s4",
+      "p11-electric-s3",
+      "p11-electric-s1"
+    ],
+    "questionTypes": [
+      "calculation",
+      "multipart"
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-electricity-2020-q7",
@@ -273,10 +440,31 @@ window.QUESTION_BANK = [
           "1 mark: power × time × tariff.",
           "1 mark: correct arithmetic and conversion from cents to dollars.",
           "1 mark: sensible final rounding, approximately $2700."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s3"
+    ],
+    "questionTypes": [
+      "calculation"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hcc-electricity-2020-q8",
@@ -304,12 +492,33 @@ window.QUESTION_BANK = [
           "1 mark: active–neutral current imbalance or earth leakage.",
           "1 mark: rapid interruption reduces shock duration.",
           "1 mark: fuse/circuit breaker protects against overcurrent, not the same leakage-current protection."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-electric-s7"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
     "sample": false,
     "adapted": true,
-    "verificationSource": "https://www.electricalsafety.qld.gov.au/frequently-asked-questions"
+    "verificationSource": "https://www.electricalsafety.qld.gov.au/frequently-asked-questions",
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s7"
+    ],
+    "questionTypes": [
+      "short_answer"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hcc-nuclear-2019-q1",
@@ -327,24 +536,60 @@ window.QUESTION_BANK = [
         "type": "written",
         "prompt": "⁴₂He + ¹⁴₇N → ¹⁷₈O + ?",
         "marks": 1,
-        "solution": "The missing particle is ¹₁p (a proton). Mass numbers: 4 + 14 = 17 + 1. Atomic numbers: 2 + 7 = 8 + 1."
+        "solution": "The missing particle is ¹₁p (a proton). Mass numbers: 4 + 14 = 17 + 1. Atomic numbers: 2 + 7 = 8 + 1.",
+        "questionTypes": [
+          "equation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
         "type": "written",
         "prompt": "? + ⁷₃Li → ⁴₂He + ⁴₂He",
         "marks": 1,
-        "solution": "The missing particle is ¹₁p (a proton). Mass number 1 + 7 = 4 + 4; atomic number 1 + 3 = 2 + 2."
+        "solution": "The missing particle is ¹₁p (a proton). Mass number 1 + 7 = 4 + 4; atomic number 1 + 3 = 2 + 2.",
+        "questionTypes": [
+          "equation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
         "type": "written",
         "prompt": "¹⁸₈O + ¹₁p → ? + ⁴₂He",
         "marks": 1,
-        "solution": "The missing nucleus is ¹⁵₇N. Mass number 18 + 1 − 4 = 15; atomic number 8 + 1 − 2 = 7."
+        "solution": "The missing nucleus is ¹⁵₇N. Mass number 18 + 1 − 4 = 15; atomic number 8 + 1 − 2 = 7.",
+        "questionTypes": [
+          "equation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s2"
+    ],
+    "questionTypes": [
+      "equation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-nuclear-2019-q2",
@@ -371,7 +616,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: X and Z both correctly identified.",
           "1 mark: Y correctly identified."
-        ]
+        ],
+        "questionTypes": [
+          "diagram"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
@@ -382,7 +634,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: alpha.",
           "1 mark: strong interactions causing dense ionisation."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
@@ -393,7 +652,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: gamma.",
           "1 mark: low interaction probability compared with charged alpha/beta particles; do not attribute penetration solely to being massless."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s1"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "d",
@@ -404,10 +670,34 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: valid use.",
           "1 mark: links that use to a relevant property of the radiation."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s4"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s1",
+      "p11-nuclear-s4"
+    ],
+    "questionTypes": [
+      "diagram",
+      "short_answer",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-nuclear-2019-q3",
@@ -425,7 +715,14 @@ window.QUESTION_BANK = [
         "type": "written",
         "prompt": "Explain what is meant by half-life.",
         "marks": 1,
-        "solution": "The time taken for half of the undecayed radioactive nuclei in a sample to decay, or equivalently for its activity to halve under the same measurement conditions."
+        "solution": "The time taken for half of the undecayed radioactive nuclei in a sample to decay, or equivalently for its activity to halve under the same measurement conditions.",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -438,10 +735,33 @@ window.QUESTION_BANK = [
           "1 mark: correct number of half-lives.",
           "1 mark: correct exponential decay substitution.",
           "1 mark: approximately 255 disintegrations s⁻¹; accept a consistent rounded value near 256."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s3"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-nuclear-2019-q4",
@@ -464,7 +784,14 @@ window.QUESTION_BANK = [
           "1 mark: correctly sum particle masses, including electrons when using atomic mass.",
           "1 mark: subtract atom mass.",
           "1 mark: Δm = 0.172550 u."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s5"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -475,10 +802,32 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: convert mass defect to energy.",
           "1 mark: divide by 20 nucleons; about 8.04–8.05 MeV per nucleon."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s5"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s5"
+    ],
+    "questionTypes": [
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-nuclear-2019-q5",
@@ -503,10 +852,33 @@ window.QUESTION_BANK = [
           "1 mark: mass difference.",
           "1 mark: conversion to MeV (or kg with E = mc²).",
           "1 mark: 2.06 × 10⁻¹² J."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s5",
+          "p11-nuclear-s7"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s5",
+      "p11-nuclear-s7"
+    ],
+    "questionTypes": [
+      "calculation"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "hcc-nuclear-2019-q6",
@@ -529,7 +901,14 @@ window.QUESTION_BANK = [
           "1 mark: relative biological effect for equal absorbed dose.",
           "1 mark: alpha 20 and stronger/dense ionisation.",
           "1 mark: beta 1 and lower relative effect."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s4"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -540,7 +919,14 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: convert mSv to Sv and divide by quality factor.",
           "1 mark: 0.300 Gy."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s4"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
@@ -551,10 +937,33 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: E = Dm with substitution.",
           "1 mark: 27.0 J."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s4"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s4"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "hcc-nuclear-2019-q7",
@@ -576,7 +985,15 @@ window.QUESTION_BANK = [
         "criteria": [
           "Up to 1.5 marks: fission, splitting and heavy nuclei.",
           "Up to 1.5 marks: fusion, joining and light nuclei."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s6",
+          "p11-nuclear-s7"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "b",
@@ -587,17 +1004,47 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: neutron-induced U-235 fission releases further neutrons.",
           "1 mark: those neutrons cause subsequent fissions."
-        ]
+        ],
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s6"
+        ],
+        "subtopicTagBasis": "part"
       },
       {
         "id": "c",
         "type": "written",
         "prompt": "What is critical mass?",
         "marks": 1,
-        "solution": "The minimum mass of fissile material required to sustain a nuclear chain reaction under specified conditions. It depends on geometry, density and neutron losses.\nClarification: criticality means a self-sustaining chain reaction; it does not necessarily mean an uncontrolled reaction."
+        "solution": "The minimum mass of fissile material required to sustain a nuclear chain reaction under specified conditions. It depends on geometry, density and neutron losses.\nClarification: criticality means a self-sustaining chain reaction; it does not necessarily mean an uncontrolled reaction.",
+        "questionTypes": [
+          "short_answer"
+        ],
+        "subtopicIds": [
+          "p11-nuclear-s6"
+        ],
+        "subtopicTagBasis": "part"
       }
     ],
-    "sample": false
+    "sample": false,
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-nuclear-s6",
+      "p11-nuclear-s7"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-nuclear"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   },
   {
     "id": "sample-0",
@@ -623,9 +1070,32 @@ window.QUESTION_BANK = [
           "75 m/s²"
         ],
         "answer": 1,
-        "solution": "Newton’s second law: F = ma. Rearrange to a = F ÷ m = 15 ÷ 5.0 = 3.0 m/s². Use the net force, which already accounts for opposing forces."
+        "solution": "Newton’s second law: F = ma. Rearrange to a = F ÷ m = 15 ÷ 5.0 = 3.0 m/s². Use the net force, which already accounts for opposing forces.",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-motion-s7"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "p11-motion-s7"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation"
+    ],
+    "topicIds": [
+      "p11-motion"
+    ],
+    "units": [
+      1
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-1",
@@ -651,16 +1121,39 @@ window.QUESTION_BANK = [
           "72 A"
         ],
         "answer": 1,
-        "solution": "Ohm’s law: V = IR, so I = V ÷ R = 12 ÷ 6.0 = 2.0 A."
+        "solution": "Ohm’s law: V = IR, so I = V ÷ R = 12 ÷ 6.0 = 2.0 A.",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s2"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "p11-electric-s2"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-2",
     "subject": "Physics",
     "year": 12,
     "unit": 3,
-    "topic": "p12-circle",
+    "topic": "p12-static",
     "title": "Circular motion",
     "stem": "An object moves at constant speed in a circle. Which statement describes its acceleration?",
     "source": "Original sample",
@@ -679,9 +1172,30 @@ window.QUESTION_BANK = [
           "It points away from the centre"
         ],
         "answer": 2,
-        "solution": "Velocity includes direction. Although speed is constant, the velocity changes continuously. The centripetal acceleration points towards the centre of the circle."
+        "solution": "Velocity includes direction. Although speed is constant, the velocity changes continuously. The centripetal acceleration points towards the centre of the circle.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "p12-static-s4"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "p12-static-s4"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "p12-static"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-3",
@@ -707,9 +1221,32 @@ window.QUESTION_BANK = [
           "23"
         ],
         "answer": 3,
-        "solution": "Mass number is the total number of protons and neutrons in the nucleus: 11 + 12 = 23."
+        "solution": "Mass number is the total number of protons and neutrons in the nucleus: 11 + 12 = 23.",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation"
+        ],
+        "subtopicIds": [
+          "c11-atomic-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "c11-atomic-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation"
+    ],
+    "topicIds": [
+      "c11-atomic"
+    ],
+    "units": [
+      1
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-4",
@@ -735,16 +1272,37 @@ window.QUESTION_BANK = [
           "The reaction stops"
         ],
         "answer": 1,
-        "solution": "Increasing temperature favours the endothermic direction. Since the forward reaction is exothermic, equilibrium shifts towards reactants and the forward equilibrium constant decreases."
+        "solution": "Increasing temperature favours the endothermic direction. Since the forward reaction is exothermic, equilibrium shifts towards reactants and the forward equilibrium constant decreases.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "c12-equilibrium-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "c12-equilibrium-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "c12-equilibrium"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-5",
     "subject": "Chemistry",
     "year": 11,
     "unit": 1,
-    "topic": "c11-moles",
+    "topic": "c11-reactions",
     "title": "Chemical calculations",
     "stem": "How many moles are present in 18.0 g of water? Use M(H₂O) = 18.0 g mol⁻¹.",
     "source": "Original sample",
@@ -763,9 +1321,32 @@ window.QUESTION_BANK = [
           "324 mol"
         ],
         "answer": 1,
-        "solution": "Use n = m ÷ M. Therefore n = 18.0 ÷ 18.0 = 1.00 mol."
+        "solution": "Use n = m ÷ M. Therefore n = 18.0 ÷ 18.0 = 1.00 mol.",
+        "questionTypes": [
+          "multiple_choice",
+          "calculation"
+        ],
+        "subtopicIds": [
+          "c11-reactions-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "c11-reactions-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice",
+      "calculation"
+    ],
+    "topicIds": [
+      "c11-reactions"
+    ],
+    "units": [
+      1
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-6",
@@ -791,9 +1372,30 @@ window.QUESTION_BANK = [
           "Golgi apparatus"
         ],
         "answer": 2,
-        "solution": "Mitochondria carry out stages of aerobic cellular respiration, including the electron transport chain and oxidative phosphorylation, producing most ATP during aerobic respiration."
+        "solution": "Mitochondria carry out stages of aerobic cellular respiration, including the electron transport chain and oxidative phosphorylation, producing most ATP during aerobic respiration.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "b11-cells-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "b11-cells-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "b11-cells"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-7",
@@ -819,16 +1421,37 @@ window.QUESTION_BANK = [
           "The environment stays constant"
         ],
         "answer": 1,
-        "solution": "Natural selection can change trait frequencies across generations when heritable variation affects survival or reproductive success."
+        "solution": "Natural selection can change trait frequencies across generations when heritable variation affects survival or reproductive success.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "b12-evolution-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "b12-evolution-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "b12-evolution"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-8",
     "subject": "Human Biology",
     "year": 11,
     "unit": 1,
-    "topic": "h11-transport",
+    "topic": "h11-circulation",
     "title": "Body systems",
     "stem": "Which blood vessels carry blood away from the heart?",
     "source": "Original sample",
@@ -847,9 +1470,30 @@ window.QUESTION_BANK = [
           "Venules"
         ],
         "answer": 1,
-        "solution": "Arteries carry blood away from the heart. They are defined by direction of flow, rather than oxygen content: the pulmonary artery carries deoxygenated blood."
+        "solution": "Arteries carry blood away from the heart. They are defined by direction of flow, rather than oxygen content: the pulmonary artery carries deoxygenated blood.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h11-circulation-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h11-circulation-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "h11-circulation"
+    ],
+    "units": [
+      1
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-9",
@@ -875,9 +1519,30 @@ window.QUESTION_BANK = [
           "It bypasses sensory neurons"
         ],
         "answer": 1,
-        "solution": "Integration in the spinal cord permits a rapid response through a short neural pathway, before conscious awareness of the stimulus."
+        "solution": "Integration in the spinal cord permits a rapid response through a short neural pathway, before conscious awareness of the stimulus.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "h12-nervous-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "h12-nervous-s3"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "h12-nervous"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-10",
@@ -903,9 +1568,30 @@ window.QUESTION_BANK = [
           "To make the sample representative"
         ],
         "answer": 1,
-        "solution": "Random allocation gives participants an equal chance of entering each condition, helping distribute participant variables across groups. Random sampling serves a different purpose."
+        "solution": "Random allocation gives participants an equal chance of entering each condition, helping distribute participant variables across groups. Random sampling serves a different purpose.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "s11-inquiry-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "s11-inquiry-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "s11-inquiry"
+    ],
+    "units": [
+      1
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-11",
@@ -931,9 +1617,30 @@ window.QUESTION_BANK = [
           "Only produces an innate response"
         ],
         "answer": 0,
-        "solution": "After association with an unconditioned stimulus, the conditioned stimulus can elicit a conditioned response on its own."
+        "solution": "After association with an unconditioned stimulus, the conditioned stimulus can elicit a conditioned response on its own.",
+        "questionTypes": [
+          "multiple_choice"
+        ],
+        "subtopicIds": [
+          "s12-learning-s1"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "multiple_choice",
+    "subtopicIds": [
+      "s12-learning-s1"
+    ],
+    "questionTypes": [
+      "multiple_choice"
+    ],
+    "topicIds": [
+      "s12-learning"
+    ],
+    "units": [
+      3
+    ],
+    "structure": "single_part"
   },
   {
     "id": "sample-circuit-multipart",
@@ -962,7 +1669,15 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: correct substitution into I = V / R.",
           "1 mark: correct current with units, 2.0 A."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1",
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "b",
@@ -973,7 +1688,15 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: Q = It with appropriate substitution.",
           "1 mark: 60 C (allow consistent follow-through from part a)."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1",
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       },
       {
         "id": "c",
@@ -984,8 +1707,32 @@ window.QUESTION_BANK = [
         "criteria": [
           "1 mark: an appropriate energy equation and substitution.",
           "1 mark: 720 J (allow consistent follow-through)."
-        ]
+        ],
+        "questionTypes": [
+          "calculation"
+        ],
+        "subtopicIds": [
+          "p11-electric-s1",
+          "p11-electric-s3"
+        ],
+        "subtopicTagBasis": "shared_question"
       }
-    ]
+    ],
+    "examSection": "short_answer",
+    "subtopicIds": [
+      "p11-electric-s1",
+      "p11-electric-s3"
+    ],
+    "questionTypes": [
+      "calculation",
+      "multipart"
+    ],
+    "topicIds": [
+      "p11-electric"
+    ],
+    "units": [
+      2
+    ],
+    "structure": "multipart"
   }
 ];
