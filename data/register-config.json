@@ -6,7 +6,8 @@
     "human-biology-2024-u34.js",
     "human-biology-2020-2023.js",
     "human-biology-year11-2020-2023.js",
-    "physics-2020-u3.js"
+    "physics-2020-u3.js",
+    "physics-exams-2021-2024.js"
   ],
   "sources": [
     {
@@ -801,18 +802,6 @@
       "reason": "The objective lens is stated as 10× both before and after the change, but no unchanged field-of-view option is offered."
     },
     {
-      "id": "phy2020-u3-q3",
-      "sourceId": "phy2020-u3",
-      "originalQuestion": 3,
-      "reason": "The Word motor diagram loses the magnet pole shapes during conversion; held until the complete original figure can be preserved."
-    },
-    {
-      "id": "phy2020-u3-q4",
-      "sourceId": "phy2020-u3",
-      "originalQuestion": 4,
-      "reason": "The Word mass-spectrometer diagram loses part of the proton path during conversion; held until the complete original figure can be preserved."
-    },
-    {
       "id": "phy2020-u3-q7",
       "sourceId": "phy2020-u3",
       "originalQuestion": 7,
@@ -841,6 +830,54 @@
       "sourceId": "phy2020-u3",
       "originalQuestion": 18,
       "reason": "Part b asks for maximum height using equation (2), but that equation gives time to maximum height; its key adds a same-height launch/landing assumption. Needs prompt/key correction."
+    },
+    {
+      "id": "phy2021-u3-q10",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 10,
+      "reason": "The question asks to ignore mechanical friction, but its steady-speed marking criterion relies on friction/drag to balance torque; requires an explicit model correction."
+    },
+    {
+      "id": "phy2022-u34-q18",
+      "sourceId": "phy2022-u34",
+      "originalQuestion": 18,
+      "reason": "The article reverses the special-relativistic GPS clock effect (moving clocks run slower). The related numerical interpretation and explanation require correction."
+    },
+    {
+      "id": "phy2023-u34-q3",
+      "sourceId": "phy2023-u34",
+      "originalQuestion": 3,
+      "reason": "The key says an approaching blueshifted object contradicts Big Bang theory; peculiar velocities can produce approaching objects in an expanding Universe. Needs a corrected interpretation."
+    },
+    {
+      "id": "phy2023-u34-q16",
+      "sourceId": "phy2023-u34",
+      "originalQuestion": 16,
+      "reason": "Exam total is 15 marks, but the marking-key heading gives 14."
+    },
+    {
+      "id": "phy2024-u34-q15",
+      "sourceId": "phy2024-u34",
+      "originalQuestion": 15,
+      "reason": "Exam total is 18 marks, but the marking-key heading gives 17."
+    },
+    {
+      "id": "phy2024-u34-q17",
+      "sourceId": "phy2024-u34",
+      "originalQuestion": 17,
+      "reason": "The passage presents gravitons as established Standard Model particles and calls a frequency threshold a photoemission intensity effect. Needs factual corrections before publication."
+    },
+    {
+      "id": "phy2021-u3-q8",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 8,
+      "reason": "The stated sending/receiving voltages, received power and line resistance imply inconsistent currents. For example P/V at the receiver gives about 20.1 kA, whereas ΔV/R gives 8.0 kA. The supplied 90% key does not satisfy all given data."
+    },
+    {
+      "id": "phy2021-u3-q13",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 13,
+      "reason": "The supplied key uses peak voltage/current directly with average AC power. Correct use of RMS values changes the turns ratio, primary turns and secondary RMS current. Hold until the question/key convention is corrected."
     }
   ],
   "batches": [

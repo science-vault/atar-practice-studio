@@ -1,4 +1,4 @@
-/* Native Physics questions with separate original diagrams. */
+/* Typed Physics questions with necessary source figures and reviewed marking keys. */
 window.QUESTION_BANK.push(...[
   {
     "id": "phy2020-u3-q1",
@@ -87,6 +87,165 @@ window.QUESTION_BANK.push(...[
     "examSection": "short_answer",
     "editorialNote": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
     "originalStem": ""
+  },
+  {
+    "id": "phy2020-u3-q3",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "topic": "p12-em",
+    "topicIds": [
+      "p12-em"
+    ],
+    "title": "A simple DC motor",
+    "stem": "The diagram below shows the structure of a simple DC Motor. A rectangular coil (ABCD) consisting a single loop is sitting in a magnetic field created by the poles of two bar magnets (X and Y).",
+    "source": "WATP · Physics Unit 3 examination · 2020 · Q3",
+    "images": [
+      {
+        "src": "assets/physics-exams/diagram-34beeb28ed7c70e24f.webp",
+        "alt": "Original motor coil ABCD between Magnet X and Magnet Y, with the original pole shapes restored",
+        "sourcePage": 5
+      }
+    ],
+    "parts": [
+      {
+        "id": "a",
+        "type": "written",
+        "prompt": "As shown by the arrows on the coil, at a particular instant in time, conventional current flows from A to D. At this instant, side AB experiences a force OUT OF THE PAGE and side CD experiences a force INTO THE PAGE. In the spaces provided below, write down the polarity (North or South) of Magnets X and Y that would create these forces.",
+        "marks": 1,
+        "solution": "Magnet X: South. Magnet Y: North.",
+        "subtopicIds": [
+          "p12-em-s6"
+        ],
+        "subtopicTagBasis": "part",
+        "questionTypes": [
+          "short_answer"
+        ]
+      },
+      {
+        "id": "b",
+        "type": "written",
+        "prompt": "The dimensions of the coil are as follows: AB = CD = 20.0 cm; BC = AD = 10.0 cm. The current flowing is equal to 1.50 A and the strength of the magnetic field is 0.400 T.\n\nCalculate the torque acting on the coil when it is in this position.",
+        "marks": 3,
+        "solution": "τ = nBIA = 1 × 0.400 × 1.50 × (0.200 × 0.100) = 0.0120 N m.",
+        "subtopicIds": [
+          "p12-em-s6"
+        ],
+        "subtopicTagBasis": "part",
+        "questionTypes": [
+          "calculation"
+        ]
+      },
+      {
+        "id": "c",
+        "type": "written",
+        "prompt": "On paper, SKETCH how the torque experienced by this simple DC motor would vary over the course of ONE FULL ROTATION. Assume that a commutator is present in the motor and the coils starts in the position shown in the diagram above.",
+        "marks": 2,
+        "solution": "Draw a rectified sinusoidal torque curve: torque stays in the same rotational direction, starts at its maximum, reaches zero twice, and returns to maximum after one full turn. The commutator reverses the current each half-turn.",
+        "subtopicIds": [
+          "p12-em-s6"
+        ],
+        "subtopicTagBasis": "part",
+        "questionTypes": [
+          "graphing"
+        ]
+      }
+    ],
+    "sample": false,
+    "subtopicIds": [
+      "p12-em-s6"
+    ],
+    "questionTypes": [
+      "short_answer",
+      "calculation",
+      "graphing",
+      "multipart"
+    ],
+    "structure": "multipart",
+    "examSection": "short_answer",
+    "editorialNote": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+    "originalStem": "The diagram below shows the structure of a simple DC Motor. A rectangular coil (ABCD) consisting a single loop is sitting in a magnetic field created by the poles of two bar magnets (X and Y).",
+    "keyResources": [
+      {
+        "src": "assets/physics-exams/key-d6f57beca49961ce76.webp",
+        "label": "Open original marking key · all parts"
+      }
+    ]
+  },
+  {
+    "id": "phy2020-u3-q4",
+    "subject": "Physics",
+    "year": 12,
+    "unit": 4,
+    "units": [
+      4
+    ],
+    "topic": "p12-em",
+    "topicIds": [
+      "p12-em"
+    ],
+    "title": "A proton in a mass spectrometer",
+    "stem": "A proton with a speed of 1.70 x 10⁷ ms⁻¹ enters a mass spectrometer which has a magnetic field of 3.00 T. It is bent into a circular arc by this magnetic field and crashes into the detector as shown below. In the questions that follow, ignore relativistic effects.",
+    "source": "WATP · Physics Unit 3 examination · 2020 · Q4",
+    "images": [
+      {
+        "src": "assets/physics-exams/proton-spectrometer.svg",
+        "alt": "Proton entering a circular path in a 3.00 T magnetic field; d labels the diameter",
+        "sourcePage": 6
+      }
+    ],
+    "parts": [
+      {
+        "id": "a",
+        "type": "written",
+        "prompt": "On the diagram, in the region labelled ‘magnetic field’, draw the direction of the field that would bend the protons into the path shown. Draw your response on paper using the supplied figure.",
+        "marks": 1,
+        "solution": "Magnetic field into the page (crosses).",
+        "subtopicIds": [
+          "p12-em-s4"
+        ],
+        "subtopicTagBasis": "part",
+        "questionTypes": [
+          "diagram"
+        ]
+      },
+      {
+        "id": "b",
+        "type": "written",
+        "prompt": "Calculate the distance ‘d’ shown on the diagram. Show working.",
+        "marks": 4,
+        "solution": "qvB = mv²/r, so r = mv/(qB) = (1.67 × 10⁻²⁷ × 1.70 × 10⁷)/(1.60 × 10⁻¹⁹ × 3.00) = 5.91 × 10⁻² m. The labelled distance is the diameter: d = 2r = 0.118 m.",
+        "subtopicIds": [
+          "p12-em-s4"
+        ],
+        "subtopicTagBasis": "part",
+        "questionTypes": [
+          "calculation"
+        ]
+      }
+    ],
+    "sample": false,
+    "subtopicIds": [
+      "p12-em-s4"
+    ],
+    "questionTypes": [
+      "diagram",
+      "calculation",
+      "multipart"
+    ],
+    "structure": "multipart",
+    "examSection": "short_answer",
+    "editorialNote": "Classified by the current topic hierarchy; the original 2020 paper is titled Unit 3.",
+    "originalStem": "A proton with a speed of 1.70 x 10⁷ ms⁻¹ enters a mass spectrometer which has a magnetic field of 3.00 T. It is bent into a circular arc by this magnetic field and crashes into the detector as shown below. In the questions that follow, ignore relativistic effects.",
+    "keyResources": [
+      {
+        "src": "assets/physics-exams/key-7ecc79496ab82761b0.webp",
+        "label": "Open original marking key · all parts"
+      }
+    ]
   },
   {
     "id": "phy2020-u3-q5",

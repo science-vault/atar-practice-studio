@@ -1,0 +1,1933 @@
+{
+  "status": "INCOMPLETE - DO NOT MERGE OR DEPLOY",
+  "reason": "Execution environment disconnected during file upload. Only 68 of 285 required files reached GitHub. Completed local batch passed checks before outage, but missing files must be recovered or regenerated.",
+  "baseCommit": "d05ce498b8f8ede03ce7736432c873e4e57f32e2",
+  "expectedFiles": [
+    {
+      "path": "physics-2020-u3.js",
+      "size": 38606,
+      "sha256": "7ade0489b95e1ee64b8fdbd8d9e206d2d48af43ec217a0ecad4a47cb1c61794a"
+    },
+    {
+      "path": "physics-exams-2021-2024.js",
+      "size": 867813,
+      "sha256": "6a7175654c698cca7ee9e85ee7360ccaa334addd6e2745e43ec78f145a69c54a"
+    },
+    {
+      "path": "index.html",
+      "size": 12331,
+      "sha256": "fb09d9eefd0833b282fadd1ac2c07254728733bede16bd9914d7d3ef46479d17"
+    },
+    {
+      "path": "register.js",
+      "size": 5225,
+      "sha256": "6da8ef43ad5458efb5708a5c33bedcddfb696f7858e6ccca7f847c172d1218ef"
+    },
+    {
+      "path": "data/register-config.json",
+      "size": 33159,
+      "sha256": "c84ffc2f8f946a3833b8117930a147511a0e7f99867bb8c829c0c9ab7b166c05"
+    },
+    {
+      "path": "data/question-register.json",
+      "size": 1379049,
+      "sha256": "eda67035a449ff60870e93422a0ab55dcb572e34e78702d39359ca3da1ff4a43"
+    },
+    {
+      "path": "data/question-register.csv",
+      "size": 369211,
+      "sha256": "df14c8034ed773d2c1367d974da1888447e15b9b07630575766e86c3e09bf3cb"
+    },
+    {
+      "path": "data/question-register.sqlite",
+      "size": 1257472,
+      "sha256": "4c970d6ffdff3f15de8088ea7f96b88cfe5b3a6f6e9f2d9e44937da9e5e9f2e7"
+    },
+    {
+      "path": "data/duplicate-review.json",
+      "size": 2505,
+      "sha256": "d27ea88641b453ba85a639cad2422dbda3ab5546985eb3d4899249c81db84de7"
+    },
+    {
+      "path": "data/physics-import-progress.json",
+      "size": 18813,
+      "sha256": "3e1bfb47e8eff9096cf2d3ebbbde251ab971486f6bb39705d20a6c625b4c9802"
+    },
+    {
+      "path": "assets/physics-exams/bainbridge-spectrometer.svg",
+      "size": 1582,
+      "sha256": "57d7b9fc67fbcc534e50ba7a9f170082984ced4ae794de84c3913b7113140f72"
+    },
+    {
+      "path": "assets/physics-exams/beach-chair.svg",
+      "size": 1076,
+      "sha256": "cff7ea6cd41cb9443344c26614f929f9ca7c5d41f7826723bcd7ad45b584ae3a"
+    },
+    {
+      "path": "assets/physics-exams/charged-particle-paths.svg",
+      "size": 1153,
+      "sha256": "3b05b3ceaa7cb1393df8c051cfd0315b3ff5e435de946c232484c848b02800f3"
+    },
+    {
+      "path": "assets/physics-exams/diagram-009e196b55fa8f3176.webp",
+      "size": 3184,
+      "sha256": "009e196b55fa8f317660e3c6ed4e258689228f90c64d24abe438402c7555f7ff"
+    },
+    {
+      "path": "assets/physics-exams/diagram-022536f3b4318d9738.webp",
+      "size": 12218,
+      "sha256": "022536f3b4318d97381c3417973aa4a93eac93f4ff94f5a473048b543d08be4a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-030046406691ebaca7.webp",
+      "size": 6764,
+      "sha256": "030046406691ebaca7bea0735f12d0a5b8e25956f4d241792f7b80449c02e611"
+    },
+    {
+      "path": "assets/physics-exams/diagram-03097eaa49c379b702.webp",
+      "size": 21000,
+      "sha256": "03097eaa49c379b702574cb95572d9dc0a16c461b14f7953843eb79b9e7c6ef8"
+    },
+    {
+      "path": "assets/physics-exams/diagram-0d1de1eefd6e5eb69b.webp",
+      "size": 3576,
+      "sha256": "0d1de1eefd6e5eb69ba3d61076b41a06bc0fb4c5e7f67d1c7bd082fdef887d59"
+    },
+    {
+      "path": "assets/physics-exams/diagram-1052d3ae3a63090e97.webp",
+      "size": 5462,
+      "sha256": "1052d3ae3a63090e97e2cc18666461d59ff03ad6f4301accd10ca4cb72c65df5"
+    },
+    {
+      "path": "assets/physics-exams/diagram-11b93dbbd76c5f3480.webp",
+      "size": 15712,
+      "sha256": "11b93dbbd76c5f3480743aec0df289a53918547313bc244dd835104ed8979f36"
+    },
+    {
+      "path": "assets/physics-exams/diagram-124666905a11f280c2.webp",
+      "size": 23944,
+      "sha256": "124666905a11f280c2f14400307e74e71f0c51e069dfe7988ef6f7d44d41971b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-147c7c714e2ff1a090.webp",
+      "size": 6692,
+      "sha256": "147c7c714e2ff1a09049c6f762414227432ff8639133c938487a8644d25a278d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-14ecbf02444337dbb9.webp",
+      "size": 60530,
+      "sha256": "14ecbf02444337dbb990be68282ff5947873976fe8e7f80ac105d29cf3bd7f38"
+    },
+    {
+      "path": "assets/physics-exams/diagram-15718f6af65502aed0.webp",
+      "size": 7224,
+      "sha256": "15718f6af65502aed0b6f86947c332109d9d526ce06d7c7418974337437d4a4d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-15c8cdbcd15aeecd13.webp",
+      "size": 7322,
+      "sha256": "15c8cdbcd15aeecd13a0bda9c79e20b12242744b1ec8a9f40556360316144c2d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-174a0aacea16d3fbba.webp",
+      "size": 5540,
+      "sha256": "174a0aacea16d3fbba059827fbc089b5a064ac2d79dba33f9c3a484b6de3a6d7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-17fd6633555e51e639.webp",
+      "size": 7724,
+      "sha256": "17fd6633555e51e639b617782be0249e54cef27d720e19a632d1ac8b1f75a99a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-18d35c55aedf616367.webp",
+      "size": 16142,
+      "sha256": "18d35c55aedf6163671c3a2ec864fe01aa30ea609f48c5ca98778389b4184366"
+    },
+    {
+      "path": "assets/physics-exams/diagram-1d264190f8951f0141.webp",
+      "size": 18122,
+      "sha256": "1d264190f8951f0141dbdcc765fe549d7526550bb83357a15517aabd468f8001"
+    },
+    {
+      "path": "assets/physics-exams/diagram-20d96ec15786baedb2.webp",
+      "size": 6302,
+      "sha256": "20d96ec15786baedb2ea010b30a661b0040c3041ebefce048c12cb361277c455"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2181fbdcc5bc27816c.webp",
+      "size": 2232,
+      "sha256": "2181fbdcc5bc27816ceb5cdb0f59a14b76ee0db7d54a0cb014aad7e136d898ed"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2351f5f69b1c9ebe6f.webp",
+      "size": 26886,
+      "sha256": "2351f5f69b1c9ebe6f2f57ae4463d09a44255ecdd295761cc5640bd8ed1a030b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2543c9b81e87e1ef03.webp",
+      "size": 8774,
+      "sha256": "2543c9b81e87e1ef03fc4abb2796d3c958f590475d1aa813fc53fa2ca67563b4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-255c60bdcfcdf515bd.webp",
+      "size": 10454,
+      "sha256": "255c60bdcfcdf515bdb2e85a8d46dc1fe821a14687bfe1ebc13bf7e4e2b8c100"
+    },
+    {
+      "path": "assets/physics-exams/diagram-258108a05583f1142e.webp",
+      "size": 2332,
+      "sha256": "258108a05583f1142e8eaae95f01e564637231bf8d0fac8bbc3f64a6e13a2975"
+    },
+    {
+      "path": "assets/physics-exams/diagram-28d02b0848f88b6abf.webp",
+      "size": 28598,
+      "sha256": "28d02b0848f88b6abf5a33ff33d071cd7bb50de1dea12b387906bc74b311e94b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2bf22a800579b8c767.webp",
+      "size": 18076,
+      "sha256": "2bf22a800579b8c767366183b8a9055545b9abfb4a2c67c9ad512de16f86a5d7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2e5fc60945cd64adc3.webp",
+      "size": 2848,
+      "sha256": "2e5fc60945cd64adc3149aadbfde931650fdeff71b5fdee3d4a3694652f354aa"
+    },
+    {
+      "path": "assets/physics-exams/diagram-34beeb28ed7c70e24f.webp",
+      "size": 4706,
+      "sha256": "34beeb28ed7c70e24f64b089f54c92f41ec31917251006f1c0490f2a5836e637"
+    },
+    {
+      "path": "assets/physics-exams/diagram-3572ed59191a352945.webp",
+      "size": 5080,
+      "sha256": "3572ed59191a35294502b4c33881d9b7928d3ed5a6702f4c710f0564c8019f3b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-377d529346cbdc5da2.webp",
+      "size": 10340,
+      "sha256": "377d529346cbdc5da21a7272f0bce0ab47864bb1b736a4c5b18453eb1cfd7db7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-38e6d4cbb8a267b166.webp",
+      "size": 8354,
+      "sha256": "38e6d4cbb8a267b16629d647015ee3e4b85950a2bbc461c0264aa30f85ff3b0c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-39b2059f57aebffcb8.webp",
+      "size": 9218,
+      "sha256": "39b2059f57aebffcb8ff300446aa02346f23cbfbfcb451e54602a6c157e4114d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41223b0387713d7c85.webp",
+      "size": 5358,
+      "sha256": "41223b0387713d7c85dc6ecc69a3284c63b10146e7308ab09f633d18c6bea264"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41481a740940cb1db0.webp",
+      "size": 14294,
+      "sha256": "41481a740940cb1db08b9c7ddf22ad9c5d986897c6cba699465ea425d41dcc84"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41a773aa0c7e302947.webp",
+      "size": 3630,
+      "sha256": "41a773aa0c7e302947158f9a9893ad0daf4e64d2468243bbf6d1ee186b14a970"
+    },
+    {
+      "path": "assets/physics-exams/diagram-448f247a0caa5c8609.webp",
+      "size": 11436,
+      "sha256": "448f247a0caa5c860941c1a5622f57f09381198f5da4e1a891498775eb6cbd6e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-48522376b447fd9f4a.webp",
+      "size": 5934,
+      "sha256": "48522376b447fd9f4a725542263944f0614b8ee195116f1bb2efedd09343f6dc"
+    },
+    {
+      "path": "assets/physics-exams/diagram-48a97f54f983753f71.webp",
+      "size": 3344,
+      "sha256": "48a97f54f983753f715279978a0ee36c798811ab5a75910d5950d329513df8c7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-4a71125a553aa96cc5.webp",
+      "size": 10354,
+      "sha256": "4a71125a553aa96cc5095fadb7425ce6d6cf35fb2bd5123a3a7da99baa40954c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-4cae689ec5103ba865.webp",
+      "size": 12916,
+      "sha256": "4cae689ec5103ba865dc5b07a8438a73bbc26eae761980157d414e1c63cf10ad"
+    },
+    {
+      "path": "assets/physics-exams/diagram-5110782082fc90b254.webp",
+      "size": 1368,
+      "sha256": "5110782082fc90b2548abf0f90bda20082fa73036bed29c7eb082a19726e854b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-5318d77b1398b219e8.webp",
+      "size": 6144,
+      "sha256": "5318d77b1398b219e8a436ad7e77ac1f76602e0f32c9f33a05f65bb80d5ef8a3"
+    },
+    {
+      "path": "assets/physics-exams/diagram-53d10db5eafb81eec0.webp",
+      "size": 13932,
+      "sha256": "53d10db5eafb81eec0c502617c144d9816ceb30103e2103e320b0a358d444b5f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-56846e57868c118930.webp",
+      "size": 8356,
+      "sha256": "56846e57868c1189309be206d0f0249621eea28564dcb9a66b9123ae24dcd77e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-57b68ddcd40b32252b.webp",
+      "size": 8294,
+      "sha256": "57b68ddcd40b32252bc1bd417c9edb764e1949aefcda62dd69b7290ff14507c2"
+    },
+    {
+      "path": "assets/physics-exams/diagram-65ed263a8def370067.webp",
+      "size": 3592,
+      "sha256": "65ed263a8def370067a77c237c7097b3491201fd3be8a6f79359d78e50b975b3"
+    },
+    {
+      "path": "assets/physics-exams/diagram-6852ee6c72602071b9.webp",
+      "size": 16528,
+      "sha256": "6852ee6c72602071b90318a4d0c1f9857ea250b298085b21e9fe75da43fb5a09"
+    },
+    {
+      "path": "assets/physics-exams/diagram-69fb8b830eaf8f9c89.webp",
+      "size": 11456,
+      "sha256": "69fb8b830eaf8f9c8990f5a2d335dfbb562be63d72d735c479160ceb8201626e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-6f1b76e38f0e25c674.webp",
+      "size": 2548,
+      "sha256": "6f1b76e38f0e25c6742c621a8da5427128b4961388082c2f6f51ad786db05755"
+    },
+    {
+      "path": "assets/physics-exams/diagram-747751aa1b90e7cf3e.webp",
+      "size": 11852,
+      "sha256": "747751aa1b90e7cf3e373b3284fd906c3e5fd86310042fe0a852f0388be96d64"
+    },
+    {
+      "path": "assets/physics-exams/diagram-749de66f2a4501cd32.webp",
+      "size": 19996,
+      "sha256": "749de66f2a4501cd327ea3ada512b930b48bf059a67b0a3d68236d22e285abcf"
+    },
+    {
+      "path": "assets/physics-exams/diagram-74ff4de6abf0992442.webp",
+      "size": 29264,
+      "sha256": "74ff4de6abf099244239c1bbfe70cc172b34b1d2a2e4c0bc92d9ac4ec84f2033"
+    },
+    {
+      "path": "assets/physics-exams/diagram-754cba6000b1de03ae.webp",
+      "size": 7874,
+      "sha256": "754cba6000b1de03aecf1509586c7d1fa62c96e8dc61fd35cf7192af6335b101"
+    },
+    {
+      "path": "assets/physics-exams/diagram-768954046ff117d467.webp",
+      "size": 2646,
+      "sha256": "768954046ff117d467315e2a1f7db7e5ac4f5c3c7486127a7f321c8b558bbf68"
+    },
+    {
+      "path": "assets/physics-exams/diagram-76dbe6c8ce78b13d23.webp",
+      "size": 37684,
+      "sha256": "76dbe6c8ce78b13d23d6f9d4ebf9723d3e5d008779d681aec5956356de328cc7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77a763829907c0fbbc.webp",
+      "size": 6406,
+      "sha256": "77a763829907c0fbbca6cf3d99df776c3048da815359d984ecef3fd0fe4b7242"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77ac5565c88f64d559.webp",
+      "size": 9712,
+      "sha256": "77ac5565c88f64d559a07cd13eb4d9d8b40467a779afcd78d499af17303eaa75"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77b5f5423daa6d74ff.webp",
+      "size": 9768,
+      "sha256": "77b5f5423daa6d74ffac089f4ec170f78a5c124d723fe0a95066ca7473a1659f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-78874fd5f8bed580b4.webp",
+      "size": 15290,
+      "sha256": "78874fd5f8bed580b455e6bdda146f82b1ab8399dd184c73c5c4ee4f310c06a9"
+    },
+    {
+      "path": "assets/physics-exams/diagram-7a5e53157637db1c81.webp",
+      "size": 22660,
+      "sha256": "7a5e53157637db1c81254d892eef5df0007204646bbf491c92be904f4f5e3f59"
+    },
+    {
+      "path": "assets/physics-exams/diagram-7b962b2ac92bb435c0.webp",
+      "size": 19200,
+      "sha256": "7b962b2ac92bb435c09babf35ee86b8a45fb5b4e511592ae1a9dff527d874617"
+    },
+    {
+      "path": "assets/physics-exams/diagram-7cf0f2a63cd9ea6476.webp",
+      "size": 9620,
+      "sha256": "7cf0f2a63cd9ea6476f2dc627a10b66f8a029ddddecd21311f6e2f683de2a998"
+    },
+    {
+      "path": "assets/physics-exams/diagram-801f4e662d07595830.webp",
+      "size": 23328,
+      "sha256": "801f4e662d07595830383c115ed833c82b0aea0b4d802eb79a496f2cdcc495b3"
+    },
+    {
+      "path": "assets/physics-exams/diagram-84dc597f84a9c84bcb.webp",
+      "size": 22958,
+      "sha256": "84dc597f84a9c84bcb9ed73a9859623cf81589364d7035a0385b38f782c24ae4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8533f8481596cc704a.webp",
+      "size": 18630,
+      "sha256": "8533f8481596cc704aec6df78a19f0f6f73f90b4dffe9a0b46ec91190920fe03"
+    },
+    {
+      "path": "assets/physics-exams/diagram-88720bc34d2f8e63e7.webp",
+      "size": 10862,
+      "sha256": "88720bc34d2f8e63e7e24ab4c2c71a22d5936b5ce28e6e373d6e9be716e24123"
+    },
+    {
+      "path": "assets/physics-exams/diagram-88fa7a9a31703a1832.webp",
+      "size": 7592,
+      "sha256": "88fa7a9a31703a183264728b7901686ef04dc85118ef2bc12a28587746cee847"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8a6a0e3dd2fabc4237.webp",
+      "size": 5342,
+      "sha256": "8a6a0e3dd2fabc42379757a088da2d8a9b84e189ae1959e6d3c92a09450b223b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8b660a7c54f0ef80c2.webp",
+      "size": 10602,
+      "sha256": "8b660a7c54f0ef80c26ccebd097481f6633aa154c56694fcd8a250d701033a6b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8db24053218cd867e0.webp",
+      "size": 7480,
+      "sha256": "8db24053218cd867e04fac3b18259321e38e72ae41db6e26aa8a807e7312242d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8e5c2cc10408899a4b.webp",
+      "size": 24540,
+      "sha256": "8e5c2cc10408899a4b9ba5227d6593b2c43645d7280c1a138438bb96d6111dc6"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8f119d13321c0dafd4.webp",
+      "size": 10960,
+      "sha256": "8f119d13321c0dafd420ed3d31ef863f2e54117529ad2a186d22b2660e9888d4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-8f5419dfcfa4a0e518.webp",
+      "size": 55972,
+      "sha256": "8f5419dfcfa4a0e518c8ec340d223d232cf537357f649e5e09f88285d101d9ec"
+    },
+    {
+      "path": "assets/physics-exams/diagram-935e61124d46f0a9b6.webp",
+      "size": 14426,
+      "sha256": "935e61124d46f0a9b69783f088fd49421e0c6ba490559ed8ff9bc8e0c2831e07"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9876d93b7b4d9b76a6.webp",
+      "size": 3278,
+      "sha256": "9876d93b7b4d9b76a6df2561e65f01050df875f2f20746cdc24ea25ad383b3b9"
+    },
+    {
+      "path": "assets/physics-exams/diagram-998b224a2b8deb5df4.webp",
+      "size": 2900,
+      "sha256": "998b224a2b8deb5df40abea86d3a51439360af30bd00200d355ad8d4d8f35186"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9bf239c9c35466b878.webp",
+      "size": 5100,
+      "sha256": "9bf239c9c35466b878dd313dee5fdaced663a6883b6e4c889141bc41eb592660"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9cad380ff367296166.webp",
+      "size": 16308,
+      "sha256": "9cad380ff36729616623c85930da5347d0bb6b72f2d66eddd0829ba00e5fcd32"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9d9b042ba178ad998f.webp",
+      "size": 6370,
+      "sha256": "9d9b042ba178ad998f2caa723d8420fe8bc8c103ea69646a3ce3df057908ab40"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9e22101d8b66fc5012.webp",
+      "size": 9042,
+      "sha256": "9e22101d8b66fc5012b346fc97556af5da3ba57663836180bbdcd50bed9f81ed"
+    },
+    {
+      "path": "assets/physics-exams/diagram-9eacc2934368c48eb8.webp",
+      "size": 51914,
+      "sha256": "9eacc2934368c48eb84df317fdf53bf311b13c048b8384cc8e6baa8d48bf953b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a0790fb7121ea064dd.webp",
+      "size": 4596,
+      "sha256": "a0790fb7121ea064dd467f27871722c389972824a921c72623f72d770e0eeb07"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a086e6fd4fc99af5b0.webp",
+      "size": 8770,
+      "sha256": "a086e6fd4fc99af5b0a25dfe38a876bb852af2036b0e4aec07fd374b8258d94c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a12cf1bad9099b2fa6.webp",
+      "size": 2262,
+      "sha256": "a12cf1bad9099b2fa6bbedbd739ef94b62a7c3a5379e5177bfaf146ff8ea29bf"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a1682619e6f54ff54e.webp",
+      "size": 5354,
+      "sha256": "a1682619e6f54ff54e9eb1c148622a61be451d49cef0670b8ea0928c0a8f00fa"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a17f7909796ae4a8b6.webp",
+      "size": 3436,
+      "sha256": "a17f7909796ae4a8b60d6e2320b669f9037ad4ce3e3d10be5b6f80ea1447df6d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a2a244987e9edc7ad7.webp",
+      "size": 5048,
+      "sha256": "a2a244987e9edc7ad7772dc73a99ebd5fcd0935d4b73c3b4a9374485f5ed06c5"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a4bc38ff1252e7a017.webp",
+      "size": 5820,
+      "sha256": "a4bc38ff1252e7a017300c98815b1c29067b31ccc92e9c93f1ef1dd99f0dddcf"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a8154616b23113f3e3.webp",
+      "size": 5996,
+      "sha256": "a8154616b23113f3e37132e20a9be996a1b4ed906853008fda37fef43d0c18c4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-a8626214717999f8fe.webp",
+      "size": 3374,
+      "sha256": "a8626214717999f8fea55e5fe2674de77b96331a0303d987c98c741f209d7f27"
+    },
+    {
+      "path": "assets/physics-exams/diagram-aa4f0141cb99a6b39a.webp",
+      "size": 9950,
+      "sha256": "aa4f0141cb99a6b39a561e034a0920bd530fd3492b4185db3660b5d95f76ac86"
+    },
+    {
+      "path": "assets/physics-exams/diagram-ab22253e6a4a05fb7f.webp",
+      "size": 9714,
+      "sha256": "ab22253e6a4a05fb7fc323cb99c03d47d062bc23f5db151f50a7e333f6002dd5"
+    },
+    {
+      "path": "assets/physics-exams/diagram-ab67078a33fb256881.webp",
+      "size": 18156,
+      "sha256": "ab67078a33fb256881c99fc7b97aa2c528abdaf650e69e31f4953d1b2f5d23ef"
+    },
+    {
+      "path": "assets/physics-exams/diagram-b12e1a2700f52f2cf0.webp",
+      "size": 23876,
+      "sha256": "b12e1a2700f52f2cf0cf2c274c4c5739971b24918d5be7caf6a1164c34403cb2"
+    },
+    {
+      "path": "assets/physics-exams/diagram-b180a631e5f451fff9.webp",
+      "size": 6032,
+      "sha256": "b180a631e5f451fff92cd1bd3c108fa9fcb610e331dda569041c64627695d46b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-b4d8c3c8dea70d6e0a.webp",
+      "size": 8934,
+      "sha256": "b4d8c3c8dea70d6e0a85847f459e24862238c25de2a62c31d6a5a9ceb0d4c0b4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-b84ec9fd9eacfdd9b2.webp",
+      "size": 27368,
+      "sha256": "b84ec9fd9eacfdd9b2aca342d94e7df1309524cb03167919cd4e0859cac622be"
+    },
+    {
+      "path": "assets/physics-exams/diagram-b9923174e29315b8d1.webp",
+      "size": 5078,
+      "sha256": "b9923174e29315b8d1e76b6dcc0b701fda296608e3f4764ac611370926645461"
+    },
+    {
+      "path": "assets/physics-exams/diagram-bd2a37807a53de91e4.webp",
+      "size": 8042,
+      "sha256": "bd2a37807a53de91e48af84fe64c54f5faaed1a61b8da73fb55b6649d27899b4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-bd2eb32fa5b0108886.webp",
+      "size": 3068,
+      "sha256": "bd2eb32fa5b0108886402bc053e12a32784bb938b12f0aad270f197ee3a4e71a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-c0524b596bf34effcc.webp",
+      "size": 10298,
+      "sha256": "c0524b596bf34effccd4da1be8dac7ca6837820129adc5e21b5648ea737dc25f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-c1c5466d9493af2082.webp",
+      "size": 12602,
+      "sha256": "c1c5466d9493af2082c6c0283157a54961c42d9bac58e9ffc0dc2108c561998e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-c770cef7e31a77da9a.webp",
+      "size": 10756,
+      "sha256": "c770cef7e31a77da9a20ca4f3050b70c21b76a15c9ea873065421c8d2f932261"
+    },
+    {
+      "path": "assets/physics-exams/diagram-c8acb58efad381ef6d.webp",
+      "size": 17090,
+      "sha256": "c8acb58efad381ef6da620c791d0251631f94d1dde73b9d3b0a049e27c152695"
+    },
+    {
+      "path": "assets/physics-exams/diagram-d474765d4b9ea82b3b.webp",
+      "size": 9652,
+      "sha256": "d474765d4b9ea82b3b3e9fef512ca542627dcb270effb90125c0cfdbf3d2b0f4"
+    },
+    {
+      "path": "assets/physics-exams/diagram-d8be3ed661c70d3157.webp",
+      "size": 3310,
+      "sha256": "d8be3ed661c70d31570b3181859601f0cb7b5b9db7b7c33c9d1cdb37a92c580a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-d9f6e4bb3f94707b76.webp",
+      "size": 14222,
+      "sha256": "d9f6e4bb3f94707b7666f35bf5d25ff0d24504e3d83fbaf1e6e327738d943706"
+    },
+    {
+      "path": "assets/physics-exams/diagram-dbf572f7657339d3e1.webp",
+      "size": 16146,
+      "sha256": "dbf572f7657339d3e1b3726c539b91ddf85a3538840c55434ff8f7c0832737b9"
+    },
+    {
+      "path": "assets/physics-exams/diagram-df4e22710802ae3d67.webp",
+      "size": 13996,
+      "sha256": "df4e22710802ae3d67cbf795e1529c673820f5ed20c4d53063851aafa147f49f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-e3fd0708cdb4111535.webp",
+      "size": 7696,
+      "sha256": "e3fd0708cdb41115353fa0a3fa04b0b75917df4a203315db24d8d6009f14fc84"
+    },
+    {
+      "path": "assets/physics-exams/diagram-e7f3bacf2b1caea536.webp",
+      "size": 5366,
+      "sha256": "e7f3bacf2b1caea5365ee742d78afee86890edb54daed6f9ade45b9645f915e6"
+    },
+    {
+      "path": "assets/physics-exams/diagram-e8458382e1a41859b7.webp",
+      "size": 14828,
+      "sha256": "e8458382e1a41859b7c898e7576d6e0f979750a5bd9affe09f7435dc8f7609c0"
+    },
+    {
+      "path": "assets/physics-exams/diagram-eedc53e99210837ffc.webp",
+      "size": 11568,
+      "sha256": "eedc53e99210837ffc2f16278c3a70ee8705183dfbb7ee0f5e4f62dff336eabc"
+    },
+    {
+      "path": "assets/physics-exams/diagram-f357645e29896ca6b7.webp",
+      "size": 6178,
+      "sha256": "f357645e29896ca6b7c2c9a733500c32cadd4f5b131a027367c03e42beac40ad"
+    },
+    {
+      "path": "assets/physics-exams/diagram-f3a5d81141493b5f18.webp",
+      "size": 12242,
+      "sha256": "f3a5d81141493b5f18f903268d8982317d7104702abff709191677b2c1f6632a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-f99f06fd60c7e272d2.webp",
+      "size": 10146,
+      "sha256": "f99f06fd60c7e272d2b4561f8451c151a5be10bdfeb8c1d613bbd61662524d63"
+    },
+    {
+      "path": "assets/physics-exams/diagram-fb75b300c680bc325f.webp",
+      "size": 20112,
+      "sha256": "fb75b300c680bc325fb4491b85b410f3b5d95f78ea1d4b0f66990055d2ebb761"
+    },
+    {
+      "path": "assets/physics-exams/diagram-fbaf03f67bbbf2b9bc.webp",
+      "size": 1770,
+      "sha256": "fbaf03f67bbbf2b9bc084de348577426d51a93a2ca620008a529c9a7ac7e54fc"
+    },
+    {
+      "path": "assets/physics-exams/diagram-fc625d1914114e1efa.webp",
+      "size": 6404,
+      "sha256": "fc625d1914114e1efa26898af8b6a4f386c3cee5e081ca8588849102ddbfbb4a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-fce52a20ddea8d553b.webp",
+      "size": 39514,
+      "sha256": "fce52a20ddea8d553bfc474cb4a5f25b0d141451813743b7ff547948abad4a0c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-fdcfeeda7d78a81324.webp",
+      "size": 6044,
+      "sha256": "fdcfeeda7d78a81324783901c2a15847e15528d61a2d108b2152c7e21d712a45"
+    },
+    {
+      "path": "assets/physics-exams/diagram-ff19af9b3ebc7c5022.webp",
+      "size": 17072,
+      "sha256": "ff19af9b3ebc7c50223cca15c3dbb95659d617101caccafb522002d7fce8ab48"
+    },
+    {
+      "path": "assets/physics-exams/diagram-ff6658a2b23b5332e9.webp",
+      "size": 13394,
+      "sha256": "ff6658a2b23b5332e98fb35db5cc5319d2119aa4ed6133fcc7f7dc1901fb037c"
+    },
+    {
+      "path": "assets/physics-exams/key-00181b260f5868480d.webp",
+      "size": 118130,
+      "sha256": "00181b260f5868480dccbac781c4f7cecef7dca59b5e2ae1205abbe1c0e309e4"
+    },
+    {
+      "path": "assets/physics-exams/key-00b91d6af60223e464.webp",
+      "size": 108716,
+      "sha256": "00b91d6af60223e464966885251e7186898014dc4b397098a2b3c119b94ccd84"
+    },
+    {
+      "path": "assets/physics-exams/key-027d25dff5f3d5a3da.webp",
+      "size": 23916,
+      "sha256": "027d25dff5f3d5a3da459d54135e8ea7cddcd96ebd2142a626b073594ffeeac4"
+    },
+    {
+      "path": "assets/physics-exams/key-037bfb407e2ae97224.webp",
+      "size": 48320,
+      "sha256": "037bfb407e2ae9722462029c438c9ba95b5390e497f7935fcd886922242fc21d"
+    },
+    {
+      "path": "assets/physics-exams/key-044107c3f958a129a0.webp",
+      "size": 37324,
+      "sha256": "044107c3f958a129a09ef02951a16a14964c79f41547ba444664f02ff9250ada"
+    },
+    {
+      "path": "assets/physics-exams/key-04b6cc90188651366e.webp",
+      "size": 102210,
+      "sha256": "04b6cc90188651366e998fa1268d4e7f129238a133ebced079819df37202ebf7"
+    },
+    {
+      "path": "assets/physics-exams/key-063d29323e6d9ffcbd.webp",
+      "size": 87022,
+      "sha256": "063d29323e6d9ffcbda70d323dbe52592a5aa601cbeac4c60fa8508526cb0675"
+    },
+    {
+      "path": "assets/physics-exams/key-075c24700bb1f9a975.webp",
+      "size": 38672,
+      "sha256": "075c24700bb1f9a975cac18a193c3af8dcbab1b05de0727f5967fa17b2a8f473"
+    },
+    {
+      "path": "assets/physics-exams/key-087be5162f9281c9c1.webp",
+      "size": 81650,
+      "sha256": "087be5162f9281c9c10ddd6d4bcf80e814e3e76b201c7ccaf191e577c45cee16"
+    },
+    {
+      "path": "assets/physics-exams/key-08a3b6d7ba35937b67.webp",
+      "size": 24986,
+      "sha256": "08a3b6d7ba35937b67d981329704ac6ef7cbfb3e9e767ff5a543f104669028cb"
+    },
+    {
+      "path": "assets/physics-exams/key-09460f8ba4037de82b.webp",
+      "size": 24076,
+      "sha256": "09460f8ba4037de82b5c6cf00e33977b4e35aaf255863d7e9ea4e28f6d39283a"
+    },
+    {
+      "path": "assets/physics-exams/key-095454bab7c3eb0c21.webp",
+      "size": 40630,
+      "sha256": "095454bab7c3eb0c217966245ce3b19ca972438abb65dc9f0aba7ffdb0c66d0a"
+    },
+    {
+      "path": "assets/physics-exams/key-0a7bb55174fc99a124.webp",
+      "size": 54154,
+      "sha256": "0a7bb55174fc99a124826bc9c604667874d65028aa14471deae0e0002fea4573"
+    },
+    {
+      "path": "assets/physics-exams/key-0c7f1defbce9e17035.webp",
+      "size": 49948,
+      "sha256": "0c7f1defbce9e170357d0d4b3007f43f6551f8f2e8ce23d67af2236bdac79eec"
+    },
+    {
+      "path": "assets/physics-exams/key-0ca478876a4acbe33b.webp",
+      "size": 210314,
+      "sha256": "0ca478876a4acbe33b05cba57efd375d60361118eadad93c2c116568c50913d7"
+    },
+    {
+      "path": "assets/physics-exams/key-0cfae183e726449b96.webp",
+      "size": 126626,
+      "sha256": "0cfae183e726449b9666ad00320551a502b2b122de216c993eda378fc0a381b9"
+    },
+    {
+      "path": "assets/physics-exams/key-118b76ddc4d1c7a056.webp",
+      "size": 39200,
+      "sha256": "118b76ddc4d1c7a056ea62323e93e767f19f37c367f414ff5cb163983083d218"
+    },
+    {
+      "path": "assets/physics-exams/key-1216f48820b2b089c8.webp",
+      "size": 37880,
+      "sha256": "1216f48820b2b089c831b61a9adf88f0a1f10db2ec5e9c3adb98c7db61f9e0f8"
+    },
+    {
+      "path": "assets/physics-exams/key-12b8b892f8bbcc7ee9.webp",
+      "size": 75902,
+      "sha256": "12b8b892f8bbcc7ee9503a5d6eacdbe2606c75e1d9477d612e2dbbd37f934a71"
+    },
+    {
+      "path": "assets/physics-exams/key-16f9d1fdb178aa1021.webp",
+      "size": 70320,
+      "sha256": "16f9d1fdb178aa10215f82fecbeade31b4700d340b9f5c1de493d39003037524"
+    },
+    {
+      "path": "assets/physics-exams/key-1725cfbac366062006.webp",
+      "size": 89056,
+      "sha256": "1725cfbac36606200662370dfdaaa3b4714b5d162eeca468423ab524ccaa9644"
+    },
+    {
+      "path": "assets/physics-exams/key-1cb647a4874efe6995.webp",
+      "size": 51776,
+      "sha256": "1cb647a4874efe6995089b6a955c2932c890332c7316add9bf68cb90c6add5e1"
+    },
+    {
+      "path": "assets/physics-exams/key-24242b8a6c5d1d6bf6.webp",
+      "size": 86576,
+      "sha256": "24242b8a6c5d1d6bf6893a4e4f1f6205d01fefddbec030764b5ddc71cbeb710e"
+    },
+    {
+      "path": "assets/physics-exams/key-27ef6aba7e2bbc96b8.webp",
+      "size": 102686,
+      "sha256": "27ef6aba7e2bbc96b88b0b790a695c0cc0b0f62b5adad00e6bf21c6d3d20208b"
+    },
+    {
+      "path": "assets/physics-exams/key-2c5c5fb7a105fe5aa6.webp",
+      "size": 50952,
+      "sha256": "2c5c5fb7a105fe5aa6dec7d7b8f8b76f11bcbac60aa6b54d2a70c40d00e21e8b"
+    },
+    {
+      "path": "assets/physics-exams/key-2ca6234187f2ec9a8f.webp",
+      "size": 33418,
+      "sha256": "2ca6234187f2ec9a8f0652d4e4702f7489dc99b67c7fde155a7ad54efc26974f"
+    },
+    {
+      "path": "assets/physics-exams/key-2d76d357e1178c7b30.webp",
+      "size": 139822,
+      "sha256": "2d76d357e1178c7b3061680af17617847b26162ade1d3b43b739cc3c10298935"
+    },
+    {
+      "path": "assets/physics-exams/key-2f9206c7b50cbbb5f3.webp",
+      "size": 182366,
+      "sha256": "2f9206c7b50cbbb5f3ef12d7cff1be7b57d69dad79fc97468faa026bbfd2f38b"
+    },
+    {
+      "path": "assets/physics-exams/key-304a2fb82d6ae76468.webp",
+      "size": 76098,
+      "sha256": "304a2fb82d6ae76468458f54f2181d0a53bfafd33f68387c421722f1d70aab71"
+    },
+    {
+      "path": "assets/physics-exams/key-30625ed8f92234708f.webp",
+      "size": 147654,
+      "sha256": "30625ed8f92234708fab1eb9c7906a326363281c8b1487223ab439bd7f271c8f"
+    },
+    {
+      "path": "assets/physics-exams/key-3122c02c491a28b16e.webp",
+      "size": 41406,
+      "sha256": "3122c02c491a28b16e69c32b2e3f5956bff54e601b00605241e98a3e865937dc"
+    },
+    {
+      "path": "assets/physics-exams/key-32519a0a81fd2e9c09.webp",
+      "size": 25142,
+      "sha256": "32519a0a81fd2e9c093a0c90097781a6bcff1fa87822e1dc14d3f42a5f01524b"
+    },
+    {
+      "path": "assets/physics-exams/key-32cc2ee21c2afb4cce.webp",
+      "size": 95206,
+      "sha256": "32cc2ee21c2afb4cce276da8446fe2bee230e620b8eb63a85dbb12202f84fcf1"
+    },
+    {
+      "path": "assets/physics-exams/key-33cf7e78e672f3d0bb.webp",
+      "size": 36722,
+      "sha256": "33cf7e78e672f3d0bb7ab0646faf9b489961f7ca19e8574451252ea3effbf6d5"
+    },
+    {
+      "path": "assets/physics-exams/key-3658156fb7e2525a9e.webp",
+      "size": 44282,
+      "sha256": "3658156fb7e2525a9e470c49c548aea91e8d61f4785cbb86beaf4e0d95d53dd2"
+    },
+    {
+      "path": "assets/physics-exams/key-3725307558ba630638.webp",
+      "size": 186922,
+      "sha256": "3725307558ba630638912a9f36bb67b1da66739f634f3f14e67611a9ea2aedb2"
+    },
+    {
+      "path": "assets/physics-exams/key-3929a25c55e8f552c3.webp",
+      "size": 66004,
+      "sha256": "3929a25c55e8f552c33c4f11fcf49c747166a44688d94f92ed42be6db8d39302"
+    },
+    {
+      "path": "assets/physics-exams/key-3c1399d05925cc3d3a.webp",
+      "size": 22550,
+      "sha256": "3c1399d05925cc3d3a81d197dc6204528a9ad18aa156f049422ad45406a62824"
+    },
+    {
+      "path": "assets/physics-exams/key-3cd2e25f9ac29afdef.webp",
+      "size": 24816,
+      "sha256": "3cd2e25f9ac29afdef1f9e91a541179be6c4dbeb17365dce4482afa5591ecccd"
+    },
+    {
+      "path": "assets/physics-exams/key-3fb00a884d294dbe2a.webp",
+      "size": 152754,
+      "sha256": "3fb00a884d294dbe2aa0294ad77b128627b3975901ebbfe7f58d2ac22503c94e"
+    },
+    {
+      "path": "assets/physics-exams/key-3fe4f0704b0fdec655.webp",
+      "size": 27390,
+      "sha256": "3fe4f0704b0fdec655d291d0cd1b1e80781f85e0b0f21b56a2ed086e244234c2"
+    },
+    {
+      "path": "assets/physics-exams/key-40d49f8db5864c8b0b.webp",
+      "size": 35738,
+      "sha256": "40d49f8db5864c8b0b2ba0fcb671d30efd4a8ae83658949c2b675630b7c30ce6"
+    },
+    {
+      "path": "assets/physics-exams/key-42072c16d226e1c034.webp",
+      "size": 77590,
+      "sha256": "42072c16d226e1c034a47a5a6dcc00a24b53d2a0a08bc5ee50cafbd6657d779a"
+    },
+    {
+      "path": "assets/physics-exams/key-43435595d79b245161.webp",
+      "size": 19002,
+      "sha256": "43435595d79b24516132f747fd76ab1acd45598b2cd67057fee167dbf32405ad"
+    },
+    {
+      "path": "assets/physics-exams/key-44ef617f7388b47aa4.webp",
+      "size": 29440,
+      "sha256": "44ef617f7388b47aa418bce4941cea25df37f143eaba5bb4590b811aa7ecb608"
+    },
+    {
+      "path": "assets/physics-exams/key-46263e9010cf269bd7.webp",
+      "size": 187382,
+      "sha256": "46263e9010cf269bd7576dc017f44ce62bfb0f9d4a784c522928bfd6d610d4f8"
+    },
+    {
+      "path": "assets/physics-exams/key-4a6c4b7677c5090b72.webp",
+      "size": 45964,
+      "sha256": "4a6c4b7677c5090b721e18ce617051f626fae9c9f844c93c8958da50a197dc48"
+    },
+    {
+      "path": "assets/physics-exams/key-4d1241a6a08881b54b.webp",
+      "size": 181908,
+      "sha256": "4d1241a6a08881b54bcbc5854cd8bbc55feacd1a266600069a948d6593e40861"
+    },
+    {
+      "path": "assets/physics-exams/key-4d3a517668ae1640b3.webp",
+      "size": 82628,
+      "sha256": "4d3a517668ae1640b35b22159d9473ab9b2fd8479b1049658d96db44146d2da8"
+    },
+    {
+      "path": "assets/physics-exams/key-5005e13fabb5f94cab.webp",
+      "size": 112138,
+      "sha256": "5005e13fabb5f94cab94c70182d27c2e3b07d536465948bdb9bb9af03f326736"
+    },
+    {
+      "path": "assets/physics-exams/key-53c38b4895165bda28.webp",
+      "size": 263514,
+      "sha256": "53c38b4895165bda28082d10b40e15a1ec37b5d1f490c7f0c54aa4e30c3cdff8"
+    },
+    {
+      "path": "assets/physics-exams/key-54a1a2d4680c4a721f.webp",
+      "size": 93832,
+      "sha256": "54a1a2d4680c4a721fa7bd755a66e8f79f5c7003ebbe4ba04b59b4a51f6cbc27"
+    },
+    {
+      "path": "assets/physics-exams/key-556c8ac4c628098a57.webp",
+      "size": 43426,
+      "sha256": "556c8ac4c628098a5759a4f96a28284c03f9509fdeb824d635d38e82a1c62fe7"
+    },
+    {
+      "path": "assets/physics-exams/key-55b455674644cbac9f.webp",
+      "size": 55246,
+      "sha256": "55b455674644cbac9fa42d12b56ca92fae4c38865676763509c0b5e6fd360b07"
+    },
+    {
+      "path": "assets/physics-exams/key-58134c912b5960b437.webp",
+      "size": 91092,
+      "sha256": "58134c912b5960b437a8e00691fec97940967b3f398364e0de2bd3b7e8f61a9f"
+    },
+    {
+      "path": "assets/physics-exams/key-5815bc47572643d8b0.webp",
+      "size": 110746,
+      "sha256": "5815bc47572643d8b018f332d12da4c1c1e4c2c5a9bc16f31b750e176f8479e3"
+    },
+    {
+      "path": "assets/physics-exams/key-58e6bdf2cce92ac496.webp",
+      "size": 38690,
+      "sha256": "58e6bdf2cce92ac496ad6e0633d95eddca886954a44dddaada5caac0111c782c"
+    },
+    {
+      "path": "assets/physics-exams/key-5ad12eb200b9c5dca8.webp",
+      "size": 118634,
+      "sha256": "5ad12eb200b9c5dca8373b97a450ad218a5f4b02878d9dd8b618431352183bed"
+    },
+    {
+      "path": "assets/physics-exams/key-5d1eb760984c8c8e9b.webp",
+      "size": 8542,
+      "sha256": "5d1eb760984c8c8e9b5f6b3812546158bfc0133596a8788ef4b89300a35f9fc4"
+    },
+    {
+      "path": "assets/physics-exams/key-5de2b64766523582c2.webp",
+      "size": 226954,
+      "sha256": "5de2b64766523582c26f63a6bb4ff52d8d293e825918635e9836a527b82957c3"
+    },
+    {
+      "path": "assets/physics-exams/key-61b0b8d958597aa94d.webp",
+      "size": 75924,
+      "sha256": "61b0b8d958597aa94d5136ec4bf1f67516044519dba722f6b58fe192c83bf7dd"
+    },
+    {
+      "path": "assets/physics-exams/key-63beb34c97412cd387.webp",
+      "size": 50230,
+      "sha256": "63beb34c97412cd3877c998d943a7c997a84488a71602cf1b7adf3677e1ae2df"
+    },
+    {
+      "path": "assets/physics-exams/key-648504c389f3ce11ad.webp",
+      "size": 87734,
+      "sha256": "648504c389f3ce11adb5611752ba7463b95161b33b420165b747d797b317c648"
+    },
+    {
+      "path": "assets/physics-exams/key-65512a60b53b22c0b1.webp",
+      "size": 135698,
+      "sha256": "65512a60b53b22c0b16481cf692407255c2f9a9eb2d389f4d5dbd3ae5cea6401"
+    },
+    {
+      "path": "assets/physics-exams/key-65eacea3b235fc656e.webp",
+      "size": 57016,
+      "sha256": "65eacea3b235fc656e46e9426f8a4632c1bb07453c4cc23abd0634df87a7ee29"
+    },
+    {
+      "path": "assets/physics-exams/key-66a1ce7e0dbf747ddc.webp",
+      "size": 168890,
+      "sha256": "66a1ce7e0dbf747ddc72cd05fc229bbe28aa390d013f9073c6335f2fedd8c756"
+    },
+    {
+      "path": "assets/physics-exams/key-6740cb01dc5c114490.webp",
+      "size": 77632,
+      "sha256": "6740cb01dc5c114490cc6b67bc023e35e265f00934bae44f6128e86bccfc76b2"
+    },
+    {
+      "path": "assets/physics-exams/key-683811a440ab71ecfc.webp",
+      "size": 106584,
+      "sha256": "683811a440ab71ecfcc1e1e0265b937fda3d7ca16cb8d4e0904f5a2d9b13648d"
+    },
+    {
+      "path": "assets/physics-exams/key-6c588791a10d8971f5.webp",
+      "size": 32064,
+      "sha256": "6c588791a10d8971f5bf865fbe3c6af3433ec850d5506c3594a6f484762ad2e9"
+    },
+    {
+      "path": "assets/physics-exams/key-6cfbfe189316a65e70.webp",
+      "size": 146762,
+      "sha256": "6cfbfe189316a65e70e0cb9dc9eff009b95caa07e00585308858b94c32b2b6d8"
+    },
+    {
+      "path": "assets/physics-exams/key-6d2ea80bba047b6da2.webp",
+      "size": 59302,
+      "sha256": "6d2ea80bba047b6da28157a2b87e1f5e282f5cdf4f0d3b4e4a4e80271fa3cf82"
+    },
+    {
+      "path": "assets/physics-exams/key-6e5389f03bcef675fd.webp",
+      "size": 10212,
+      "sha256": "6e5389f03bcef675fdb1cd715e43fac42d33d18ecaa06dd3cbf6a0f8085fcd89"
+    },
+    {
+      "path": "assets/physics-exams/key-6f10855a1773c57ce3.webp",
+      "size": 18332,
+      "sha256": "6f10855a1773c57ce33f0633c3982b24220bbfc560b442b3fbaf9750519bcd32"
+    },
+    {
+      "path": "assets/physics-exams/key-6fa465abcf4813c9eb.webp",
+      "size": 204596,
+      "sha256": "6fa465abcf4813c9eb1faaaed91ad63fc1738033d2c4e2b2945fd5ebcc404c8e"
+    },
+    {
+      "path": "assets/physics-exams/key-7067c1421b73ac0d8a.webp",
+      "size": 16776,
+      "sha256": "7067c1421b73ac0d8aa3221c0db64ef3ee26cb2587c32284778dd3a7a1590a9f"
+    },
+    {
+      "path": "assets/physics-exams/key-70ce06af846535dfb9.webp",
+      "size": 149138,
+      "sha256": "70ce06af846535dfb9de747b3f1a7dbc4cf1fcdb828573fdc54c77495f427050"
+    },
+    {
+      "path": "assets/physics-exams/key-71f1f8a82c21ecb3dd.webp",
+      "size": 14364,
+      "sha256": "71f1f8a82c21ecb3dd392d655aede384e261a6ce86cb6aa606e062ce43ec41e2"
+    },
+    {
+      "path": "assets/physics-exams/key-7528536316765ca17b.webp",
+      "size": 56980,
+      "sha256": "7528536316765ca17b045454afed4451126e7f184b400bc7a14dc4c8c7a6e919"
+    },
+    {
+      "path": "assets/physics-exams/key-7558ff44d1fe9f96e1.webp",
+      "size": 75530,
+      "sha256": "7558ff44d1fe9f96e18f595c751fa253f14b03f882d883cd39b0d7087b5551bb"
+    },
+    {
+      "path": "assets/physics-exams/key-762b14637f662a1e20.webp",
+      "size": 44272,
+      "sha256": "762b14637f662a1e20cd420bbd47f8d1fc82327991c4453faf3c52e7d03f2ab3"
+    },
+    {
+      "path": "assets/physics-exams/key-7ecc79496ab82761b0.webp",
+      "size": 41496,
+      "sha256": "7ecc79496ab82761b063e1dbeafc8db3eb5bb4e7efd516f80f81e6f8a52598d1"
+    },
+    {
+      "path": "assets/physics-exams/key-8037a72735a78bce51.webp",
+      "size": 165968,
+      "sha256": "8037a72735a78bce51af199d06ef5eee5c5bfe547757059f7fc3a158ec91ddcd"
+    },
+    {
+      "path": "assets/physics-exams/key-81cfca45673c5ec8b2.webp",
+      "size": 98384,
+      "sha256": "81cfca45673c5ec8b2d88b4d77d622ede264aa6456062a7b8c11cebb50ce4e17"
+    },
+    {
+      "path": "assets/physics-exams/key-82e56b382b0ac8631b.webp",
+      "size": 34950,
+      "sha256": "82e56b382b0ac8631bbad187d7b4a8dfc9a0f0c05cf9d2c49c8e7ff956832ea1"
+    },
+    {
+      "path": "assets/physics-exams/key-87eb9123290f4e63df.webp",
+      "size": 107276,
+      "sha256": "87eb9123290f4e63dfedd9e54ae01e88195d64fd81300717a531811412eadffe"
+    },
+    {
+      "path": "assets/physics-exams/key-89222b3f4915cae23d.webp",
+      "size": 122870,
+      "sha256": "89222b3f4915cae23da6d51dca7932d87820b5590b4ebf7c371b38fe3654f5a8"
+    },
+    {
+      "path": "assets/physics-exams/key-8bc248dd80933e1a67.webp",
+      "size": 45120,
+      "sha256": "8bc248dd80933e1a6774815dc6ac774c189a52dd67e027974d39843927bb1f4b"
+    },
+    {
+      "path": "assets/physics-exams/key-8eac3e954814761fd1.webp",
+      "size": 159156,
+      "sha256": "8eac3e954814761fd12269b94e8d52258fb1cba424db699d8611b5dfbbf6fbcc"
+    },
+    {
+      "path": "assets/physics-exams/key-8f26a0ad403429abfa.webp",
+      "size": 71528,
+      "sha256": "8f26a0ad403429abfaac11b478624c89290b762bcc3fe2b3fa4060ca04ecfe9c"
+    },
+    {
+      "path": "assets/physics-exams/key-8ff812c8d096b05479.webp",
+      "size": 54910,
+      "sha256": "8ff812c8d096b05479126fa4f87806ca6d23aeae7dc6cef4580a3afac877fc1c"
+    },
+    {
+      "path": "assets/physics-exams/key-9008eaaae177ac6fcd.webp",
+      "size": 27740,
+      "sha256": "9008eaaae177ac6fcda6c4b82195f76a46fce164d39b1be43b0c9031b888d0e0"
+    },
+    {
+      "path": "assets/physics-exams/key-915acb264b60cba90f.webp",
+      "size": 156594,
+      "sha256": "915acb264b60cba90f9e9d2907e35e298d61262e4d25ff4f1cc28d9c8e0e3e6f"
+    },
+    {
+      "path": "assets/physics-exams/key-946db588e819a73c81.webp",
+      "size": 208640,
+      "sha256": "946db588e819a73c815392e6b3d7634deb3cefc0a86990436e4fb79a154b827c"
+    },
+    {
+      "path": "assets/physics-exams/key-9472493e9dc580d025.webp",
+      "size": 82776,
+      "sha256": "9472493e9dc580d02558dc02cfc5c1cf333a5076a14b3470e7f7a35388ff328b"
+    },
+    {
+      "path": "assets/physics-exams/key-94bf98d69cd5c5f78c.webp",
+      "size": 103046,
+      "sha256": "94bf98d69cd5c5f78ccd689473d3d9d39125601e9f325dc20c13f3c3c85c49c7"
+    },
+    {
+      "path": "assets/physics-exams/key-94de5c1afbec22f1fb.webp",
+      "size": 58190,
+      "sha256": "94de5c1afbec22f1fbabd4ba5bfe41e5e205eb73cd8a438f9286f3588f3aa181"
+    },
+    {
+      "path": "assets/physics-exams/key-9864ceaf9c5c478a28.webp",
+      "size": 187138,
+      "sha256": "9864ceaf9c5c478a28ea2b3a8bbf57ce05dcd7f32587e0df6dbec915c011ddab"
+    },
+    {
+      "path": "assets/physics-exams/key-9e76b7b6487bb1abc1.webp",
+      "size": 27706,
+      "sha256": "9e76b7b6487bb1abc186bd4322038981d8cff096dab558643949b36a1c793388"
+    },
+    {
+      "path": "assets/physics-exams/key-9ff47e2a9b153c1b03.webp",
+      "size": 148822,
+      "sha256": "9ff47e2a9b153c1b033115db134faaf4781ab630067698c556f824e41736d08d"
+    },
+    {
+      "path": "assets/physics-exams/key-a0aeb974ee1a7eb670.webp",
+      "size": 70398,
+      "sha256": "a0aeb974ee1a7eb670d1b334996e5b823e1fb45c0fcbc0783851bb4834d62f24"
+    },
+    {
+      "path": "assets/physics-exams/key-a19e188f5537df61cb.webp",
+      "size": 147066,
+      "sha256": "a19e188f5537df61cba8e471ffac1acc74a450dd8a7452072a5b42430fccc146"
+    },
+    {
+      "path": "assets/physics-exams/key-a19fd57eeff150bfb7.webp",
+      "size": 28414,
+      "sha256": "a19fd57eeff150bfb7d69b77708f3d22c072c99bc93779421443df3ecd526112"
+    },
+    {
+      "path": "assets/physics-exams/key-aaf20b1de18c553124.webp",
+      "size": 124044,
+      "sha256": "aaf20b1de18c553124be83f16a94c7fbbc1286a7904d8c1b96fac818cfb0d8ea"
+    },
+    {
+      "path": "assets/physics-exams/key-abd9cd3c9f59a15108.webp",
+      "size": 47658,
+      "sha256": "abd9cd3c9f59a151084081643b0027727b7fe3cbac6d63c8bd9c59022887ab55"
+    },
+    {
+      "path": "assets/physics-exams/key-b4c06de6ee7189364b.webp",
+      "size": 29752,
+      "sha256": "b4c06de6ee7189364bca34c9ccd446b6325b2e9d2b6e8503c5ab1f912732bdb0"
+    },
+    {
+      "path": "assets/physics-exams/key-b67ac27f5487666b37.webp",
+      "size": 17202,
+      "sha256": "b67ac27f5487666b37ea2bc8bfc2612aa0ed5e9c87dda1ab857de0bea3621798"
+    },
+    {
+      "path": "assets/physics-exams/key-b83c8fd00ecd30f510.webp",
+      "size": 38564,
+      "sha256": "b83c8fd00ecd30f510353b995feaad44ef9a9a644cf12607c193c878b6530930"
+    },
+    {
+      "path": "assets/physics-exams/key-b8a5847d9de0ddae1c.webp",
+      "size": 24760,
+      "sha256": "b8a5847d9de0ddae1c4895e31ab7c909055dead77a318350a3824473fce8098b"
+    },
+    {
+      "path": "assets/physics-exams/key-b909e75b06ab7c2d3b.webp",
+      "size": 51530,
+      "sha256": "b909e75b06ab7c2d3b43a98d701756092299ac74eff0d8ae37bd59eae70aaf4c"
+    },
+    {
+      "path": "assets/physics-exams/key-b9723a2c5c2a7e28f5.webp",
+      "size": 115888,
+      "sha256": "b9723a2c5c2a7e28f5d117cb0110086161c77f6b4e02406124aeb4858d7a2e36"
+    },
+    {
+      "path": "assets/physics-exams/key-ba95dac6ac8287342d.webp",
+      "size": 44758,
+      "sha256": "ba95dac6ac8287342dc7d94d4468d7db2ac5802f440e8096ef3191762c412da7"
+    },
+    {
+      "path": "assets/physics-exams/key-bb1299732ee696768a.webp",
+      "size": 82486,
+      "sha256": "bb1299732ee696768ac8f10e7adb3268c8f64c9f02f104a6f30a2b6631f57643"
+    },
+    {
+      "path": "assets/physics-exams/key-bd1577e4c309e0f148.webp",
+      "size": 108788,
+      "sha256": "bd1577e4c309e0f1483b05a66e5fead7ffb3830dc6dda5163ab287ab6a399e98"
+    },
+    {
+      "path": "assets/physics-exams/key-bd8e95aae087c4f73a.webp",
+      "size": 24864,
+      "sha256": "bd8e95aae087c4f73a4d23373c1efdb51a22e72c360f4dad6ceece9f1fa2df3a"
+    },
+    {
+      "path": "assets/physics-exams/key-bec6e0232e6d760ec7.webp",
+      "size": 124788,
+      "sha256": "bec6e0232e6d760ec733d2bb45b9ca943c62803c1ed5d613da36a7c5338d8679"
+    },
+    {
+      "path": "assets/physics-exams/key-bfb454c3caded6dcb8.webp",
+      "size": 36078,
+      "sha256": "bfb454c3caded6dcb83e3a428b3f24d4a110bdd5ee42675bf4825cc51eb8332c"
+    },
+    {
+      "path": "assets/physics-exams/key-bfed2e2799d9e03c00.webp",
+      "size": 138740,
+      "sha256": "bfed2e2799d9e03c0017dd778ee87706da0361c69ab5f7c9d38c90086ea42f71"
+    },
+    {
+      "path": "assets/physics-exams/key-c4d2e843027f9d7bd1.webp",
+      "size": 126344,
+      "sha256": "c4d2e843027f9d7bd1ff091d005cbe5704d2e0b0db67cefe699b3ed7a60c8569"
+    },
+    {
+      "path": "assets/physics-exams/key-c5ce0815e2b01bf177.webp",
+      "size": 83412,
+      "sha256": "c5ce0815e2b01bf177430d80fb401b58507665fd4d7c7024b6733231f1ed7ca4"
+    },
+    {
+      "path": "assets/physics-exams/key-c665afa512e8251c8b.webp",
+      "size": 38172,
+      "sha256": "c665afa512e8251c8b47584f844aa424ff970c8e8cd8fadee6e42d9bdeaa3a91"
+    },
+    {
+      "path": "assets/physics-exams/key-c6dccf34bed50c3753.webp",
+      "size": 20944,
+      "sha256": "c6dccf34bed50c3753826a67016e37d2e629f97d8e92fad0da211386953022b1"
+    },
+    {
+      "path": "assets/physics-exams/key-c9170908dc13455437.webp",
+      "size": 64166,
+      "sha256": "c9170908dc13455437c6455009eb249ba5f2848b53aa043ec2fda6138c46b469"
+    },
+    {
+      "path": "assets/physics-exams/key-c91c4ea4322793fc8e.webp",
+      "size": 38524,
+      "sha256": "c91c4ea4322793fc8e591274f2d2e065c0f256087d531ac8d2774f16a8b3f28a"
+    },
+    {
+      "path": "assets/physics-exams/key-c9cdd3af0849e817b6.webp",
+      "size": 74924,
+      "sha256": "c9cdd3af0849e817b6b5bb17f774bb339cbbfeae6ee16ae85b127140cd60a97a"
+    },
+    {
+      "path": "assets/physics-exams/key-ca895c87f790c5f4aa.webp",
+      "size": 49530,
+      "sha256": "ca895c87f790c5f4aadbf41009962f43475c32a4bf1f09b17dc838c874be45ed"
+    },
+    {
+      "path": "assets/physics-exams/key-cc950225d643635dd8.webp",
+      "size": 20808,
+      "sha256": "cc950225d643635dd8a889cb4d65166913b504cbe536a382171e9b309ff7086b"
+    },
+    {
+      "path": "assets/physics-exams/key-cdea157b207d18378e.webp",
+      "size": 70490,
+      "sha256": "cdea157b207d18378e7ca8bfa97356ea0877680b8854305530e889d362fa4279"
+    },
+    {
+      "path": "assets/physics-exams/key-ce0a98de609066fdab.webp",
+      "size": 63538,
+      "sha256": "ce0a98de609066fdabc68a1a6a5349dbf6a375bd5839a22e6de7bfd939c34395"
+    },
+    {
+      "path": "assets/physics-exams/key-cf4e18042ccc2866f9.webp",
+      "size": 108714,
+      "sha256": "cf4e18042ccc2866f9d7111721453393c3389b5324ec9f806c1bc9fc780007f4"
+    },
+    {
+      "path": "assets/physics-exams/key-cf63b8e35f45b24eb8.webp",
+      "size": 199322,
+      "sha256": "cf63b8e35f45b24eb887390b7a9d4ee1b1e1c86ea16b47f0b15b39ad0d10f336"
+    },
+    {
+      "path": "assets/physics-exams/key-d048a7b4326a804012.webp",
+      "size": 184650,
+      "sha256": "d048a7b4326a804012c9eaebba78028dba0ecff01add59130fca84ea90c97ba7"
+    },
+    {
+      "path": "assets/physics-exams/key-d234917ea6132773f8.webp",
+      "size": 57286,
+      "sha256": "d234917ea6132773f8436448f6e8a5d35c052a630f99d2e6c9bb7ddcd9b91c6d"
+    },
+    {
+      "path": "assets/physics-exams/key-d5591428d4faf87614.webp",
+      "size": 51636,
+      "sha256": "d5591428d4faf8761407644140529decdef0923c0551f34d772ff2975957b9b6"
+    },
+    {
+      "path": "assets/physics-exams/key-d6f57beca49961ce76.webp",
+      "size": 87552,
+      "sha256": "d6f57beca49961ce76a24ed7b8eec6cf19677a8387d852afa37975cc88d6f688"
+    },
+    {
+      "path": "assets/physics-exams/key-d72dffd6de6c30f4c4.webp",
+      "size": 74936,
+      "sha256": "d72dffd6de6c30f4c4d88aaa18cea35d445b36a15a53dccf023d43d3cf723f01"
+    },
+    {
+      "path": "assets/physics-exams/key-d867c590138e937e02.webp",
+      "size": 50790,
+      "sha256": "d867c590138e937e02a63aa11f5f75ed8f734a2f0bbca37e46a35b8aa5eb972d"
+    },
+    {
+      "path": "assets/physics-exams/key-d9946f7902f87291b2.webp",
+      "size": 112912,
+      "sha256": "d9946f7902f87291b223f34db395d4a69fa65d8adb8ad8e8ce4798845edc07bc"
+    },
+    {
+      "path": "assets/physics-exams/key-d9a0274ff01e7670a9.webp",
+      "size": 41778,
+      "sha256": "d9a0274ff01e7670a9b3f6239b49299eb7539f93c8e8307db50d86fc02ff4a59"
+    },
+    {
+      "path": "assets/physics-exams/key-dd976f088f261d2cf5.webp",
+      "size": 203284,
+      "sha256": "dd976f088f261d2cf5ea3778109525e8a5f13840a3db7e4b1f3024bec06fed82"
+    },
+    {
+      "path": "assets/physics-exams/key-e197f5e699dbfdd444.webp",
+      "size": 72042,
+      "sha256": "e197f5e699dbfdd44468144e35cffe9a18a4c618af1a84206f173a701c2c584a"
+    },
+    {
+      "path": "assets/physics-exams/key-e8cb9991e28e54a5b4.webp",
+      "size": 32648,
+      "sha256": "e8cb9991e28e54a5b45d57b02ec1cf066ea0c580faca88ba8abd0f47cd62d390"
+    },
+    {
+      "path": "assets/physics-exams/key-ec32333b4259e81b73.webp",
+      "size": 68758,
+      "sha256": "ec32333b4259e81b731d80108ab63ede27cbe6d364dbfe1e28d7b8da89a31fad"
+    },
+    {
+      "path": "assets/physics-exams/key-ede744afb1d3a96c9f.webp",
+      "size": 24800,
+      "sha256": "ede744afb1d3a96c9fab819249b0ee04444497dcf83562eb5af9f29006965d6f"
+    },
+    {
+      "path": "assets/physics-exams/key-f0299bbee115969cd1.webp",
+      "size": 17692,
+      "sha256": "f0299bbee115969cd142f023ff5ca2bc9875e9ee0d466c60863b022958a2de36"
+    },
+    {
+      "path": "assets/physics-exams/key-f7fd5b0557d00b93a7.webp",
+      "size": 66634,
+      "sha256": "f7fd5b0557d00b93a79809c22a2261d047e32b17f2cb757238d69b59de729709"
+    },
+    {
+      "path": "assets/physics-exams/key-fb15a8f63f804498cf.webp",
+      "size": 39262,
+      "sha256": "fb15a8f63f804498cfdf87cf97b07d346d76a396401d855a57dbb04f5925cba5"
+    },
+    {
+      "path": "assets/physics-exams/key-fba7fad090efa5c09c.webp",
+      "size": 13226,
+      "sha256": "fba7fad090efa5c09c9c0869af2a555b94cc1db450de8df3cf2331680b84e124"
+    },
+    {
+      "path": "assets/physics-exams/key-fcf510b6160008333b.webp",
+      "size": 55534,
+      "sha256": "fcf510b6160008333b97cd16794b0f91008877e6be563fe5e5086559819ad7ea"
+    },
+    {
+      "path": "assets/physics-exams/key-fddca243a43a7bbf73.webp",
+      "size": 16684,
+      "sha256": "fddca243a43a7bbf738f401c5bfccdf2e9b5af593c6cfbbedbc7278acb3ef699"
+    },
+    {
+      "path": "assets/physics-exams/levitating-wires.svg",
+      "size": 595,
+      "sha256": "1b23cd99b523c96e867ad88904cec254b1d557ea4b6f86ff32f303076c46450e"
+    },
+    {
+      "path": "assets/physics-exams/proton-spectrometer.svg",
+      "size": 1026,
+      "sha256": "5d2af63e11eaaed7efdb82dfc3de4de6fa4709d58f7349231127ce4c8f0e09c4"
+    }
+  ],
+  "uploadedBlobs": [
+    {
+      "path": "register.js",
+      "sha": "0abc5db1772c9a6e40a3637e0df09a996916f97a"
+    },
+    {
+      "path": "data/duplicate-review.json",
+      "sha": "f4e15d9471f0bac650ec171424105e822d67ac9b"
+    },
+    {
+      "path": "index.html",
+      "sha": "c42b60b312efadebe07cae2586134426445b982b"
+    },
+    {
+      "path": "physics-2020-u3.js",
+      "sha": "b72c3d243f26c82d504caec11b336fcafbe49de0"
+    },
+    {
+      "path": "data/register-config.json",
+      "sha": "969da996478be1dd633d67cf7c6da8fab567ec15"
+    },
+    {
+      "path": "data/physics-import-progress.json",
+      "sha": "d2b5fcfab24957c670d7b59ee2c8d655b55e6947"
+    },
+    {
+      "path": "assets/physics-exams/beach-chair.svg",
+      "sha": "ff6020f6ef986213cf2de7e07bd3af52275fe55e"
+    },
+    {
+      "path": "assets/physics-exams/bainbridge-spectrometer.svg",
+      "sha": "7d8ea560833607ae9a19802bbb7baf640b5560eb"
+    },
+    {
+      "path": "assets/physics-exams/charged-particle-paths.svg",
+      "sha": "cdd1cd2ed3450a7e8a59b71a2a31d349ca434440"
+    },
+    {
+      "path": "assets/physics-exams/diagram-009e196b55fa8f3176.webp",
+      "sha": "35d57f212e36886a72c50a20e7c73e0b20dbdabd"
+    },
+    {
+      "path": "assets/physics-exams/diagram-022536f3b4318d9738.webp",
+      "sha": "dbfcaead3112c76d5ced9d0c07d268588bb2fef7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-03097eaa49c379b702.webp",
+      "sha": "08e6cbaa79aea1f742efcec6b2323324042b6d1d"
+    },
+    {
+      "path": "assets/physics-exams/diagram-030046406691ebaca7.webp",
+      "sha": "9f4881c740b10f504b5d87a98b9c7da9f8a6bd0b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-1052d3ae3a63090e97.webp",
+      "sha": "2c3933e5d3ba3729738d97f9dbc159c1eee1b7ba"
+    },
+    {
+      "path": "assets/physics-exams/diagram-0d1de1eefd6e5eb69b.webp",
+      "sha": "62aecc4c90a4c34a926465667a1061c390c009ff"
+    },
+    {
+      "path": "assets/physics-exams/diagram-11b93dbbd76c5f3480.webp",
+      "sha": "d27acbb2dc39873aa3ddcba4910e1f2168ef5e79"
+    },
+    {
+      "path": "assets/physics-exams/diagram-147c7c714e2ff1a090.webp",
+      "sha": "a09710f81216f6e5c3bd12ff522211d7318e160b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-124666905a11f280c2.webp",
+      "sha": "f05d205d15885b83050b8ab671cb7c33da782fa3"
+    },
+    {
+      "path": "assets/physics-exams/diagram-15718f6af65502aed0.webp",
+      "sha": "8fc6d8c3cf239c311f10ce5028ad0d8f027e21f0"
+    },
+    {
+      "path": "assets/physics-exams/diagram-15c8cdbcd15aeecd13.webp",
+      "sha": "ae21b19f34b6f437ebd0384030196cdf7c8c47cd"
+    },
+    {
+      "path": "assets/physics-exams/diagram-174a0aacea16d3fbba.webp",
+      "sha": "87704f6c31f661d321f70b5d1693c944f18f91b0"
+    },
+    {
+      "path": "assets/physics-exams/diagram-17fd6633555e51e639.webp",
+      "sha": "c2ce14d5adedb6b97e726e9038cfb9f53a12cff1"
+    },
+    {
+      "path": "assets/physics-exams/diagram-18d35c55aedf616367.webp",
+      "sha": "f6dc10589cc08b2061be9b4f8de5d60f863e6538"
+    },
+    {
+      "path": "assets/physics-exams/diagram-14ecbf02444337dbb9.webp",
+      "sha": "373f6637e45048125506f9193b30df2306dcc70f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2181fbdcc5bc27816c.webp",
+      "sha": "f7f795320d33aa2c7d490485064cfb4f05881139"
+    },
+    {
+      "path": "assets/physics-exams/diagram-1d264190f8951f0141.webp",
+      "sha": "be676a7eb77f578a361525bc0ac1f1d79b5afaf2"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2543c9b81e87e1ef03.webp",
+      "sha": "e5760ac4e54c532e336b8c1cfed909a8b24f6938"
+    },
+    {
+      "path": "assets/physics-exams/diagram-20d96ec15786baedb2.webp",
+      "sha": "673a16a852bb900c099a6a863b5a71d20643744c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2351f5f69b1c9ebe6f.webp",
+      "sha": "a4244158f6d88c004e448ed621308a4c3f1c5677"
+    },
+    {
+      "path": "assets/physics-exams/diagram-258108a05583f1142e.webp",
+      "sha": "8bbc771aeecc857de21e952610081c61f6702b99"
+    },
+    {
+      "path": "assets/physics-exams/diagram-255c60bdcfcdf515bd.webp",
+      "sha": "c5771fe52cd999ddbb6efc3e87113bff9a6987b6"
+    },
+    {
+      "path": "data/question-register.csv",
+      "sha": "318b64affb9424d7fc6f3fd89a1c363190dd4978"
+    },
+    {
+      "path": "assets/physics-exams/diagram-28d02b0848f88b6abf.webp",
+      "sha": "3f5172bcbced345709aa8d8090080b8a5469dc2f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2bf22a800579b8c767.webp",
+      "sha": "7e613134e94c1fd6b6f2d4db6e8de94b019193de"
+    },
+    {
+      "path": "assets/physics-exams/diagram-2e5fc60945cd64adc3.webp",
+      "sha": "f42f592893051e3f94993330c45b506c339e50d8"
+    },
+    {
+      "path": "assets/physics-exams/diagram-34beeb28ed7c70e24f.webp",
+      "sha": "0e3431598d5f8a3cd5d439ea74d63080b3d7c4fc"
+    },
+    {
+      "path": "assets/physics-exams/diagram-377d529346cbdc5da2.webp",
+      "sha": "50dba51d7e8a2632732d7f1d7cdf3052ec5cde81"
+    },
+    {
+      "path": "assets/physics-exams/diagram-3572ed59191a352945.webp",
+      "sha": "b628ecb79834df1a67ae2b84d95317b211524b29"
+    },
+    {
+      "path": "assets/physics-exams/diagram-38e6d4cbb8a267b166.webp",
+      "sha": "35c7ea7466f8e0681da22c21ef068e0d96d65924"
+    },
+    {
+      "path": "assets/physics-exams/diagram-39b2059f57aebffcb8.webp",
+      "sha": "3887c3ac123b5e9af81abc47c3bab1b83c0723e0"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41223b0387713d7c85.webp",
+      "sha": "d2437675d8ea2538657213895bb6c6f567ff7afd"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41a773aa0c7e302947.webp",
+      "sha": "230b883d481413c32112882ae97888709a4d44bd"
+    },
+    {
+      "path": "assets/physics-exams/diagram-41481a740940cb1db0.webp",
+      "sha": "c1f2f20ea9810a67c073dfbde4322c6e4ceb46af"
+    },
+    {
+      "path": "assets/physics-exams/diagram-448f247a0caa5c8609.webp",
+      "sha": "865cfca517b93cd7fd37e45abb137311df714d83"
+    },
+    {
+      "path": "assets/physics-exams/diagram-48522376b447fd9f4a.webp",
+      "sha": "d0227bd962862c244903f3be7b4c19c9d9b26841"
+    },
+    {
+      "path": "assets/physics-exams/diagram-48a97f54f983753f71.webp",
+      "sha": "43166cbf64ec92f04cdeee7c19fcc8bac37e751b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-53d10db5eafb81eec0.webp",
+      "sha": "572d789a87b3c4a635be5e200859981be3490112"
+    },
+    {
+      "path": "assets/physics-exams/diagram-4a71125a553aa96cc5.webp",
+      "sha": "0fdcf703b8fdb2db9b69145f5fc67693b19fa6ed"
+    },
+    {
+      "path": "assets/physics-exams/diagram-5110782082fc90b254.webp",
+      "sha": "0848220c2c301007b1bca8b0f7b723291ccca203"
+    },
+    {
+      "path": "assets/physics-exams/diagram-4cae689ec5103ba865.webp",
+      "sha": "d2a65f759478d5b22ef9f4e694b29ec67f7e0643"
+    },
+    {
+      "path": "assets/physics-exams/diagram-5318d77b1398b219e8.webp",
+      "sha": "fb76ca7bb4575db8c5a5b28fbf82bf8b06373c7b"
+    },
+    {
+      "path": "assets/physics-exams/diagram-56846e57868c118930.webp",
+      "sha": "3f46a89aba4ca9edd3e707dc8c51e7af5939455c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-57b68ddcd40b32252b.webp",
+      "sha": "07680974484176b7c7fa2aeb43f66bd785582ffd"
+    },
+    {
+      "path": "assets/physics-exams/diagram-65ed263a8def370067.webp",
+      "sha": "8e00291f0b53c111a2ddb7d543f1740b953dc23c"
+    },
+    {
+      "path": "assets/physics-exams/diagram-6f1b76e38f0e25c674.webp",
+      "sha": "0ddc050623d45b204aa6af7b046b7d2405b07c5f"
+    },
+    {
+      "path": "assets/physics-exams/diagram-69fb8b830eaf8f9c89.webp",
+      "sha": "468b8b2a666f49de204f1fa2c3ad3c1a796f857e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-6852ee6c72602071b9.webp",
+      "sha": "3da82b9b3038af40001285ad5755c4a4b6efba75"
+    },
+    {
+      "path": "assets/physics-exams/diagram-747751aa1b90e7cf3e.webp",
+      "sha": "a9126540293feca57e2cd0b0d4af1a169aa29067"
+    },
+    {
+      "path": "assets/physics-exams/diagram-749de66f2a4501cd32.webp",
+      "sha": "bb654db379defee4d2416852c50972e439c645b8"
+    },
+    {
+      "path": "assets/physics-exams/diagram-74ff4de6abf0992442.webp",
+      "sha": "d5e239c0e59b236064f13445c4e7c5670a674986"
+    },
+    {
+      "path": "assets/physics-exams/diagram-754cba6000b1de03ae.webp",
+      "sha": "8e987c1f91eee5515fb86f366eebf26903be461e"
+    },
+    {
+      "path": "assets/physics-exams/diagram-768954046ff117d467.webp",
+      "sha": "643c8b9dc7b4c1c7e3e042581cd766b86e68699a"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77a763829907c0fbbc.webp",
+      "sha": "12e250a29873a307e353a676d1c78f854b9f4215"
+    },
+    {
+      "path": "assets/physics-exams/diagram-76dbe6c8ce78b13d23.webp",
+      "sha": "a9f508b3c4bdabd892d5317ea72a0600eaf840f2"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77ac5565c88f64d559.webp",
+      "sha": "d6b77896054cc151df5b1e2bb66c881c9b406131"
+    },
+    {
+      "path": "assets/physics-exams/diagram-78874fd5f8bed580b4.webp",
+      "sha": "840e4f7b8df8b0c1607ae9b6d36ff8e44a016af7"
+    },
+    {
+      "path": "assets/physics-exams/diagram-77b5f5423daa6d74ff.webp",
+      "sha": "891bcc8dcb43f86f2b92fe9abcb40993daa1b0f2"
+    },
+    {
+      "path": "assets/physics-exams/diagram-7a5e53157637db1c81.webp",
+      "sha": "80e60f88783f854da0f4ff665e21260d5bd0623e"
+    }
+  ],
+  "missingPaths": [
+    "physics-exams-2021-2024.js",
+    "data/question-register.json",
+    "data/question-register.sqlite",
+    "assets/physics-exams/diagram-7b962b2ac92bb435c0.webp",
+    "assets/physics-exams/diagram-7cf0f2a63cd9ea6476.webp",
+    "assets/physics-exams/diagram-801f4e662d07595830.webp",
+    "assets/physics-exams/diagram-84dc597f84a9c84bcb.webp",
+    "assets/physics-exams/diagram-8533f8481596cc704a.webp",
+    "assets/physics-exams/diagram-88720bc34d2f8e63e7.webp",
+    "assets/physics-exams/diagram-88fa7a9a31703a1832.webp",
+    "assets/physics-exams/diagram-8a6a0e3dd2fabc4237.webp",
+    "assets/physics-exams/diagram-8b660a7c54f0ef80c2.webp",
+    "assets/physics-exams/diagram-8db24053218cd867e0.webp",
+    "assets/physics-exams/diagram-8e5c2cc10408899a4b.webp",
+    "assets/physics-exams/diagram-8f119d13321c0dafd4.webp",
+    "assets/physics-exams/diagram-8f5419dfcfa4a0e518.webp",
+    "assets/physics-exams/diagram-935e61124d46f0a9b6.webp",
+    "assets/physics-exams/diagram-9876d93b7b4d9b76a6.webp",
+    "assets/physics-exams/diagram-998b224a2b8deb5df4.webp",
+    "assets/physics-exams/diagram-9bf239c9c35466b878.webp",
+    "assets/physics-exams/diagram-9cad380ff367296166.webp",
+    "assets/physics-exams/diagram-9d9b042ba178ad998f.webp",
+    "assets/physics-exams/diagram-9e22101d8b66fc5012.webp",
+    "assets/physics-exams/diagram-9eacc2934368c48eb8.webp",
+    "assets/physics-exams/diagram-a0790fb7121ea064dd.webp",
+    "assets/physics-exams/diagram-a086e6fd4fc99af5b0.webp",
+    "assets/physics-exams/diagram-a12cf1bad9099b2fa6.webp",
+    "assets/physics-exams/diagram-a1682619e6f54ff54e.webp",
+    "assets/physics-exams/diagram-a17f7909796ae4a8b6.webp",
+    "assets/physics-exams/diagram-a2a244987e9edc7ad7.webp",
+    "assets/physics-exams/diagram-a4bc38ff1252e7a017.webp",
+    "assets/physics-exams/diagram-a8154616b23113f3e3.webp",
+    "assets/physics-exams/diagram-a8626214717999f8fe.webp",
+    "assets/physics-exams/diagram-aa4f0141cb99a6b39a.webp",
+    "assets/physics-exams/diagram-ab22253e6a4a05fb7f.webp",
+    "assets/physics-exams/diagram-ab67078a33fb256881.webp",
+    "assets/physics-exams/diagram-b12e1a2700f52f2cf0.webp",
+    "assets/physics-exams/diagram-b180a631e5f451fff9.webp",
+    "assets/physics-exams/diagram-b4d8c3c8dea70d6e0a.webp",
+    "assets/physics-exams/diagram-b84ec9fd9eacfdd9b2.webp",
+    "assets/physics-exams/diagram-b9923174e29315b8d1.webp",
+    "assets/physics-exams/diagram-bd2a37807a53de91e4.webp",
+    "assets/physics-exams/diagram-bd2eb32fa5b0108886.webp",
+    "assets/physics-exams/diagram-c0524b596bf34effcc.webp",
+    "assets/physics-exams/diagram-c1c5466d9493af2082.webp",
+    "assets/physics-exams/diagram-c770cef7e31a77da9a.webp",
+    "assets/physics-exams/diagram-c8acb58efad381ef6d.webp",
+    "assets/physics-exams/diagram-d474765d4b9ea82b3b.webp",
+    "assets/physics-exams/diagram-d8be3ed661c70d3157.webp",
+    "assets/physics-exams/diagram-d9f6e4bb3f94707b76.webp",
+    "assets/physics-exams/diagram-dbf572f7657339d3e1.webp",
+    "assets/physics-exams/diagram-df4e22710802ae3d67.webp",
+    "assets/physics-exams/diagram-e3fd0708cdb4111535.webp",
+    "assets/physics-exams/diagram-e7f3bacf2b1caea536.webp",
+    "assets/physics-exams/diagram-e8458382e1a41859b7.webp",
+    "assets/physics-exams/diagram-eedc53e99210837ffc.webp",
+    "assets/physics-exams/diagram-f357645e29896ca6b7.webp",
+    "assets/physics-exams/diagram-f3a5d81141493b5f18.webp",
+    "assets/physics-exams/diagram-f99f06fd60c7e272d2.webp",
+    "assets/physics-exams/diagram-fb75b300c680bc325f.webp",
+    "assets/physics-exams/diagram-fbaf03f67bbbf2b9bc.webp",
+    "assets/physics-exams/diagram-fc625d1914114e1efa.webp",
+    "assets/physics-exams/diagram-fce52a20ddea8d553b.webp",
+    "assets/physics-exams/diagram-fdcfeeda7d78a81324.webp",
+    "assets/physics-exams/diagram-ff19af9b3ebc7c5022.webp",
+    "assets/physics-exams/diagram-ff6658a2b23b5332e9.webp",
+    "assets/physics-exams/key-00181b260f5868480d.webp",
+    "assets/physics-exams/key-00b91d6af60223e464.webp",
+    "assets/physics-exams/key-027d25dff5f3d5a3da.webp",
+    "assets/physics-exams/key-037bfb407e2ae97224.webp",
+    "assets/physics-exams/key-044107c3f958a129a0.webp",
+    "assets/physics-exams/key-04b6cc90188651366e.webp",
+    "assets/physics-exams/key-063d29323e6d9ffcbd.webp",
+    "assets/physics-exams/key-075c24700bb1f9a975.webp",
+    "assets/physics-exams/key-087be5162f9281c9c1.webp",
+    "assets/physics-exams/key-08a3b6d7ba35937b67.webp",
+    "assets/physics-exams/key-09460f8ba4037de82b.webp",
+    "assets/physics-exams/key-095454bab7c3eb0c21.webp",
+    "assets/physics-exams/key-0a7bb55174fc99a124.webp",
+    "assets/physics-exams/key-0c7f1defbce9e17035.webp",
+    "assets/physics-exams/key-0ca478876a4acbe33b.webp",
+    "assets/physics-exams/key-0cfae183e726449b96.webp",
+    "assets/physics-exams/key-118b76ddc4d1c7a056.webp",
+    "assets/physics-exams/key-1216f48820b2b089c8.webp",
+    "assets/physics-exams/key-12b8b892f8bbcc7ee9.webp",
+    "assets/physics-exams/key-16f9d1fdb178aa1021.webp",
+    "assets/physics-exams/key-1725cfbac366062006.webp",
+    "assets/physics-exams/key-1cb647a4874efe6995.webp",
+    "assets/physics-exams/key-24242b8a6c5d1d6bf6.webp",
+    "assets/physics-exams/key-27ef6aba7e2bbc96b8.webp",
+    "assets/physics-exams/key-2c5c5fb7a105fe5aa6.webp",
+    "assets/physics-exams/key-2ca6234187f2ec9a8f.webp",
+    "assets/physics-exams/key-2d76d357e1178c7b30.webp",
+    "assets/physics-exams/key-2f9206c7b50cbbb5f3.webp",
+    "assets/physics-exams/key-304a2fb82d6ae76468.webp",
+    "assets/physics-exams/key-30625ed8f92234708f.webp",
+    "assets/physics-exams/key-3122c02c491a28b16e.webp",
+    "assets/physics-exams/key-32519a0a81fd2e9c09.webp",
+    "assets/physics-exams/key-32cc2ee21c2afb4cce.webp",
+    "assets/physics-exams/key-33cf7e78e672f3d0bb.webp",
+    "assets/physics-exams/key-3658156fb7e2525a9e.webp",
+    "assets/physics-exams/key-3725307558ba630638.webp",
+    "assets/physics-exams/key-3929a25c55e8f552c3.webp",
+    "assets/physics-exams/key-3c1399d05925cc3d3a.webp",
+    "assets/physics-exams/key-3cd2e25f9ac29afdef.webp",
+    "assets/physics-exams/key-3fb00a884d294dbe2a.webp",
+    "assets/physics-exams/key-3fe4f0704b0fdec655.webp",
+    "assets/physics-exams/key-40d49f8db5864c8b0b.webp",
+    "assets/physics-exams/key-42072c16d226e1c034.webp",
+    "assets/physics-exams/key-43435595d79b245161.webp",
+    "assets/physics-exams/key-44ef617f7388b47aa4.webp",
+    "assets/physics-exams/key-46263e9010cf269bd7.webp",
+    "assets/physics-exams/key-4a6c4b7677c5090b72.webp",
+    "assets/physics-exams/key-4d1241a6a08881b54b.webp",
+    "assets/physics-exams/key-4d3a517668ae1640b3.webp",
+    "assets/physics-exams/key-5005e13fabb5f94cab.webp",
+    "assets/physics-exams/key-53c38b4895165bda28.webp",
+    "assets/physics-exams/key-54a1a2d4680c4a721f.webp",
+    "assets/physics-exams/key-556c8ac4c628098a57.webp",
+    "assets/physics-exams/key-55b455674644cbac9f.webp",
+    "assets/physics-exams/key-58134c912b5960b437.webp",
+    "assets/physics-exams/key-5815bc47572643d8b0.webp",
+    "assets/physics-exams/key-58e6bdf2cce92ac496.webp",
+    "assets/physics-exams/key-5ad12eb200b9c5dca8.webp",
+    "assets/physics-exams/key-5d1eb760984c8c8e9b.webp",
+    "assets/physics-exams/key-5de2b64766523582c2.webp",
+    "assets/physics-exams/key-61b0b8d958597aa94d.webp",
+    "assets/physics-exams/key-63beb34c97412cd387.webp",
+    "assets/physics-exams/key-648504c389f3ce11ad.webp",
+    "assets/physics-exams/key-65512a60b53b22c0b1.webp",
+    "assets/physics-exams/key-65eacea3b235fc656e.webp",
+    "assets/physics-exams/key-66a1ce7e0dbf747ddc.webp",
+    "assets/physics-exams/key-6740cb01dc5c114490.webp",
+    "assets/physics-exams/key-683811a440ab71ecfc.webp",
+    "assets/physics-exams/key-6c588791a10d8971f5.webp",
+    "assets/physics-exams/key-6cfbfe189316a65e70.webp",
+    "assets/physics-exams/key-6d2ea80bba047b6da2.webp",
+    "assets/physics-exams/key-6e5389f03bcef675fd.webp",
+    "assets/physics-exams/key-6f10855a1773c57ce3.webp",
+    "assets/physics-exams/key-6fa465abcf4813c9eb.webp",
+    "assets/physics-exams/key-7067c1421b73ac0d8a.webp",
+    "assets/physics-exams/key-70ce06af846535dfb9.webp",
+    "assets/physics-exams/key-71f1f8a82c21ecb3dd.webp",
+    "assets/physics-exams/key-7528536316765ca17b.webp",
+    "assets/physics-exams/key-7558ff44d1fe9f96e1.webp",
+    "assets/physics-exams/key-762b14637f662a1e20.webp",
+    "assets/physics-exams/key-7ecc79496ab82761b0.webp",
+    "assets/physics-exams/key-8037a72735a78bce51.webp",
+    "assets/physics-exams/key-81cfca45673c5ec8b2.webp",
+    "assets/physics-exams/key-82e56b382b0ac8631b.webp",
+    "assets/physics-exams/key-87eb9123290f4e63df.webp",
+    "assets/physics-exams/key-89222b3f4915cae23d.webp",
+    "assets/physics-exams/key-8bc248dd80933e1a67.webp",
+    "assets/physics-exams/key-8eac3e954814761fd1.webp",
+    "assets/physics-exams/key-8f26a0ad403429abfa.webp",
+    "assets/physics-exams/key-8ff812c8d096b05479.webp",
+    "assets/physics-exams/key-9008eaaae177ac6fcd.webp",
+    "assets/physics-exams/key-915acb264b60cba90f.webp",
+    "assets/physics-exams/key-946db588e819a73c81.webp",
+    "assets/physics-exams/key-9472493e9dc580d025.webp",
+    "assets/physics-exams/key-94bf98d69cd5c5f78c.webp",
+    "assets/physics-exams/key-94de5c1afbec22f1fb.webp",
+    "assets/physics-exams/key-9864ceaf9c5c478a28.webp",
+    "assets/physics-exams/key-9e76b7b6487bb1abc1.webp",
+    "assets/physics-exams/key-9ff47e2a9b153c1b03.webp",
+    "assets/physics-exams/key-a0aeb974ee1a7eb670.webp",
+    "assets/physics-exams/key-a19e188f5537df61cb.webp",
+    "assets/physics-exams/key-a19fd57eeff150bfb7.webp",
+    "assets/physics-exams/key-aaf20b1de18c553124.webp",
+    "assets/physics-exams/key-abd9cd3c9f59a15108.webp",
+    "assets/physics-exams/key-b4c06de6ee7189364b.webp",
+    "assets/physics-exams/key-b67ac27f5487666b37.webp",
+    "assets/physics-exams/key-b83c8fd00ecd30f510.webp",
+    "assets/physics-exams/key-b8a5847d9de0ddae1c.webp",
+    "assets/physics-exams/key-b909e75b06ab7c2d3b.webp",
+    "assets/physics-exams/key-b9723a2c5c2a7e28f5.webp",
+    "assets/physics-exams/key-ba95dac6ac8287342d.webp",
+    "assets/physics-exams/key-bb1299732ee696768a.webp",
+    "assets/physics-exams/key-bd1577e4c309e0f148.webp",
+    "assets/physics-exams/key-bd8e95aae087c4f73a.webp",
+    "assets/physics-exams/key-bec6e0232e6d760ec7.webp",
+    "assets/physics-exams/key-bfb454c3caded6dcb8.webp",
+    "assets/physics-exams/key-bfed2e2799d9e03c00.webp",
+    "assets/physics-exams/key-c4d2e843027f9d7bd1.webp",
+    "assets/physics-exams/key-c5ce0815e2b01bf177.webp",
+    "assets/physics-exams/key-c665afa512e8251c8b.webp",
+    "assets/physics-exams/key-c6dccf34bed50c3753.webp",
+    "assets/physics-exams/key-c9170908dc13455437.webp",
+    "assets/physics-exams/key-c91c4ea4322793fc8e.webp",
+    "assets/physics-exams/key-c9cdd3af0849e817b6.webp",
+    "assets/physics-exams/key-ca895c87f790c5f4aa.webp",
+    "assets/physics-exams/key-cc950225d643635dd8.webp",
+    "assets/physics-exams/key-cdea157b207d18378e.webp",
+    "assets/physics-exams/key-ce0a98de609066fdab.webp",
+    "assets/physics-exams/key-cf4e18042ccc2866f9.webp",
+    "assets/physics-exams/key-cf63b8e35f45b24eb8.webp",
+    "assets/physics-exams/key-d048a7b4326a804012.webp",
+    "assets/physics-exams/key-d234917ea6132773f8.webp",
+    "assets/physics-exams/key-d5591428d4faf87614.webp",
+    "assets/physics-exams/key-d6f57beca49961ce76.webp",
+    "assets/physics-exams/key-d72dffd6de6c30f4c4.webp",
+    "assets/physics-exams/key-d867c590138e937e02.webp",
+    "assets/physics-exams/key-d9946f7902f87291b2.webp",
+    "assets/physics-exams/key-d9a0274ff01e7670a9.webp",
+    "assets/physics-exams/key-dd976f088f261d2cf5.webp",
+    "assets/physics-exams/key-e197f5e699dbfdd444.webp",
+    "assets/physics-exams/key-e8cb9991e28e54a5b4.webp",
+    "assets/physics-exams/key-ec32333b4259e81b73.webp",
+    "assets/physics-exams/key-ede744afb1d3a96c9f.webp",
+    "assets/physics-exams/key-f0299bbee115969cd1.webp",
+    "assets/physics-exams/key-f7fd5b0557d00b93a7.webp",
+    "assets/physics-exams/key-fb15a8f63f804498cf.webp",
+    "assets/physics-exams/key-fba7fad090efa5c09c.webp",
+    "assets/physics-exams/key-fcf510b6160008333b.webp",
+    "assets/physics-exams/key-fddca243a43a7bbf73.webp",
+    "assets/physics-exams/levitating-wires.svg",
+    "assets/physics-exams/proton-spectrometer.svg"
+  ],
+  "completedLocalCounts": {
+    "physicsQuestions": 160,
+    "physicsParts": 460,
+    "heldPhysicsQuestions": 13,
+    "examPairs": 9
+  },
+  "browserValidation": "Unavailable: Chromium executable absent",
+  "instructions": "Keep main unchanged. Recover remaining files, upload all required blobs, rerun checks, then publish atomically."
+}

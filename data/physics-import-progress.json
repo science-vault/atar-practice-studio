@@ -3,15 +3,19 @@
   "uploadedDate": "2026-10-23",
   "examKeyPairs": 9,
   "filesRetrieved": 18,
-  "published": 11,
-  "publishedParts": 28,
-  "held": 7,
-  "pendingExamKeyPairs": 8,
+  "sourceQuestions": 173,
+  "processedQuestions": 173,
+  "published": 160,
+  "publishedParts": 460,
+  "publishedMarks": 1445,
+  "held": 13,
+  "pendingExamKeyPairs": 0,
+  "status": "review_complete",
   "sources": [
     {
       "sourceId": "phy2020-u3",
       "title": "Physics Unit 3 examination 2020",
-      "status": "reviewed_first_batch",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -35,6 +39,8 @@
       "publishedQuestionIds": [
         "phy2020-u3-q1",
         "phy2020-u3-q2",
+        "phy2020-u3-q3",
+        "phy2020-u3-q4",
         "phy2020-u3-q5",
         "phy2020-u3-q6",
         "phy2020-u3-q8",
@@ -46,12 +52,16 @@
         "phy2020-u3-q16"
       ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 13,
+      "held": 5,
+      "parts": 33,
+      "marks": 104
     },
     {
       "sourceId": "phy2021-u3",
       "title": "Physics Unit 3 examination 2021",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -74,14 +84,36 @@
         19,
         20
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2021-u3-q1",
+        "phy2021-u3-q2",
+        "phy2021-u3-q3",
+        "phy2021-u3-q4",
+        "phy2021-u3-q5",
+        "phy2021-u3-q6",
+        "phy2021-u3-q7",
+        "phy2021-u3-q9",
+        "phy2021-u3-q11",
+        "phy2021-u3-q12",
+        "phy2021-u3-q14",
+        "phy2021-u3-q15",
+        "phy2021-u3-q16",
+        "phy2021-u3-q17",
+        "phy2021-u3-q18",
+        "phy2021-u3-q19",
+        "phy2021-u3-q20"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 17,
+      "held": 3,
+      "parts": 49,
+      "marks": 154
     },
     {
       "sourceId": "phy2021-u34",
       "title": "Physics Units 3 & 4 examination 2021",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -103,14 +135,38 @@
         18,
         19
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2021-u34-q1",
+        "phy2021-u34-q2",
+        "phy2021-u34-q3",
+        "phy2021-u34-q4",
+        "phy2021-u34-q5",
+        "phy2021-u34-q6",
+        "phy2021-u34-q7",
+        "phy2021-u34-q8",
+        "phy2021-u34-q9",
+        "phy2021-u34-q10",
+        "phy2021-u34-q11",
+        "phy2021-u34-q12",
+        "phy2021-u34-q13",
+        "phy2021-u34-q14",
+        "phy2021-u34-q15",
+        "phy2021-u34-q16",
+        "phy2021-u34-q17",
+        "phy2021-u34-q18",
+        "phy2021-u34-q19"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 19,
+      "held": 0,
+      "parts": 56,
+      "marks": 180
     },
     {
       "sourceId": "phy2022-u3",
       "title": "Physics Unit 3 examination 2022",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -133,14 +189,39 @@
         19,
         20
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2022-u3-q1",
+        "phy2022-u3-q2",
+        "phy2022-u3-q3",
+        "phy2022-u3-q4",
+        "phy2022-u3-q5",
+        "phy2022-u3-q6",
+        "phy2022-u3-q7",
+        "phy2022-u3-q8",
+        "phy2022-u3-q9",
+        "phy2022-u3-q10",
+        "phy2022-u3-q11",
+        "phy2022-u3-q12",
+        "phy2022-u3-q13",
+        "phy2022-u3-q14",
+        "phy2022-u3-q15",
+        "phy2022-u3-q16",
+        "phy2022-u3-q17",
+        "phy2022-u3-q18",
+        "phy2022-u3-q19",
+        "phy2022-u3-q20"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 20,
+      "held": 0,
+      "parts": 57,
+      "marks": 180
     },
     {
       "sourceId": "phy2022-u34",
       "title": "Physics Units 3 & 4 examination 2022",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -161,14 +242,36 @@
         17,
         18
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2022-u34-q1",
+        "phy2022-u34-q2",
+        "phy2022-u34-q3",
+        "phy2022-u34-q4",
+        "phy2022-u34-q5",
+        "phy2022-u34-q6",
+        "phy2022-u34-q7",
+        "phy2022-u34-q8",
+        "phy2022-u34-q9",
+        "phy2022-u34-q10",
+        "phy2022-u34-q11",
+        "phy2022-u34-q12",
+        "phy2022-u34-q13",
+        "phy2022-u34-q14",
+        "phy2022-u34-q15",
+        "phy2022-u34-q16",
+        "phy2022-u34-q17"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 17,
+      "held": 1,
+      "parts": 56,
+      "marks": 163
     },
     {
       "sourceId": "phy2023-u3",
       "title": "Physics Unit 3 examination 2023",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -191,14 +294,39 @@
         19,
         20
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2023-u3-q1",
+        "phy2023-u3-q2",
+        "phy2023-u3-q3",
+        "phy2023-u3-q4",
+        "phy2023-u3-q5",
+        "phy2023-u3-q6",
+        "phy2023-u3-q7",
+        "phy2023-u3-q8",
+        "phy2023-u3-q9",
+        "phy2023-u3-q10",
+        "phy2023-u3-q11",
+        "phy2023-u3-q12",
+        "phy2023-u3-q13",
+        "phy2023-u3-q14",
+        "phy2023-u3-q15",
+        "phy2023-u3-q16",
+        "phy2023-u3-q17",
+        "phy2023-u3-q18",
+        "phy2023-u3-q19",
+        "phy2023-u3-q20"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 20,
+      "held": 0,
+      "parts": 54,
+      "marks": 180
     },
     {
       "sourceId": "phy2023-u34",
       "title": "Physics Units 3 & 4 examination 2023",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -220,14 +348,36 @@
         18,
         19
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2023-u34-q1",
+        "phy2023-u34-q2",
+        "phy2023-u34-q4",
+        "phy2023-u34-q5",
+        "phy2023-u34-q6",
+        "phy2023-u34-q7",
+        "phy2023-u34-q8",
+        "phy2023-u34-q9",
+        "phy2023-u34-q10",
+        "phy2023-u34-q11",
+        "phy2023-u34-q12",
+        "phy2023-u34-q13",
+        "phy2023-u34-q14",
+        "phy2023-u34-q15",
+        "phy2023-u34-q17",
+        "phy2023-u34-q18",
+        "phy2023-u34-q19"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 17,
+      "held": 2,
+      "parts": 52,
+      "marks": 160
     },
     {
       "sourceId": "phy2024-u3",
       "title": "Physics Unit 3 examination 2024",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -251,14 +401,40 @@
         20,
         21
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2024-u3-q1",
+        "phy2024-u3-q2",
+        "phy2024-u3-q3",
+        "phy2024-u3-q4",
+        "phy2024-u3-q5",
+        "phy2024-u3-q6",
+        "phy2024-u3-q7",
+        "phy2024-u3-q8",
+        "phy2024-u3-q9",
+        "phy2024-u3-q10",
+        "phy2024-u3-q11",
+        "phy2024-u3-q12",
+        "phy2024-u3-q13",
+        "phy2024-u3-q14",
+        "phy2024-u3-q15",
+        "phy2024-u3-q16",
+        "phy2024-u3-q17",
+        "phy2024-u3-q18",
+        "phy2024-u3-q19",
+        "phy2024-u3-q20",
+        "phy2024-u3-q21"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 21,
+      "held": 0,
+      "parts": 57,
+      "marks": 180
     },
     {
       "sourceId": "phy2024-u34",
       "title": "Physics Units 3 & 4 examination 2024",
-      "status": "pending_question_review",
+      "status": "review_complete",
       "questionNumbers": [
         1,
         2,
@@ -279,24 +455,33 @@
         17,
         18
       ],
-      "publishedQuestionIds": [],
+      "publishedQuestionIds": [
+        "phy2024-u34-q1",
+        "phy2024-u34-q2",
+        "phy2024-u34-q3",
+        "phy2024-u34-q4",
+        "phy2024-u34-q5",
+        "phy2024-u34-q6",
+        "phy2024-u34-q7",
+        "phy2024-u34-q8",
+        "phy2024-u34-q9",
+        "phy2024-u34-q10",
+        "phy2024-u34-q11",
+        "phy2024-u34-q12",
+        "phy2024-u34-q13",
+        "phy2024-u34-q14",
+        "phy2024-u34-q16",
+        "phy2024-u34-q18"
+      ],
       "filesRetrieved": true,
-      "textExtracted": true
+      "textExtracted": true,
+      "published": 16,
+      "held": 2,
+      "parts": 46,
+      "marks": 144
     }
   ],
   "heldQuestions": [
-    {
-      "id": "phy2020-u3-q3",
-      "sourceId": "phy2020-u3",
-      "originalQuestion": 3,
-      "reason": "The Word motor diagram loses the magnet pole shapes during conversion; held until the complete original figure can be preserved."
-    },
-    {
-      "id": "phy2020-u3-q4",
-      "sourceId": "phy2020-u3",
-      "originalQuestion": 4,
-      "reason": "The Word mass-spectrometer diagram loses part of the proton path during conversion; held until the complete original figure can be preserved."
-    },
     {
       "id": "phy2020-u3-q7",
       "sourceId": "phy2020-u3",
@@ -326,8 +511,174 @@
       "sourceId": "phy2020-u3",
       "originalQuestion": 18,
       "reason": "Part b asks for maximum height using equation (2), but that equation gives time to maximum height; its key adds a same-height launch/landing assumption. Needs prompt/key correction."
+    },
+    {
+      "id": "phy2021-u3-q10",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 10,
+      "reason": "The question asks to ignore mechanical friction, but its steady-speed marking criterion relies on friction/drag to balance torque; requires an explicit model correction."
+    },
+    {
+      "id": "phy2022-u34-q18",
+      "sourceId": "phy2022-u34",
+      "originalQuestion": 18,
+      "reason": "The article reverses the special-relativistic GPS clock effect (moving clocks run slower). The related numerical interpretation and explanation require correction."
+    },
+    {
+      "id": "phy2023-u34-q3",
+      "sourceId": "phy2023-u34",
+      "originalQuestion": 3,
+      "reason": "The key says an approaching blueshifted object contradicts Big Bang theory; peculiar velocities can produce approaching objects in an expanding Universe. Needs a corrected interpretation."
+    },
+    {
+      "id": "phy2023-u34-q16",
+      "sourceId": "phy2023-u34",
+      "originalQuestion": 16,
+      "reason": "Exam total is 15 marks, but the marking-key heading gives 14."
+    },
+    {
+      "id": "phy2024-u34-q15",
+      "sourceId": "phy2024-u34",
+      "originalQuestion": 15,
+      "reason": "Exam total is 18 marks, but the marking-key heading gives 17."
+    },
+    {
+      "id": "phy2024-u34-q17",
+      "sourceId": "phy2024-u34",
+      "originalQuestion": 17,
+      "reason": "The passage presents gravitons as established Standard Model particles and calls a frequency threshold a photoemission intensity effect. Needs factual corrections before publication."
+    },
+    {
+      "id": "phy2021-u3-q8",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 8,
+      "reason": "The stated sending/receiving voltages, received power and line resistance imply inconsistent currents. For example P/V at the receiver gives about 20.1 kA, whereas ΔV/R gives 8.0 kA. The supplied 90% key does not satisfy all given data."
+    },
+    {
+      "id": "phy2021-u3-q13",
+      "sourceId": "phy2021-u3",
+      "originalQuestion": 13,
+      "reason": "The supplied key uses peak voltage/current directly with average AC power. Correct use of RMS values changes the turns ratio, primary turns and secondary RMS current. Hold until the question/key convention is corrected."
     }
   ],
-  "layout": "Native question text and separate necessary diagrams. No full-question screenshots.",
-  "suggestedTime": "1 minute per mark"
+  "layout": "Native question wording, choices, tables and equations. Only necessary figures are shown; original marking keys are optional links after reveal.",
+  "suggestedTime": "1 minute per mark",
+  "duplicateAudit": "No new exact or near-match candidates. Existing reviewed distinct variants remain unchanged.",
+  "curationNotes": [
+    {
+      "id": "phy2021-u3-q14",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2021-u3-q19",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2021-u34-q9",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2021-u34-q13",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2021-u34-q16",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2021-u34-q18",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2022-u3-q12",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2022-u34-q2",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2022-u34-q10",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2022-u34-q11",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2022-u34-q12",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u3-q14",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u3-q19",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u34-q10",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u34-q12",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u34-q14",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u34-q18",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2024-u3-q15",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2024-u34-q2",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2024-u34-q11",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2024-u34-q13",
+      "note": "Omitted redundant illustrations, native table duplicates or response-only graph grids; all given data retained."
+    },
+    {
+      "id": "phy2023-u34-q12",
+      "note": "Redrew the chair geometry to separate overlapping original labels. Original masses, lengths and angle retained."
+    },
+    {
+      "id": "phy2021-u34-q10",
+      "note": "Redrew the source schematic to retain labels and geometry lost by Word shape conversion; all original given values retained."
+    },
+    {
+      "id": "phy2024-u34-q7",
+      "note": "Redrew the source schematic to retain labels and geometry lost by Word shape conversion; all original given values retained."
+    },
+    {
+      "id": "phy2022-u34-q15",
+      "note": "Redrew the four-stage source schematic to repair unsupported Word arc transforms. The separate full-circle source stimulus remains."
+    },
+    {
+      "id": "phy2020-u3-q3",
+      "note": "Restored the original two missing pole rectangles from source VML dimensions, aligned to the surviving original coil connector."
+    },
+    {
+      "id": "phy2020-u3-q4",
+      "note": "Redrew the intended circular-path schematic to avoid unsupported Word 3D arc transforms; original labels and numerical values retained."
+    }
+  ],
+  "verification": [
+    "Original exam/key source hashes retained for all 18 files",
+    "Question and part mark totals checked against exam allocations",
+    "All 173 source question numbers accounted for as published or held",
+    "All active figure and key references resolve locally",
+    "Duplicate register and text/near-match audit passed"
+  ]
 }
