@@ -30,6 +30,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-primate.jpg",
         "alt": "Primate diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-human"
     ]
   },
   {
@@ -63,6 +66,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-primate.jpg",
         "alt": "Primate diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-human"
     ]
   },
   {
@@ -96,13 +102,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-primate.jpg",
         "alt": "Primate diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-human"
     ]
   },
   {
     "id": "hb2024-u34-q4",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Units 3 & 4 · Question 4",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q4",
     "sample": false,
@@ -129,13 +138,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-glands.jpg",
         "alt": "Glands diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
     "id": "hb2024-u34-q5",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Units 3 & 4 · Question 5",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q5",
     "sample": false,
@@ -162,13 +174,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-glands.jpg",
         "alt": "Glands diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
     "id": "hb2024-u34-q6",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Units 3 & 4 · Question 6",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q6",
     "sample": false,
@@ -195,6 +210,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-glands.jpg",
         "alt": "Glands diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
@@ -222,7 +240,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: B. Uranium 238 — half-life 4.51 billion years"
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-evidence"
+    ]
   },
   {
     "id": "hb2024-u34-q8",
@@ -249,7 +270,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: B. the climate of the area was becoming drier."
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-evidence"
+    ]
   },
   {
     "id": "hb2024-u34-q9",
@@ -276,13 +300,16 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. one quarter of the original amount of isotope will be present."
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-evidence"
+    ]
   },
   {
     "id": "hb2024-u34-q11",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-evidence",
+    "topic": "h12-human",
     "title": "2024 Units 3 & 4 · Question 11",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q11",
     "sample": false,
@@ -303,7 +330,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. pebble tools, use of fire, hafting, burin"
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-human"
+    ]
   },
   {
     "id": "hb2024-u34-q13",
@@ -330,7 +360,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. Controlled variable: Newborns; Dependent variable: Incidence of diabetes; Uncontrolled variable: Other dietary proteins"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u34-q14",
@@ -357,7 +390,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. decrease the number of uncontrolled variables to improve validity"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u34-q15",
@@ -412,6 +448,9 @@ window.QUESTION_BANK.push(...[
           "Leu"
         ]
       ]
+    ],
+    "topicIds": [
+      "h12-variation"
     ]
   },
   {
@@ -445,6 +484,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-jaws.jpg",
         "alt": "Jaws diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-human"
     ]
   },
   {
@@ -472,7 +514,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. short and broad."
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-human"
+    ]
   },
   {
     "id": "hb2024-u34-q18",
@@ -499,7 +544,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. (i), (iv) and (v) only"
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-evidence"
+    ]
   },
   {
     "id": "hb2024-u34-q19",
@@ -532,6 +580,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-cladogram.jpg",
         "alt": "Cladogram diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-human"
     ]
   },
   {
@@ -559,13 +610,16 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: B. can kill bacteria or prevent them from dividing."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u34-q21",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Units 3 & 4 · Question 21",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q21",
     "sample": false,
@@ -592,6 +646,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-hormones.jpg",
         "alt": "Hormones diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
@@ -625,6 +682,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-hormones.jpg",
         "alt": "Hormones diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -652,7 +712,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. Sympathetic nerve impulses cause blood vessels to the gut to vasodilate."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u34-q24",
@@ -685,6 +748,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-immunity.jpg",
         "alt": "Immunity diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -718,6 +784,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-immunity.jpg",
         "alt": "Immunity diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -745,7 +814,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. They should be found over a long period of time."
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-evidence"
+    ]
   },
   {
     "id": "hb2024-u34-q28",
@@ -772,7 +844,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. decrease if people only married within their own cultural group."
       }
     ],
-    "unit": 4
+    "unit": 4,
+    "topicIds": [
+      "h12-variation"
+    ]
   },
   {
     "id": "hb2024-u34-q29",
@@ -805,6 +880,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-action.jpg",
         "alt": "Action diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-nervous"
     ]
   },
   {
@@ -838,6 +916,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u34-action.jpg",
         "alt": "Action diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-nervous"
     ]
   },
   {
@@ -919,14 +1000,17 @@ window.QUESTION_BANK.push(...[
         "alt": "Tools diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-human"
+    ]
   },
   {
     "id": "hb2024-u34-q32",
     "subject": "Human Biology",
     "year": 12,
-    "unit": 4,
-    "topic": "h12-variation",
+    "unit": null,
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 32",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q32",
     "sample": false,
@@ -977,7 +1061,15 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-variation",
+      "h12-nervous"
+    ],
+    "units": [
+      3,
+      4
+    ]
   },
   {
     "id": "hb2024-u34-q33",
@@ -1044,14 +1136,17 @@ window.QUESTION_BANK.push(...[
         "alt": "Brain diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u34-q34",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 34",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q34",
     "sample": false,
@@ -1114,14 +1209,22 @@ window.QUESTION_BANK.push(...[
         "alt": "Calcium diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-endocrine",
+      "h12-homeostasis",
+      "h12-nervous"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u34-q35",
     "subject": "Human Biology",
     "year": 12,
     "unit": 4,
-    "topic": "h12-evidence",
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 35",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q35",
     "sample": false,
@@ -1253,14 +1356,21 @@ window.QUESTION_BANK.push(...[
       ]
     ],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-evidence",
+      "h12-human"
+    ],
+    "units": [
+      4
+    ]
   },
   {
     "id": "hb2024-u34-q36",
     "subject": "Human Biology",
     "year": 12,
-    "unit": 3,
-    "topic": "h12-disease",
+    "unit": null,
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 36",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q36",
     "sample": false,
@@ -1362,18 +1472,26 @@ window.QUESTION_BANK.push(...[
       ]
     ],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-biotech",
+      "h12-disease"
+    ],
+    "units": [
+      3,
+      4
+    ]
   },
   {
     "id": "hb2024-u34-q37",
     "subject": "Human Biology",
     "year": 12,
-    "unit": 3,
-    "topic": "h12-homeostasis",
+    "unit": null,
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 37",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q37",
     "sample": false,
-    "stem": "Historically, diabetes was seen as a single disease, until 1936, when Harry Himsworth published a paper in The Lancet suggesting that it was actually two different diseases. The World Health Organisation (WHO) officially recognised two distinct types of diabetes in 1980.\n\nRecently “Type 1.5 diabetes” or ‘double diabetes’ has been identified where sufferers show symptoms of both conditions. Researchers are racing to find appropriate management strategies and causes for this.\n\nIn 1923 Banting, Best and Macleod received the Nobel Prize in Medicine for their work in\n\nprocessing insulin from cattle and pig pancreas and it wasn’t until 1982 that Eli Lilly produced\n\nthe first commercially available biosynthetic insulin.\n\nThe biosynthetic production of insulin is shown below.\n\nQuestions 38 and 39 are from Unit 3. Questions 40 and 41 are from Unit 4. Answer one question from Unit 3 and one question from Unit 4.",
+    "stem": "Historically, diabetes was seen as a single disease, until 1936, when Harry Himsworth published a paper in The Lancet suggesting that it was actually two different diseases. The World Health Organisation (WHO) officially recognised two distinct types of diabetes in 1980.\n\nRecently “Type 1.5 diabetes” or ‘double diabetes’ has been identified where sufferers show symptoms of both conditions. Researchers are racing to find appropriate management strategies and causes for this.\n\nIn 1923 Banting, Best and Macleod received the Nobel Prize in Medicine for their work in\n\nprocessing insulin from cattle and pig pancreas and it wasn’t until 1982 that Eli Lilly produced\n\nthe first commercially available biosynthetic insulin.\n\nThe biosynthetic production of insulin is shown below.",
     "parts": [
       {
         "id": "a",
@@ -1432,7 +1550,16 @@ window.QUESTION_BANK.push(...[
         "alt": "Insulin diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-homeostasis",
+      "h12-variation",
+      "h12-biotech"
+    ],
+    "units": [
+      3,
+      4
+    ]
   },
   {
     "id": "hb2024-u34-q39",
@@ -1469,14 +1596,17 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u34-q40",
     "subject": "Human Biology",
     "year": 12,
     "unit": 4,
-    "topic": "h12-variation",
+    "topic": "h12-mixed",
     "title": "2024 Units 3 & 4 · Question 40",
     "source": "West Australian Test Papers · 2024 Human Biology Units 3 & 4 · Q40",
     "sample": false,
@@ -1499,7 +1629,15 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-evidence",
+      "h12-biotech",
+      "h12-variation"
+    ],
+    "units": [
+      4
+    ]
   },
   {
     "id": "hb2024-u34-q41",
@@ -1529,6 +1667,9 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-variation"
+    ]
   }
 ]);

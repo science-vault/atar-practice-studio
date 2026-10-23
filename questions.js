@@ -190,8 +190,8 @@ window.QUESTION_BANK = [
     "id": "hcc-electricity-2020-q6",
     "subject": "Physics",
     "year": 11,
-    "unit": 2,
-    "topic": "p11-electric",
+    "unit": null,
+    "topic": "p11-mixed",
     "title": "Electrical heating in a calorimeter",
     "stem": "A well-insulated copper calorimeter of mass 95.0 g contains 195 g of water at 10.0 °C. A heating coil is connected to a power source as shown. The water rises to 25.0 °C in 7.50 minutes while the ammeter reads 2.75 A. Assume all heat from the coil is absorbed by the copper and water.\nUse c(Cu) = 3.90 × 10² J kg⁻¹ K⁻¹ and c(water) = 4.18 × 10³ J kg⁻¹ K⁻¹.",
     "source": "Holy Cross College · Test 4 Electricity · 2020 · Q6",
@@ -241,6 +241,14 @@ window.QUESTION_BANK = [
     "sample": false,
     "tags": [
       "Thermal energy"
+    ],
+    "topicIds": [
+      "p11-electric",
+      "p11-thermal"
+    ],
+    "units": [
+      1,
+      2
     ]
   },
   {

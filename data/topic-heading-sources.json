@@ -1,0 +1,32 @@
+{
+  "updatedDate": "2026-10-23",
+  "source": "Step Up In Education screenshots supplied by user",
+  "navigation": "Chapter headings are topic groups; nested screenshot entries are expandable subtopic descriptions. Mixed topics spans chapters and can span units.",
+  "screenshots": {
+    "Chemistry 11": [
+      "image(20261023-001459).png",
+      "image(20261023-001513).png"
+    ],
+    "Chemistry 12": [
+      "image(20261023-001824).png",
+      "image(20261023-001830).png"
+    ],
+    "Human Biology 11": [
+      "image(20261023-001933).png",
+      "image(20261023-001941).png"
+    ],
+    "Human Biology 12": [
+      "image(20261023-002019).png",
+      "image(20261023-002032).png"
+    ],
+    "Physics 11": [
+      "image(20261023-002110).png",
+      "image(20261023-002116).png",
+      "image(20261023-002123).png"
+    ],
+    "Physics 12": [
+      "image(20261023-002147).png",
+      "image(20261023-002155).png"
+    ]
+  }
+}

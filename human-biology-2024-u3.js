@@ -24,7 +24,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. peripheral thermoreceptors"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q2",
@@ -51,7 +54,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: B. protein coat"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u3-q3",
@@ -78,13 +84,16 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. ear."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u3-q4",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Unit 3 · Question 4",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q4",
     "sample": false,
@@ -105,7 +114,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. pineal gland"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-endocrine"
+    ]
   },
   {
     "id": "hb2024-u3-q5",
@@ -138,6 +150,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-glucose.jpg",
         "alt": "Glucose diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-homeostasis"
     ]
   },
   {
@@ -171,6 +186,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-glucose.jpg",
         "alt": "Glucose diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-homeostasis"
     ]
   },
   {
@@ -204,13 +222,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-glucose.jpg",
         "alt": "Glucose diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-homeostasis"
     ]
   },
   {
     "id": "hb2024-u3-q8",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-disease",
+    "topic": "h12-biotech",
     "title": "2024 Unit 3 · Question 8",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q8",
     "sample": false,
@@ -231,19 +252,22 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. a restriction enzyme"
       }
     ],
-    "unit": 3,
+    "unit": 4,
     "images": [
       {
         "src": "assets/human-biology-2024/u3-gene.jpg",
         "alt": "Gene diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-biotech"
     ]
   },
   {
     "id": "hb2024-u3-q9",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-disease",
+    "topic": "h12-biotech",
     "title": "2024 Unit 3 · Question 9",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q9",
     "sample": false,
@@ -264,19 +288,22 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. cystic fibrosis"
       }
     ],
-    "unit": 3,
+    "unit": 4,
     "images": [
       {
         "src": "assets/human-biology-2024/u3-gene.jpg",
         "alt": "Gene diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-biotech"
     ]
   },
   {
     "id": "hb2024-u3-q11",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Unit 3 · Question 11",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q11",
     "sample": false,
@@ -303,13 +330,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-pituitary.jpg",
         "alt": "Pituitary diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
     "id": "hb2024-u3-q12",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Unit 3 · Question 12",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q12",
     "sample": false,
@@ -336,13 +366,16 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-pituitary.jpg",
         "alt": "Pituitary diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
     "id": "hb2024-u3-q13",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Unit 3 · Question 13",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q13",
     "sample": false,
@@ -369,6 +402,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-pituitary.jpg",
         "alt": "Pituitary diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-endocrine"
     ]
   },
   {
@@ -439,6 +475,9 @@ window.QUESTION_BANK.push(...[
           "37.5"
         ]
       ]
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -509,6 +548,9 @@ window.QUESTION_BANK.push(...[
           "37.5"
         ]
       ]
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -579,6 +621,9 @@ window.QUESTION_BANK.push(...[
           "37.5"
         ]
       ]
+    ],
+    "topicIds": [
+      "h12-disease"
     ]
   },
   {
@@ -606,13 +651,16 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. adrenal cortex"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q18",
     "subject": "Human Biology",
     "year": 12,
-    "topic": "h12-nervous",
+    "topic": "h12-endocrine",
     "title": "2024 Unit 3 · Question 18",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q18",
     "sample": false,
@@ -633,7 +681,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. Graves’ disease"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-endocrine"
+    ]
   },
   {
     "id": "hb2024-u3-q19",
@@ -660,7 +711,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. distal convoluted tubule and collecting duct."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q20",
@@ -687,7 +741,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. passive, artificial immunity"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u3-q21",
@@ -714,7 +771,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. the pancreas"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q22",
@@ -741,7 +801,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. decreased secretion of saliva"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u3-q23",
@@ -768,7 +831,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: B. nerve."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u3-q24",
@@ -801,6 +867,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-action.jpg",
         "alt": "Action diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-nervous"
     ]
   },
   {
@@ -834,6 +903,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-action.jpg",
         "alt": "Action diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-nervous"
     ]
   },
   {
@@ -867,6 +939,9 @@ window.QUESTION_BANK.push(...[
         "src": "assets/human-biology-2024/u3-action.jpg",
         "alt": "Action diagram from the 2024 Human Biology exam"
       }
+    ],
+    "topicIds": [
+      "h12-nervous"
     ]
   },
   {
@@ -894,7 +969,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. blood pressure problems."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u3-q28",
@@ -921,7 +999,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: C. increased metabolism in cells"
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q29",
@@ -948,7 +1029,10 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: A. increase in osmotic pressure."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-homeostasis"
+    ]
   },
   {
     "id": "hb2024-u3-q30",
@@ -975,14 +1059,17 @@ window.QUESTION_BANK.push(...[
         "solution": "Supplied marking key: D. transfer of body fluids."
       }
     ],
-    "unit": 3
+    "unit": 3,
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u3-q31",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 31",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q31",
     "sample": false,
@@ -1024,7 +1111,14 @@ window.QUESTION_BANK.push(...[
         "alt": "Receptors diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-homeostasis",
+      "h12-disease"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q32",
@@ -1087,14 +1181,17 @@ window.QUESTION_BANK.push(...[
         "alt": "Antibody diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-disease"
+    ]
   },
   {
     "id": "hb2024-u3-q33",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 33",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q33",
     "sample": false,
@@ -1199,7 +1296,14 @@ window.QUESTION_BANK.push(...[
         "alt": "Thyroid diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-endocrine",
+      "h12-homeostasis"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q34",
@@ -1274,14 +1378,17 @@ window.QUESTION_BANK.push(...[
         "alt": "Brain diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u3-q35",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-nervous",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 35",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q35",
     "sample": false,
@@ -1338,7 +1445,14 @@ window.QUESTION_BANK.push(...[
         "alt": "Adrenal diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-endocrine",
+      "h12-homeostasis"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q36",
@@ -1380,18 +1494,21 @@ window.QUESTION_BANK.push(...[
         "alt": "Neurons diagram from the 2024 Human Biology exam"
       }
     ],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-nervous"
+    ]
   },
   {
     "id": "hb2024-u3-q37",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 37",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q37",
     "sample": false,
-    "stem": "Homeostatic processes involve nerves and hormones in maintaining the body’s internal environment within tolerance limits, through physiological and behavioural responses.\n\nBoth hormonal and nervous responses rely on receptors to maintain homeostasis.\n\nQuestions 38 and 39 are from Part A. Questions 40 and 41 are from Part B. Answer one question from Part A and one question from Part B.",
+    "stem": "Homeostatic processes involve nerves and hormones in maintaining the body’s internal environment within tolerance limits, through physiological and behavioural responses.\n\nBoth hormonal and nervous responses rely on receptors to maintain homeostasis.",
     "parts": [
       {
         "id": "a",
@@ -1424,14 +1541,22 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-homeostasis",
+      "h12-nervous",
+      "h12-endocrine"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q38",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 38",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q38",
     "sample": false,
@@ -1461,14 +1586,22 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-nervous",
+      "h12-endocrine",
+      "h12-homeostasis"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q40",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-nervous",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 40",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q40",
     "sample": false,
@@ -1491,14 +1624,21 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-nervous",
+      "h12-disease"
+    ],
+    "units": [
+      3
+    ]
   },
   {
     "id": "hb2024-u3-q41",
     "subject": "Human Biology",
     "year": 12,
     "unit": 3,
-    "topic": "h12-homeostasis",
+    "topic": "h12-mixed",
     "title": "2024 Unit 3 · Question 41",
     "source": "West Australian Test Papers · 2024 Human Biology Unit 3 · Q41",
     "sample": false,
@@ -1528,6 +1668,14 @@ window.QUESTION_BANK.push(...[
     ],
     "tables": [],
     "images": [],
-    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report."
+    "editorialNote": "Adapted into practice format. Mark allocations retained; scientific or formatting clarifications are documented in the import report.",
+    "topicIds": [
+      "h12-endocrine",
+      "h12-homeostasis",
+      "h12-disease"
+    ],
+    "units": [
+      3
+    ]
   }
 ]);
