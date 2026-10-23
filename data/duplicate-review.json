@@ -1,0 +1,68 @@
+{
+  "checkedQuestions": 418,
+  "method": "Normalised original prompt and response content; ignores option order, source labels and formatting. Near-match candidates require diagram/stimulus review.",
+  "candidates": [
+    {
+      "questions": [
+        "hb2024-u3-q14",
+        "hb2024-u3-q15"
+      ],
+      "similarity": 0.8402,
+      "exactText": false,
+      "decision": "keep_distinct: Shared temperature table, but immunity inference versus calculation of highest mean temperature."
+    },
+    {
+      "questions": [
+        "hb2020-u3-q10",
+        "hb2020-u3-q11"
+      ],
+      "similarity": 0.9963,
+      "exactText": false,
+      "decision": "keep_distinct: Different labelled structures D and E in the shared reflex-arc diagram."
+    },
+    {
+      "questions": [
+        "hb2022-u3-q5",
+        "hb2022-u3-q6"
+      ],
+      "similarity": 0.992,
+      "exactText": false,
+      "decision": "keep_distinct: Independent variable versus dependent variable; different answers."
+    },
+    {
+      "questions": [
+        "hb2022-u3-q14",
+        "hb2022-u3-q15"
+      ],
+      "similarity": 0.9,
+      "exactText": false,
+      "decision": "keep_distinct: Speed versus duration of hormonal action."
+    },
+    {
+      "questions": [
+        "hb2023-u3-q21",
+        "hb2023-u3-q22"
+      ],
+      "similarity": 0.9868,
+      "exactText": false,
+      "decision": "keep_distinct: Different labelled cells A and B in the shared immune-response diagram."
+    }
+  ],
+  "excludedRepeats": [
+    {
+      "id": "hb2022-u3-q3",
+      "duplicateOf": "hb2020-u3-q9",
+      "reason": "Near-duplicate variant of hb2020-u3-q9 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+    },
+    {
+      "id": "hb2023-u3-q28",
+      "duplicateOf": "hb2024-u3-q23",
+      "reason": "Near-duplicate variant of hb2024-u3-q23 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+    },
+    {
+      "id": "hb2023-u34-q2",
+      "duplicateOf": "hb2020-u34-q3",
+      "reason": "Near-duplicate variant of hb2020-u34-q3 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+    }
+  ]
+}

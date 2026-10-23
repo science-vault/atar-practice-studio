@@ -1,0 +1,213 @@
+{
+  "batch": "Human Biology 2020–2023",
+  "date": "2026-10-23",
+  "examKeyPairs": 8,
+  "suppliedQuestions": 323,
+  "published": 315,
+  "parts": 616,
+  "excludedRepeats": 3,
+  "heldForSourceReview": 5,
+  "layout": "Original question excerpts with native response fields; original marking-key excerpts revealed for self-assessment.",
+  "sources": [
+    {
+      "sourceId": "hb2020-u3",
+      "title": "2020 Human Biology Unit 3",
+      "files": {
+        "exam": [
+          "2020_hum_biol__unit_3.docx"
+        ],
+        "key": [
+          "2020_hum_biol__unit_3_2020_marking_guide 2.docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_hum_biol__unit_3.docx": "74da1c7a683599373637259b5f71896b4607c6bfc2ba3f289aa8190d859d7af3",
+        "2020_hum_biol__unit_3_2020_marking_guide 2.docx": "ef17ab53f52128b58f39e8aa62796a1fae18f2279b44a5bb6ce262b12e67a853"
+      },
+      "published": 41,
+      "held": []
+    },
+    {
+      "sourceId": "hb2020-u34",
+      "title": "2020 Human Biology Units 3 & 4",
+      "files": {
+        "exam": [
+          "2020_hum_biol_unit_3_and_4.docx"
+        ],
+        "key": [
+          "2020_hum_biol_unit_3_and_4_marking_guide (2).docx"
+        ]
+      },
+      "fileHashes": {
+        "2020_hum_biol_unit_3_and_4.docx": "87c41d88c57bc40b3429e533b5beb9b63d44789a5145383b67edebc2ee9a18c2",
+        "2020_hum_biol_unit_3_and_4_marking_guide (2).docx": "293b78dfcb7b6b53e94e88b90f8e447498ccbdb9ae01861ab8998c46e5bca811"
+      },
+      "published": 37,
+      "held": [
+        {
+          "id": "hb2020-u34-q6",
+          "sourceId": "hb2020-u34",
+          "originalQuestion": 6,
+          "reason": "More than one option describes blood-glucose regulation correctly (pancreatic alpha/beta-cell detection and liver modulation); key requires review."
+        },
+        {
+          "id": "hb2020-u34-q15",
+          "sourceId": "hb2020-u34",
+          "originalQuestion": 15,
+          "reason": "Keyed vaccine statement uses attenuation as a universal requirement. None of the four options is unambiguously correct; source wording requires review."
+        }
+      ]
+    },
+    {
+      "sourceId": "hb2021-u3",
+      "title": "2021 Human Biology Unit 3",
+      "files": {
+        "exam": [
+          "Past Semester 1 Exam Revision 2021.docx"
+        ],
+        "key": [
+          "Past Semester 1 Exam Marking Guide 2021.docx"
+        ]
+      },
+      "fileHashes": {
+        "Past Semester 1 Exam Revision 2021.docx": "0261c1c057c20b3c8e0b6e67ce1d92a80fae40e5a229dac392308de0beb3e548",
+        "Past Semester 1 Exam Marking Guide 2021.docx": "f38dd2beb4404b2b11176877ce31bf07c17f60566934260153378b96ff4d91ca"
+      },
+      "published": 40,
+      "held": []
+    },
+    {
+      "sourceId": "hb2021-u34",
+      "title": "2021 Human Biology Units 3 & 4",
+      "files": {
+        "exam": [
+          "2021_human_biology_units_34_exam.docx"
+        ],
+        "key": [
+          "2021_human_biology_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2021_human_biology_units_34_exam.docx": "d2fdf9968099797898cac62339a023650a978a5f37e637b5358a0429d8dd59db",
+        "2021_human_biology_units_34_marking_guide.docx": "8bedbf8634f48cd8774212652f6cddb25877e69cb79aeed00b906c4b1a6bb4b8"
+      },
+      "published": 39,
+      "held": [
+        {
+          "id": "hb2021-u34-q3",
+          "sourceId": "hb2021-u34",
+          "originalQuestion": 3,
+          "reason": "Source describes thyroid removal as treatment for hypothyroidism. Clinical premise requires correction before publication."
+        }
+      ]
+    },
+    {
+      "sourceId": "hb2022-u3",
+      "title": "2022 Human Biology Unit 3",
+      "files": {
+        "exam": [
+          "2022 Human Biology Unit 3 Exam[63].docx"
+        ],
+        "key": [
+          "2022 Human Biology Unit 3 Marking Guide[63].docx"
+        ]
+      },
+      "fileHashes": {
+        "2022 Human Biology Unit 3 Exam[63].docx": "4bdf2972a7f4eccd2aa818236d5480fc19d0ad3f5b678d7a3205d0c03385655f",
+        "2022 Human Biology Unit 3 Marking Guide[63].docx": "88072df50a94272ac0a1402579235acc3cfa6a1e0270e7939f9c9f7e32f298e3"
+      },
+      "published": 40,
+      "held": [
+        {
+          "id": "hb2022-u3-q3",
+          "sourceId": "hb2022-u3",
+          "originalQuestion": 3,
+          "duplicateOf": "hb2020-u3-q9",
+          "reason": "Near-duplicate variant of hb2020-u3-q9 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+        }
+      ]
+    },
+    {
+      "sourceId": "hb2022-u34",
+      "title": "2022 Human Biology Units 3 & 4",
+      "files": {
+        "exam": [
+          "2022_human_biology_units_3_4.docx"
+        ],
+        "key": [
+          "2022_human_biology_units_3_4_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2022_human_biology_units_3_4.docx": "a209a37993d26ab44fb1026faaab0a009ae670cba35b88574e936c044e1ac295",
+        "2022_human_biology_units_3_4_marking_guide.docx": "bacd7ef946964ff6f4a42dc1c07fd101c71bb7f435fb02f6499fe88505612c85"
+      },
+      "published": 41,
+      "held": []
+    },
+    {
+      "sourceId": "hb2023-u3",
+      "title": "2023 Human Biology Unit 3",
+      "files": {
+        "exam": [
+          "2023_human_biology_unit_3_exam.docx"
+        ],
+        "key": [
+          "2023_human_biology_unit_3_exam_marking_key.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_human_biology_unit_3_exam.docx": "36c50c4cffb19cd06a7385f845d6801547ab8801d114481480d74d1b5d515809",
+        "2023_human_biology_unit_3_exam_marking_key.docx": "f972c6f9b4b379cd9e5e26baa68b5907132ac75794d4e3abb13226f65ec438a9"
+      },
+      "published": 38,
+      "held": [
+        {
+          "id": "hb2023-u3-q4",
+          "sourceId": "hb2023-u3",
+          "originalQuestion": 4,
+          "reason": "Keyed withdrawal-reflex explanation describes direct sensory-to-motor stimulation; pathway wording requires review before publication."
+        },
+        {
+          "id": "hb2023-u3-q28",
+          "sourceId": "hb2023-u3",
+          "originalQuestion": 28,
+          "duplicateOf": "hb2024-u3-q23",
+          "reason": "Near-duplicate variant of hb2024-u3-q23 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+        }
+      ]
+    },
+    {
+      "sourceId": "hb2023-u34",
+      "title": "2023 Human Biology Units 3 & 4",
+      "files": {
+        "exam": [
+          "2023_human_biology_units_34_exam version 2.docx"
+        ],
+        "key": [
+          "2023_human_biology_units_34_marking_guide.docx"
+        ]
+      },
+      "fileHashes": {
+        "2023_human_biology_units_34_exam version 2.docx": "9ee22dc17fcfeb86ae8016f80a5e8e7716148528e952ce597334690b57c355bc",
+        "2023_human_biology_units_34_marking_guide.docx": "32d796e9b72d6ed7cf14c262e1b3452b27f0e346d08021e886193ec2d1662304"
+      },
+      "published": 39,
+      "held": [
+        {
+          "id": "hb2023-u34-q2",
+          "sourceId": "hb2023-u34",
+          "originalQuestion": 2,
+          "duplicateOf": "hb2020-u34-q3",
+          "reason": "Near-duplicate variant of hb2020-u34-q3 (same question and correct response with minor wording/distractor changes); shown once in the practice bank."
+        },
+        {
+          "id": "hb2023-u34-q26",
+          "sourceId": "hb2023-u34",
+          "originalQuestion": 26,
+          "reason": "Both mitotic non-disjunction and association with Klinefelter syndrome can be correct; source has more than one defensible option."
+        }
+      ]
+    }
+  ]
+}

@@ -2084,3 +2084,13 @@ window.QUESTION_TYPES = {
   "scientific_inquiry": "Scientific inquiry",
   "equation": "Equation / symbolic response"
 };
+
+// Cross-cutting skills found in uploaded Human Biology papers.
+for (const u of window.CURRICULUM.find(s=>s.subject==='Human Biology').years[12]) for (const t of u[2]) {
+ if(t[0]==='h12-homeostasis')t[2].push('Homeostasis and Negative Feedback');
+ if(t[0]==='h12-mixed')t[2].push('Scientific Inquiry and Data Skills');
+}
+window.SUBTOPICS['h12-homeostasis-s4']={id:'h12-homeostasis-s4',label:'Homeostasis and Negative Feedback',topicId:'h12-homeostasis',subject:'Human Biology',year:12,unit:3};
+window.SUBTOPICS['h12-mixed-s1']={id:'h12-mixed-s1',label:'Scientific Inquiry and Data Skills',topicId:'h12-mixed',subject:'Human Biology',year:12,unit:0};
+
+window.QUESTION_TYPES.multipart='Multipart';
